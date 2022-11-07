@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.file.文档/084.series.系列/series.Mattip_om/03.booklet.Vandforbrug i hjemmet.md",
-                "mode": "preview",
+                "file": "日记/2022-11-07.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.file.文档/084.series.系列/series.Mattip_om/03.booklet.Vandforbrug i hjemmet.md",
+                "file": "日记/2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.file.文档/084.series.系列/series.Mattip_om/03.booklet.Vandforbrug i hjemmet.md",
+                "file": "日记/2022-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.file.文档/084.series.系列/series.Mattip_om/03.booklet.Vandforbrug i hjemmet.md"
+                "file": "日记/2022-11-07.md"
               }
             }
           }
