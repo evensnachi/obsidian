@@ -1,0 +1,3 @@
+- #category/Dansk/ordklasse/navneord  #category/Dansk/ord/afledte_ord #category/Dansk/ord #card #category/Dansk/ordklasse/navneord/t-ord
+	- 语素
+- [[morfem]]-[[atisk]]

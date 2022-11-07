@@ -1,0 +1,2 @@
+- #category/Dansk/ord 
+    - 奇怪的

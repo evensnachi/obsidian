@@ -1,0 +1,4 @@
+- 茉莉花 Jasmin / Jasmine
+- 薰衣草 Lavendel / Lavender
+- 迷迭香 Rosmarin / Rosemary
+- 栀子花 Gardenia / Gardenia.

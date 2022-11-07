@@ -1,0 +1,3 @@
+- #card #category/Dansk/ord/udtryk
+	- 菜谱
+- [[mad]] [[opskrifter]]

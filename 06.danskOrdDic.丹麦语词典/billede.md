@@ -1,0 +1,29 @@
+#category/Dansk/ord   
+照片
+
+
+## Udtale
+[]  
+
+
+## Orderdefinition
+- [[Ordklasse词类]]
+
+### Engelsk
+- 
+
+### Kinesisk
+- 
+
+---
+
+## Ord bøjning
+- 
+
+---
+
+## 词组  
+
+
+---
+

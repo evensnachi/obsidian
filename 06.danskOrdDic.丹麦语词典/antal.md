@@ -1,0 +1,3 @@
+- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/n-ord #card #category/Dansk/ord
+	- 总数, 数量
+-

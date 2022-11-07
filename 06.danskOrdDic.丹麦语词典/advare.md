@@ -1,0 +1,3 @@
+- #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ord
+	- 警告
+-

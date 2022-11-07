@@ -1,0 +1,16 @@
+- 虎皮兰 Tiger Pilan
+- 吊兰 Chlorophytum / Klorophytum
+- 常青藤 Ivy League
+- 龟背竹 Monstera
+- 芦荟  Aloe Vera
+- 玉树
+- 长寿花 Kalanchoe
+- 仙人掌 cactus / kaktus
+- 巴西木 Brazil wood / Brasilien træ
+- 琴叶榕
+- 绿萝 green dill / grøn dild
+- 君子兰 Clivia
+- 富贵竹 Lucky Bamboo
+- 文竹 Asparagus
+- 白掌 White palm / Hvid håndflade
+- 发财树 Fortune Tree / Lykketræ

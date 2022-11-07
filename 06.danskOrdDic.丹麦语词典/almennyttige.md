@@ -1,0 +1,2 @@
+- #category/Dansk/ordklasse/tillægsord 非营利的
+- 

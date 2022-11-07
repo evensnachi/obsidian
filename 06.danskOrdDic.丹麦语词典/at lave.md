@@ -1,0 +1,6 @@
+- **Lav** den til mig! #category/Dansk/ordklasse/udsagnsord/bydeform
+- **Skal** vi **lave** en film? #category/Dansk/ordklasse/udsagnsord/infinitiv
+- Han **laver** ikke noget. #category/Dansk/ordklasse/udsagnsord/nutid
+- Jeg **lavede** den i sidste uge. #category/Dansk/ordklasse/udsagnsord/datid
+- Hvad **har** du **lavet** i dag? #category/Dansk/ordklasse/udsagnsord/førnutid
+- De **havde** ikke **lavet** den før. #category/Dansk/ordklasse/udsagnsord/førdatid

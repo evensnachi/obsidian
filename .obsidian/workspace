@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "522c5fd7090ec0f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd8d2b815f51310",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-10-16.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e250aba2febb15e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8d472e69e423ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98cf98014b0730cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "716cd547a51022ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fd2378fa717bd4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4990d95c200463c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9becf11bdedf937f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "474186d86cb73568",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "856b579fa0f2b8b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2022-10-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfee9efd0e463dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2022-10-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8232a35961c5e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc6f452f3fdb2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2022-10-16.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6bd8d2b815f51310",
+  "lastOpenFiles": [
+    "日记/2022-10-13.md",
+    "Note/概念/积累.md",
+    "Note/视频教程/英语兔/English Grammar/Word Class 词类/Verbs 动词.md",
+    "日记/2022-10-11.md",
+    "日记/2022-10-10.md",
+    "日记/2022-10-05.md",
+    "日记/2022-10-06.md",
+    "日记/2022-10-07.md",
+    "日记/2022-07-23.md",
+    "日记/2022-10-08 2.md"
+  ]
+}

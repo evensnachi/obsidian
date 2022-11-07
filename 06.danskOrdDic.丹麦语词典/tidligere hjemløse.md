@@ -1,0 +1,2 @@
+- #category/Dansk/ord 
+    - 曾经无家可归

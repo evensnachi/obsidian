@@ -1,0 +1,7 @@
+- [[spis]] lidt hurtigere!
+- jeg burde [[spise]] mere fisk.
+- han [[spiser]] lige nu.
+- han [[spiste]] for meget ost.
+- jeg har allerede [[spist]].
+- du havde lige [[spist]] en banan.
+-

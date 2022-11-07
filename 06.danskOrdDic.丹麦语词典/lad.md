@@ -1,0 +1,2 @@
+- #category/Dansk/ordklasse/udsagnsord #category/Dansk/ordklasse/udsagnsord/bydeform 
+	- 让

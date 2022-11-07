@@ -1,0 +1,3 @@
+- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/t-ord #card
+	- 纺织品
+	- 材料

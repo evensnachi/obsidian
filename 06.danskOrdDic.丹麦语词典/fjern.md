@@ -1,0 +1,3 @@
+- #category/English/wordClass/adjective #card
+	- 遥远
+	- 偏远

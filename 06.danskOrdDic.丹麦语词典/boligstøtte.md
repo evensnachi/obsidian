@@ -1,0 +1,3 @@
+- #category/Dansk/ord 
+	- Alle der bor til leje i dk kan få [[boligstøtte]]
+	- 住房补贴

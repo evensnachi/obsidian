@@ -1,0 +1,6 @@
+- **Hav** en god dag! #category/Dansk/ordklasse/udsagnsord/bydeform
+- Jeg **vil** ikke **have** mus her. #category/Dansk/ordklasse/udsagnsord/infinitiv
+- Hvad **har** du der? #category/Dansk/ordklasse/udsagnsord/nutid
+- Damen **havde** ikke så meget tid. #category/Dansk/ordklasse/udsagnsord/datid
+- Du **har haft** meget travlt. #category/Dansk/ordklasse/udsagnsord/førnutid
+- De **havde haft** den i lang tid. #category/Dansk/ordklasse/udsagnsord/førdatid

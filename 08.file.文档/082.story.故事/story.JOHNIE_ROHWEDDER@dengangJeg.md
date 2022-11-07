@@ -1,0 +1,32 @@
+- #category/Dansk 
+	- > JOHNIE ROHWEDDER, 51 ÅR PÆDAGOG
+	- > Jeg blev accepteret for den, jeg var.
+	- jeg kom i plejefamilie, fordi der var ustabilitet og svigt i mine tidlige barndomsår. 
+	  jeg boede hos familien, fra jeg var otte et halvt år, til jeg blev 19 år, men var hjemme hos min biologiske familie i ferierne. 
+	  da jag kom i plejefamilie, fandt jeg ud af, hvad det vil sige [[at være]] barn, og hvad det vil sige [[at være]] voksen.
+	-
+	-
+	-
+	-
+	- [[dengang]]
+	- [[plejefamilie]]
+		- 寄样家庭
+	- [[ustabiliter]]
+		- 不稳定
+	- [[svigt]]
+		- 背叛
+	- [[barndomsår]]
+		- 童年时代
+	- [[da]]
+		- 作为
+	- [[velfungerende]]
+	- [[bestød]]
+	- [[legekammerater]]
+	- [[strø]]
+	- [[alligevel]]
+	- [[fornemmelsen]] af
+	- [[almindelig]]
+	- [[trygheden]]
+	- [[armbevæelser]]
+	-
+	-

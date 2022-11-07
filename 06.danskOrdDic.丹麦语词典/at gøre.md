@@ -1,0 +1,6 @@
+- **Gør** det! #category/Dansk/ordklasse/udsagnsord/bydeform
+- Kan du **gøre** noget? #category/Dansk/ordklasse/udsagnsord/infinitiv
+- Han **gør** det for mig. #category/Dansk/ordklasse/udsagnsord/nutid
+- Jeg **gjorde** det i går. #category/Dansk/ordklasse/udsagnsord/datid
+- Hun **har** [[allerede]] **gjort** nok. #category/Dansk/ordklasse/udsagnsord/førnutid
+- Lægen **havde gjort** noget forkert. #category/Dansk/ordklasse/udsagnsord/førdatid

@@ -1,0 +1,2 @@
+- #category/English/wordClass/adjective #card #category/Dansk/ord
+	- 有限的

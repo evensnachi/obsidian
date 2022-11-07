@@ -1,0 +1,2 @@
+- #category/Dansk/ordklasse/navneord #card #category/Dansk/ord
+	- 场合

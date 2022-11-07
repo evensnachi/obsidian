@@ -1,0 +1,7 @@
+- [[at være]]
+- [[at gøre]]
+- [[at have]]
+- [[at lave]]
+- [[at få]]
+- [[at spise]]
+-

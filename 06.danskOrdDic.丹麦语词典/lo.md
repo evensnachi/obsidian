@@ -1,0 +1,4 @@
+- #category/Dansk/ordklasse/udsagnsord 
+	- laugh
+	- 大笑
+- [[lo med]]

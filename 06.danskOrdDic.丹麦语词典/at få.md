@@ -1,0 +1,7 @@
+- **[[få]]** den her!
+- Jeg **kan** ikke **få** nok.
+- Hvad **[[får]]** du om måneden?
+- Han **[[fik]]** vist en masse penge.
+- Du har [[fået]] noget chokolade.
+- Du havde [[fået]] chefens nummer.
+-

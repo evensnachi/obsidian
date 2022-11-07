@@ -1,0 +1,3 @@
+- #category/Dansk/ord/udtryk #card
+	- 由...组成
+	-

@@ -1,0 +1,2 @@
+- [[skrevet]] #category/Dansk/ordklasse/navneord/n-ord/flertal
+	- 书面的

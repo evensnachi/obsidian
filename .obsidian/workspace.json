@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "522c5fd7090ec0f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "970af85445f67616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341238301a9a0223",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e250aba2febb15e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8d472e69e423ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd2378fa717bd4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "98cf98014b0730cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "716cd547a51022ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#type/maker",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "4990d95c200463c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9becf11bdedf937f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "474186d86cb73568",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "856b579fa0f2b8b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfee9efd0e463dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8232a35961c5e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc6f452f3fdb2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5,
+    "collapsed": true
+  },
+  "active": "341238301a9a0223",
+  "lastOpenFiles": [
+    "README.md",
+    "日记/2022-11-06.md",
+    "03.note.笔记/note.Obsidian.插件.numberHeadings.md",
+    "03.note.笔记/note.如何记住任何你读的东西.md",
+    "03.note.笔记/note.10个学习技巧.md",
+    "Inbox/note.obsidian.YAML.md",
+    "01.topic.主题/topic.Dansk@FVU.md",
+    "03.note.笔记/note.英语语法结构@英语兔.md",
+    "01.topic.主题/topic.English@英语兔.md",
+    "模板/笔记信息模板.md"
+  ]
+}

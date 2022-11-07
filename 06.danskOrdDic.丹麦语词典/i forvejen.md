@@ -1,0 +1,3 @@
+- #category/Dansk/ord/udtryk 
+	- 提前
+	- 

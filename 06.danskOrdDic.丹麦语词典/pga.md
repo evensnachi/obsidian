@@ -1,0 +1,2 @@
+- #category/Dansk/ord  på grund af
+	- 因为

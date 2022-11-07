@@ -1,0 +1,2 @@
+- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/t-ord #card #category/Dansk/ord
+	- 小轮子

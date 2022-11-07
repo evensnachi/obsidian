@@ -1,0 +1,2 @@
+- #category/Dansk/ord/udtryk 
+	- 传播

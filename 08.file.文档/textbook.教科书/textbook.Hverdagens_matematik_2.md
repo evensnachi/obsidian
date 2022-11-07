@@ -1,0 +1,172 @@
+---
+type: note
+source: textbook
+category: Dansk matematik
+---
+
+# 3 Indkøb
+
+## Hvad betyder indkøb?
+
+At handle ind = at købe
+	jeg handler ind.  
+
+## en [[samtale]] opgave
+
+1. Den koster 11 kr. 
+2. Det koster 10 kr. Fordi $2 * 5(kr.)= 10(kr.)2∗5(kr.)=10(kr.)$
+4. Det koster 60 kr. $38+3*10=6838+3∗10=68$
+5. Det koster 58 kr.$ 20+38=5820+38=58$
+6. Det koster 60 kr. $5*12=605∗12=60$
+7. Ja. Man kan køber 6 flask Willemoes øl. $100-6*12=28100−6∗12=28$
+8. Nej. Man kan ikke køber. $100-3*38=-14100−3∗38=−14$
+9. $100 / 22 = 4 mod 18100/22=4mod18$
+10. $100 - (5 * 5) = 75100−(5∗5)=75$
+11. $100- (2 * 10)- (2*30)= 20100−(2∗10)−(2∗30)=20$
+12. 
+13. [[udgør]] [[udgiften]] til øl over 50% af den [[samlede]] pris.
+
+###### 生词
+
+**samtale**:: 对话, 面试 #category/Dansk/ordklasse/navneord/n-ord
+
+**udgør**:: 构成 #category/Dansk/ordklasse/udsagnsord/nutid
+
+**udgiften**:: 支出,花费,费用 #category/Dansk/ordklasse/navneord/n-ord/artikel
+
+**samlede**:: 累计 #category/Dansk/ordklasse/udsagnsord/datid/tillægsord
+
+
+
+## Udsalg i Daells Bolighus 
+
+### opgave 50-69
+
+50 Hvad koster er hjørneskrivebord? $1449.-$
+
+51 Hvad koster en skråreol?
+
+52 Hvor høj er en skråreol?
+
+53 Hvad koster en 3 pers. sofa? $2999.-$
+
+54 Hvor lang er en 3 pers. sofa?
+
+55 Hvad koster en 2 pers. sofa + et hvidt sofabord?
+
+56 Hvor langt er et hvidt sofabord?
+
+57 Hvilket et af de 10 møbler i reklamen er dyrest?
+
+58 Hvor mange kr. sparer man, når man køber et hjørnebord?
+
+59 Kan man købe det brune sofabord + hjørnbordet for 2000kr.
+
+60 Hvad koster en højrygget armstol?
+
+61 Hvor mange kr. sparer man, når man køber en hjørygget armstol?
+
+***
+
+# 7. Procentregning
+
+***
+
+# 9. Moms
+
+***
+
+# 10. Regneark på computeren
+
+***
+
+# Procentregning i regnearket
+
+Når du laver procentregning i regnearket, skal du bruge procenttasten % i værktøjslinjen. 
+
+Når du klikker på procenttasten, **ganger computeren med 100**. 
+
+## Eksempel: En flaske vin
+> Hvor mange % er prisen sat ned? 
+
+Normalprise: $39 + 30,95 = 69,95 (kr.)$
+Procentregning:
+$$ 
+\frac{det\ man\ sparer}{normalprisen} * 100% = \frac{30,96}{69,95} * 100% 
+$$
+
+Åbn er nyt regneark og skriv $ = 30,95 / 69,95$ i en tilfældig celle go tryk `enter`
+Sæt markøren tilbage i cellen. 
+klik 
+
+
+## Husleje
+Herunder kan du se de månedlige [[udgifter]] for leje af et rækkehus i Gladsaxe. 
+
+> december betales dette beløb ....
+> dansk [[almennyttige]] boligselskab lejemålsnummer. ....
+
+
+| | | |
+|-|-|-|
+|bolig lav|kr.|6864|
+|parkeringspladser|kr.|20|
+
+
+## Opgave
+- ![[Procentregning_i_regnearket_opgave.xlsx]]
+## ny ord
+
+- [[Procentregning]] #card 
+	- 百分比计算
+^1667224852063
+
+- [[stege prise]] #card 
+	- 价格的增长
+^1667224852066
+
+- [[yderligere]] #card 
+	- 更多
+^1667224852068
+
+- [[boligstøtte]] #card 
+	- 住房补贴
+^1667224852070
+
+- [[friplads børnehave]] #card 
+	- 免费幼儿园
+^1667224852072
+
+- [[forsikrings]] #card 
+	- 保险
+^1667224796025
+
+[[have]]::: 有
+^1667225191540
+[[vedrører]]::: 涉及 
+^1667225191543
+
+
+# Budget_i_regnearket
+
+![[Budget _i_regnearket_opgave.xlsx]]
+
+# Kapitel_11_Madopskrifter
+
+![[2022-11-04#Kapitel 12 Valuta]]
+
+# kapitel 18 Areal og omkreds
+	Hvad er areal?
+	Arealet er størrelsen på en flade, 
+
+> Eksempel: Et lille sommerhus
+
+## Omregningstabeller
+- $cm^2$ = cm i anden = kvadrat centimeter
+- $m^2$ = meter i anden = kvadrat meter
+- $m^2$ = flademål 
+
+
+
+
+

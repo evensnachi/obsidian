@@ -1,0 +1,6 @@
+- **Vær** glad! #category/Dansk/ordklasse/udsagnsord/bydeform
+- A**t være** eller ikke at være? #category/Dansk/ordklasse/udsagnsord/infinitiv
+- Jeg **er** din far. #category/Dansk/ordklasse/udsagnsord/nutid
+- Han **var** [[fantastisk]]. #category/Dansk/ordklasse/udsagnsord/datid
+- Du **har været** [[venlig]] i dag. #category/Dansk/ordklasse/udsagnsord/førnutid
+- Jeg **havde været** [[doven]] i lang tid. #category/Dansk/ordklasse/udsagnsord/førdatid

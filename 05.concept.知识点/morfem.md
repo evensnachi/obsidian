@@ -1,0 +1,4 @@
+- #category/Dansk/ordklasse/navneord #category/Dansk/ord #card #category/Dansk/ordklasse/navneord/t-ord
+- [[morfematiske]] #category/Dansk/ord/afledte_ord
+	- 语素
+	-

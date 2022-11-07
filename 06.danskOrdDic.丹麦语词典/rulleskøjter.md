@@ -1,0 +1,2 @@
+- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/n-ord #category/Dansk/ordklasse/navneord/n-ord/flertal #card #category/Dansk/ord
+	- 旱冰鞋

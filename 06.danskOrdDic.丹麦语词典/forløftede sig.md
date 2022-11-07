@@ -1,0 +1,4 @@
+- #category/Dansk/ord/udtryk 
+	- 嫁给某人
+	- [[forløftede]] [[sig]]
+	- 
