@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b18cdec14e63c980",
+        "id": "e79f37554f6102f7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6e8609ad640827",
+            "id": "21ec45c833b126c3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -150,11 +148,11 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "2d6e8609ad640827",
+  "active": "21ec45c833b126c3",
   "lastOpenFiles": [
+    "日记/2022-11-11.md",
     "Inbox/未命名.md",
     "Inbox/减掉æ就按øiæ减法øp.md",
-    "日记/2022-11-11.md",
     "模板/合并文件模板.md",
     "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_2.md",
     "日记/2022-11-10.md",
