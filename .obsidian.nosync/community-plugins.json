@@ -13,5 +13,7 @@
   "flashcards-obsidian",
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-git",
+  "obsidian-latex-suite"
 ]
