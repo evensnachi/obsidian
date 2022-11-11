@@ -1,0 +1,18 @@
+{
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "things-style@@link-decoration": "None",
+  "things-style@@link-external-decoration": "None",
+  "things-style@@default-font-color": true,
+  "blue-topaz-theme@@magic-main-color@@light": "#4C42F61C",
+  "blue-topaz-theme@@background-settings-workplace-random": true,
+  "blue-topaz-theme@@blur-depth": 10,
+  "a-unique-id@@the-color": "#689866",
+  "sanctum@@active-line-accent": "var(--background-hover)",
+  "sanctum@@code-lines": true,
+  "sanctum@@code-label": true,
+  "sanctum@@code-border": true,
+  "sanctum@@syntax-highlighting": "dracula",
+  "sanctum@@tag-border-width": "1px",
+  "sanctum@@heading-outline": "heading-counter-1"
+}

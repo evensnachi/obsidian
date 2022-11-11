@@ -1,4 +1,4 @@
-#type/note #category/Dansk/matematik 
+#type/note #matematik 
 
 # Kapitel 6 km-m-cm-mm
 > Afstande samt højde, længde og bredde måler man i kilometer(km), meter(m), centimeter(cm) og millimeter(mm). 

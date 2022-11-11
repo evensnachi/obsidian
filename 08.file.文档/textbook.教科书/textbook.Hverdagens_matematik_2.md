@@ -153,7 +153,77 @@ Herunder kan du se de månedlige [[udgifter]] for leje af et rækkehus i Gladsax
 
 # Kapitel_11_Madopskrifter
 
-![[2022-11-04#Kapitel 12 Valuta]]
+
+# Kapitel 12 Valuta
+
+## Kebab.House i London
+
+I England betaler man med pund(£). Brug kursen fra kurslisten på side 69, når du laver opgaverne. 
+
+12. Hvad koster en "Shish Kebab Small" omregnet til danske kr.?
+    $£4,95 * 8,7629 ≈ DKK43,38$
+
+13. Hvad koster en "$1/4$ Pounder Burger" + en dåse sodavand omregnet til danske kr.?
+    $(£3,00 + £0,7) * 8,7629 ≈ DKK32,43$
+
+14. Hvad koster to "Mixed Doner Large" + en flaske sodavand omregnet til danske kr.?
+    $(£6,90 + £1,80) * 8,7629 ≈ DKK 76,24$
+omregnet:: =ændre 另外的
+
+15. Kan fire unge mennesker spise på kebab-House for under 200 danske kr. i alt, hvis de også skal have noget at drikke til maden?
+    Ja, det kan de.
+    $$
+    \begin{align}
+    DKK200 / 4 = DKK50 \\
+    DKK50 / 8,7629 ≈ £5,71 \\
+    en\ dåse\ sodavand\ koster £0,7 \\
+    £5,71 - £0,7 = £5,01 \\
+    \end{align}
+    $$
+
+16. Man kan købe 4 forskellige Kebabs SMALL for under 100 danske kr. 
+    Nej. 
+    $
+    \begin{align}
+    DKK100 / 8,7629 ≈ £11,41 \\
+    £11,41 - £3,20 - £3,90 - £4,40 - £4,40 = £-4,48 \\
+    \end{align}
+    $
+
+17. Man kan købe 4 forskellige burgere for under 100 kanske kr. 
+    Jeg
+    $
+    \begin{align}
+    DKK100 / 8,7629 ≈ £11,41 \\
+    £11,41 - £3,00 -£3,20 \\
+    \ens{align}
+    $
+
+1. Hvis man køber sodavand i 1$\frac{1}{2}$- liters flasker, er liter-prisen ca. 10 danske kroner.
+    $
+    \begin{align}
+    150cl = £1,8\\
+    1cl = £0,012\\
+    100cl = £1,2 ≈ DKK 10,52\\
+    \end{align}
+    $
+
+19. Sammensæt en menu til to voksne og to børn med mad + drikkevarer, som højst koster 300 danske kr. i alt? Bestilling:
+    $
+    \begin{align}
+    DKK300 / 8,77 = 34,21
+    \end{align}
+    $
+    - 
+1. Vælg den mad + drikkevarer, som du selv ville købe.
+2. Lav en **tommelfingerregel**, så det er let at omregne engelske pund
+
+
+
+---
+来源日记: [[2022-11-05]]
+移动日期: 08-11-2022
+---
 
 # kapitel 18 Areal og omkreds
 	Hvad er areal?
@@ -165,8 +235,4 @@ Herunder kan du se de månedlige [[udgifter]] for leje af et rækkehus i Gladsax
 - $cm^2$ = cm i anden = kvadrat centimeter
 - $m^2$ = meter i anden = kvadrat meter
 - $m^2$ = flademål 
-
-
-
-
 

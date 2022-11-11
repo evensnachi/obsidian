@@ -1,2 +1,5 @@
-释义:: 定期
-变位::
+---
+aliases: 
+---
+#type/dictionary #category/Dansk/ordklasse/biord 
+- 有规律的

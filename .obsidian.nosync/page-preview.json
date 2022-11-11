@@ -1,3 +1,8 @@
 {
-  "preview": true
+  "search": false,
+  "editor": false,
+  "tag-wrangler:tag-pane": false,
+  "file-explorer": false,
+  "graph": false,
+  "starred": false
 }

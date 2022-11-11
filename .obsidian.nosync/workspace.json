@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cda34f4fc69f8eff",
+        "id": "b18cdec14e63c980",
         "type": "tabs",
         "children": [
           {
-            "id": "bab97292caafc8fe",
+            "id": "2d6e8609ad640827",
             "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书籍/mattip_om-vandforbrug_i_hjemmet.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "970af85445f67616",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "341238301a9a0223",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-07.md",
+                "file": "日记/2022-11-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -74,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type/maker",
+                "query": "tag:#category",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-07.md",
+                "file": "日记/2022-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-07.md",
+                "file": "日记/2022-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,29 +138,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-07.md"
+                "file": "日记/2022-11-11.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 349.5,
     "collapsed": true
   },
-  "active": "341238301a9a0223",
+  "active": "2d6e8609ad640827",
   "lastOpenFiles": [
-    "日记/2022-11-03.md",
-    "08.file.文档/084.series.系列/series.Mattip_om/03.booklet.Vandforbrug i hjemmet.md",
-    "日记/2022-11-02.md",
-    "书籍/mattip_om-vandforbrug_i_hjemmet.pdf",
-    "日记/2022-11-07.md",
-    "README.md",
-    "日记/2022-11-06.md",
-    "03.note.笔记/note.Obsidian.插件.numberHeadings.md",
-    "03.note.笔记/note.如何记住任何你读的东西.md",
-    "03.note.笔记/note.10个学习技巧.md"
+    "Inbox/未命名.md",
+    "Inbox/减掉æ就按øiæ减法øp.md",
+    "日记/2022-11-11.md",
+    "模板/合并文件模板.md",
+    "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_2.md",
+    "日记/2022-11-10.md",
+    "Inbox/stress-timed language.md",
+    "Inbox/isochrony.md",
+    "Inbox/syllable-timed language.md",
+    "Inbox/rhythm.md"
   ]
 }

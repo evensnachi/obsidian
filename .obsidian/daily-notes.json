@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "日记",
+  "template": "模板/Dairy_日记模板",
+  "autorun": true
+}

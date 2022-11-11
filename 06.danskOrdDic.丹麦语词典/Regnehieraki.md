@@ -1,4 +1,4 @@
-tags:: #card #type/concept #category/Dansk/matematik
+tags:: #card #type/concept #matematik
 词性::  #category/Dansk/ordklasse/navneord 
 释义::  运算优先级
 单词变位:: 

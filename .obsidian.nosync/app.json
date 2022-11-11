@@ -39,10 +39,11 @@
   "showFrontmatter": false,
   "showUnsupportedFiles": true,
   "readableLineLength": true,
-  "useTab": false,
+  "useTab": true,
   "fileSortOrder": "byModifiedTime",
   "foldHeading": true,
   "foldIndent": true,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "rightToLeft": false
 }

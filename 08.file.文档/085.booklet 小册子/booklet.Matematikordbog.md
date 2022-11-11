@@ -5,7 +5,7 @@
 | [[halver]]  v. 减半 | at halvere / at dele / at dividere med 2 | en portion sushi til 8 personer skel halvere lige som til 4 personer. |  
 | [[mindre]] adj. 小于 | Når noget er mindre i forhold til noget andet | Den biler mindre end den bil.  |  
 | [[større]]  adj. 大于 | Det modsatte af mindre | | 
-| [[regelmæssigt]]  重复 | |  
+| [[Regelmæssig]]  重复 | |  
 | [[gentagelser]] 重复 | |  
 | [[færre]]  少于 | |
 | [[aflæs]]  读出 | | aflæs uret / aflæs grafen / aflæs gennemsnits vægten | 
