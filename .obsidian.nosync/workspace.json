@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e79f37554f6102f7",
+        "id": "6e1e23b3229af50a",
         "type": "tabs",
         "children": [
           {
-            "id": "21ec45c833b126c3",
+            "id": "fba43f6bfd333d15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-11.md",
+                "file": "Inbox/-lig.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-11.md",
+                "file": "Inbox/-lig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-11.md",
+                "file": "Inbox/-lig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-11.md"
+                "file": "Inbox/-lig.md"
               }
             }
           }
@@ -148,17 +149,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "21ec45c833b126c3",
+  "active": "fba43f6bfd333d15",
   "lastOpenFiles": [
-    "日记/2022-11-11.md",
+    "Inbox/gennemsnitlig.md",
+    "Inbox/gennemsnit.md",
+    "Inbox/booklet.Mattip_Om.Statistik 3.md",
+    "日记/2022-11-12.md",
+    "Inbox/202211120717.md",
+    "Inbox/an.md",
+    "Inbox/Anki.md",
     "Inbox/未命名.md",
-    "Inbox/减掉æ就按øiæ减法øp.md",
-    "模板/合并文件模板.md",
-    "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_2.md",
-    "日记/2022-11-10.md",
-    "Inbox/stress-timed language.md",
-    "Inbox/isochrony.md",
-    "Inbox/syllable-timed language.md",
-    "Inbox/rhythm.md"
+    "日记/2022-11-11.md",
+    "Inbox/减掉æ就按øiæ减法øp.md"
   ]
 }

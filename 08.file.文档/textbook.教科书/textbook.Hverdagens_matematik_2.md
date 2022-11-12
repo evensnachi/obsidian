@@ -236,3 +236,36 @@ omregnet:: =ændre 另外的
 - $m^2$ = meter i anden = kvadrat meter
 - $m^2$ = flademål 
 
+
+
+# Kapitel 13 Gennemsnit
+
+**Gennemsnit** er et **tal**, der ligger lige i midten af alle de tal, som man arbejder med. 
+
+Når man kender alderen på hver person i **en gruppe mennesker**, kan man beregne **gennemsnitsalderen**. De gamle
+
+### Cola 33 cl
+
+**Cola på dåse 33 cl** findes i mange varianter til forskellige priser.
+I skemaet herunder kan du se prisen på forskellige slags colaer i flere forskellige forretninger.
+Alle priser er fra februar 2020.
+
+39. $10.00 kr. - 2,08 kr. = 7,92$
+40. $102,03 / 18 = 5,67$
+41. $14,48/4=3,62$
+42. Hvad er gennemsnitsprisen for cola i skemaet, hvis man kun medregner de cola-dåser, som købes enkeltvis: 
+    $59,85/6=51,52$
+43. $(7,00-3,29)/7,00=3,71/7=0,53*100\%=53\%$
+
+### Familiebillede d. 10.april 2007
+
+44. $17år$
+45. $57år$
+46. $308/8=38,5$
+47. $1,98$
+48. $1,72$
+49. $14,45/8=1,80$
+50. Nej. $217/4=54,25$
+51. Ja. $7/4=1,75$
+
+Pelle e-mali:: Pebp@sde.dk
