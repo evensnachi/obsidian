@@ -1,6 +1,6 @@
 # Statistik 3
 
-I dette forløb skal du vise. at du kan finde [[gennemsnit]]
+I dette forløb skal du vise. at du kan finde [[gennemsnit|gennemsnittet]] af [[forskellig]] [[mængde|mængder]]. Du skal også arbejde med [[median|medianer]], [[typetal]] og [[hyppighedstabel]]
 
 1. 
 	1. beregner alle tal som og dividere med hvor mange tal vi har. 

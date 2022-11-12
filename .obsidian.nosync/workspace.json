@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/gennemsnit.md",
+                "file": "Inbox/hyppig.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/gennemsnit.md",
+                "file": "Inbox/hyppig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/gennemsnit.md",
+                "file": "Inbox/hyppig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/gennemsnit.md"
+                "file": "Inbox/hyppig.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "fba43f6bfd333d15",
   "lastOpenFiles": [
-    "Inbox/gennemsnitlig.md",
-    "Inbox/-lig.md",
-    "Inbox/gennemsnit.md",
+    "Inbox/hyppighed.md",
+    "Inbox/-hed.md",
+    "Inbox/højhed.md",
+    "Inbox/hyppighedstabel.md",
+    "Inbox/tabel.md",
     "Inbox/booklet.Mattip_Om.Statistik 3.md",
-    "日记/2022-11-12.md",
-    "Inbox/202211120717.md",
-    "Inbox/an.md",
-    "Inbox/Anki.md",
-    "Inbox/未命名.md",
-    "日记/2022-11-11.md"
+    "Inbox/typetal.md",
+    "Inbox/median.md",
+    "Inbox/mængde.md",
+    "Inbox/forskellig.md"
   ]
 }
