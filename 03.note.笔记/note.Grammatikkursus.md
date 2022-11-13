@@ -22,8 +22,9 @@ For de fleste voksne danskere [[volder]] det fonematiske princip ikke de store p
 
 # Vokaltrappen
 
-Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som tidligere nævnt opdeler vi vores ord i lydrette og 
-***
+Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som tidligere nævnt opdeler vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose,ål.
+
+
 
 # Lange og Korte vokaler
 
