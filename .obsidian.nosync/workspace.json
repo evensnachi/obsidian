@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.note.笔记/note.Grammatikkursus.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.note.笔记/note.Grammatikkursus.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.note.笔记/note.Grammatikkursus.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.note.笔记/note.Grammatikkursus.md"
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "b7c1b0a4ef11b73b",
   "lastOpenFiles": [
+    "Inbox/未命名.md",
+    "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
     "日记/2022-11-13.md",
     "Inbox/booklet.Mattip_Om.Statistik 3.md",
     "Inbox/i tvivl om.md",
@@ -158,8 +160,6 @@
     "Inbox/hyppighedstabel.md",
     "Inbox/tabel.md",
     "Inbox/hyppighed.md",
-    "Inbox/hyppig.md",
-    "Inbox/-hed.md",
-    "Inbox/højhed.md"
+    "Inbox/hyppig.md"
   ]
 }
