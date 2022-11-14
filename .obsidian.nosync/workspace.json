@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "daaa468e5e087c5d",
+            "id": "b63bc3458f1339c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/styr.md",
+                "file": "Inbox/nævnt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/styr.md",
+                "file": "Inbox/nævnt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/styr.md",
+                "file": "Inbox/nævnt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/styr.md"
+                "file": "Inbox/nævnt.md"
               }
             }
           }
@@ -165,17 +165,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "daaa468e5e087c5d",
+  "active": "b63bc3458f1339c9",
   "lastOpenFiles": [
     "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "Inbox/opdeler.md",
+    "Inbox/nævne.md",
+    "Inbox/tidlig.md",
     "Inbox/styr.md",
     "Inbox/virkelig.md",
     "Inbox/redskab.md",
     "Attachment/image.jpg",
     "日记/2022-11-14.md",
-    "Inbox/re-.md",
-    "Inbox/-skab.md",
-    "Inbox/på ny.md",
-    "Inbox/red.md"
+    "Inbox/re-.md"
   ]
 }

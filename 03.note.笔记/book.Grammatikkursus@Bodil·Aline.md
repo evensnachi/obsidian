@@ -23,7 +23,7 @@ Det fonematiske princip [[bygger på]] , at der til hver [[betydningsadskillende
 
 # Vokaltrappen
 
-Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som tidligere nævnt opdeler vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose, ål.
+Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som [[tidlig|tidligere]] [[nævnt]] [[opdeler]] vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose, ål.
 
 Vokalerne kalder vi også for selvlyde, de kan stå alene (for sig selv) og danne et helt ord. F.eks. : Jeg bor **i** Danmark. Vi bor på en *ø*. Jeg svømmer i en **å**. 
 
