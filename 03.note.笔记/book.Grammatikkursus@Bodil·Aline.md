@@ -44,6 +44,31 @@ Umiddelbart ser det ud til, at A kun er i familie med sig selv. Men vi har fakti
 
 A udtales med fortungen, vores læbestilling er rundet og mundens åbningsgraden er lav.
 
+## familie: I - E - Æ
+
+Reglen i vokaltrappen er, at når vi læser et ord, går vi et trin ned ad trappen, når vi staver, går vi et trin op. Tag f.eks. ordet: *ind*. Når vi udtaler det, lyder *i* 'et som et*e*, vi er altså gået et trin ned til *e* for at udtale ordet, når vi skal stave det, skal vi gå tilbage til vores udgangspunkt. På samme måde gør vi med f.eks. ordet: *hest*. Vi udtaler det med et *æ*, menstaver det med et *e*. 
+
+I-E-Æ udtales med fortungen, vores læbestilling er urundet og mundens åbningsgrad går fra lav via mellem til høj. 
+
+## familie: Y-Ø
+
+Tag f.eks. ordet: *smykke*. når vi udtaler det, går vi et trin ned af trappen til ø, når vi staver det, skal vi gå tilbage til vores udgangspunkt. 
+
+Y og Ø udtales også med fortungen, vores læbestilling er rundet og mundens åbningsgrad går fra mellem til høj.
+
+## familie U-O-Å
+
+Vær her opmærksom på, at U kan springe 2 trin ned i vores udtale (som det eneste). Hvis vi skal udtale ordet: smukke springer vi helt ned til å, og husk selvfølgelig i stavning at gå 2 trin tilbage til vores udgangspunkt. 
+
+U-O-Å udtales med bagtungen, vores læbestilling er rundet og mundens åbningsgrad går fra lav via mellem til høj.
+
+## Tre ekstra lyde
+
+Du er allerede blevet bekendt med, at A kan have to forskellige lyde. Nu vil jeg gøre dig opmærksom på, at vi har to ekstra lyde, som vi bruger hele tiden: Øh-lyd og Åh-lyd.
+
+Øh-lyden bruger vi, når vi udtale ord, der slutter på -e. Prøv at udtale ordet: *komme*, *svømme*. 
+
+E'et er tryksvagt og udtales derfor "øh". 
 
 
 # Lange og Korte vokaler

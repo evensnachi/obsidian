@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/booklet.Mattip_Om.Statistik 3.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -45,8 +45,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#type/note",
-            "matchingCase": true,
+            "query": "Grammatikku",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/booklet.Mattip_Om.Statistik 3.md",
+            "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/booklet.Mattip_Om.Statistik 3.md",
+            "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/booklet.Mattip_Om.Statistik 3.md"
+            "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md"
           }
         }
       }
@@ -132,15 +132,15 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
-    "Inbox/hyppighedstabel.md",
+    "日记/2022-11-13.md",
     "Inbox/booklet.Mattip_Om.Statistik 3.md",
+    "Inbox/hyppighedstabel.md",
     "Inbox/mængde.md",
     "日记/2022-11-12.md",
     "日记/2022-11-11.md",
     "Inbox/gennemsnit.md",
     "03.note.笔记/note.Grammatikkursus.md",
     "06.danskOrdDic.丹麦语词典/førtidspension.md",
-    "06.danskOrdDic.丹麦语词典/bærbare.md",
-    "03.note.笔记/note.Breve_trin_for_trin_1@FVU.md"
+    "06.danskOrdDic.丹麦语词典/bærbare.md"
   ]
 }
