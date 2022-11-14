@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4ff3bd4b4043df41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/re-.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/re-.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/re-.md",
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/re-.md"
+                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md"
               }
             }
           }
@@ -165,17 +151,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "4ff3bd4b4043df41",
+  "active": "b7c1b0a4ef11b73b",
   "lastOpenFiles": [
+    "Inbox/re-.md",
     "Inbox/redskab.md",
     "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "Inbox/-skab.md",
+    "Inbox/på ny.md",
     "Inbox/red.md",
     "Inbox/skab.md",
     "Inbox/virkelig.md",
     "Inbox/virke.md",
-    "日记/2022-11-13.md",
-    "Inbox/未命名.md",
-    "Inbox/booklet.Mattip_Om.Statistik 3.md",
-    "Inbox/i tvivl om.md"
+    "日记/2022-11-13.md"
   ]
 }
