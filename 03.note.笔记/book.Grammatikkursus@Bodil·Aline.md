@@ -68,10 +68,25 @@ Du er allerede blevet bekendt med, at A kan have to forskellige lyde. Nu vil jeg
 
 Øh-lyden bruger vi, når vi udtale ord, der slutter på -e. Prøv at udtale ordet: *komme*, *svømme*. 
 
-E'et er tryksvagt og udtales derfor "øh". 
+E'et er tryksvagt og udtales derfor "øh". Det er ikke, fordi vi ikke kan udtale *e* med tryk op, prøv f.eks. at udtales ordet *idé*. Her udtaler vi e'et trykstærkt. Men som oftest udtaler vi helst e'et tryksvagt, hvorfor øh-lyden oftebliver sagt. 
+
+Åh-lyden bruger vi, når vi udtaler ord, der slutter på -er. Prøv at udtale ordet: *kommer*, *svømmer*. Her har vi også en tryksvag endelse, desværre er det lige meget om der står *-er* eller *-re*, lyden bliver den samme. Prøv at udtale: *mere* eller *tømrere*, hvor du kun kan køre endelsen som åh-lyden. 
+
+## Sprog fif !
+
+Har du dansk som andetsprog, skal du være meget opmærksom på at lære udtalen på de danske vokaler. Når først du mestrer dem og kan skille dem fra hinanden, vil arbejdet med lydrette ord blive ganske nemt. Husk endvidere: i lydrette ord er der ingen dobbeltkonsonanter eller stumme bogstaver. Du skal skrive alle de bogstaver, du hører, hverken mere eller mindre. 
 
 
 # Lange og Korte vokaler
+
+Som du lige har lært, sker der tit forvekslinger mellem de forskellige vokaler, dog altid kun inden for samme "familie". Når der sker en forveksling, arbejder vi med en kort vokal. 
+
+Vi kan opdele vokalerne i to grupper: 
+
+| **Lange vokaler** | **Korte vokaler** |
+| ----------------- | ----------------- |
+| lydrette          | Ikke lydrette     |
+|                   |                   |
 
 > 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
 > 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 
