@@ -29,7 +29,7 @@ Vokalerne kalder vi også for selvlyde, de kan stå alene (for sig selv) og dann
 
 Som du kan se i skemaet, bliver vokalerne opdelt i fire familier, Det gør de, fordi vokalerne inden for samme familie lydligt ligger meget tæt, vi producerer lydene med samme mundstilling, den eneste forskel er, at vi åbner munden mere og mere, og derfor har de en tendens til at blive forvekslet.
 
-
+![[IMG_1382.jpeg]]
 
 
 Husk! Vokalerne kan skifte, ved læsning går udtalen et trin ned. Ved stavning går de et trin op. 
@@ -81,16 +81,24 @@ Som du lige har lært, sker der tit forvekslinger mellem de forskellige vokaler,
 
 Vi kan opdele vokalerne i to grupper: 
 
-| **Lange vokaler** | **Korte vokaler** |
-| ----------------- | ----------------- |
-| lydrette          | Ikke lydrette     |
-|                   |                   |
+|               **Lange vokaler**               |               **Korte vokaler**               |
+|:---------------------------------------------:|:---------------------------------------------:|
+|                 ==lydrette==                  |               ==Ikke lydrette==               |
+|   Ordet skrives med den vokal, du kan høre    | Ordet skrives ikke med den vokal, du kan høre |
+| Vokalen efterfølges altid kun af en konsonant | Vokalen efter følges af mindst 2 konsonanter  |
+|        **konsonant-vokal- konsonant**         |    **konsonant-vokal-konsonant-konsonant**    |
+|                     *is*                      |                     *ind*                     |
+|                     *bil*                     |                    *bedre*                    |
+|                   *vitamin*                   |                    *vidst*                    |
 
-> 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
-> 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 
-> 参见: Vokaltrappen 
-> [[ung]] = u -> [å] / ng -> [ŋ]  
-> seks = e -> [æ]  
+> Vi kan altså samle sammen og konkludere følgende: 
+> 
+
+ - 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
+ - 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 
+ - 参见: Vokaltrappen 
+ - [[ung]] = u -> [å] / ng -> [ŋ]  
+ - seks = e -> [æ]  
 
 
 	注意: 名词后面要加定冠词来看发音, 如果需要双写辅音加定冠词的, 要视为后接双辅音的.
