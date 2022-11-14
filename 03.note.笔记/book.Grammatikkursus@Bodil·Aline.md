@@ -29,9 +29,7 @@ Vokalerne kalder vi også for selvlyde, de kan stå alene (for sig selv) og dann
 
 Som du kan se i skemaet, bliver vokalerne opdelt i fire familier, Det gør de, fordi vokalerne inden for samme familie lydligt ligger meget tæt, vi producerer lydene med samme mundstilling, den eneste forskel er, at vi åbner munden mere og mere, og derfor har de en tendens til at blive forvekslet.
 
-i -> e -> æ -> a -> a: 
-y -> ø 
-u -> o -> å -> ɔ
+
 
 
 Husk! Vokalerne kan skifte, ved læsning går udtalen et trin ned. Ved stavning går de et trin op. 

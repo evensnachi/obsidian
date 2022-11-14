@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -153,15 +152,15 @@
   },
   "active": "b7c1b0a4ef11b73b",
   "lastOpenFiles": [
+    "Attachment/image.jpg",
+    "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-11-14.md",
     "Inbox/re-.md",
     "Inbox/redskab.md",
-    "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
     "Inbox/-skab.md",
     "Inbox/på ny.md",
     "Inbox/red.md",
     "Inbox/skab.md",
-    "Inbox/virkelig.md",
-    "Inbox/virke.md",
-    "日记/2022-11-13.md"
+    "Inbox/virkelig.md"
   ]
 }

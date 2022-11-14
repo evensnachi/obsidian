@@ -26,8 +26,8 @@
     "editor:redo",
     "editor:fold-all",
     "editor:unfold-all",
-    "editor:context-menu",
     "note-composer:extract-heading",
+    "editor:context-menu",
     "editor:configure-toolbar"
   ],
   "pdfExportSettings": {
