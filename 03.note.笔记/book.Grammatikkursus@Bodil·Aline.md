@@ -17,7 +17,7 @@ Det fonematiske princip [[bygger på]] , at der til hver [[betydningsadskillende
 
 ## Det morfematiske
 
-I det morfematiske princip finder vi ord, som ikke er lydrette. Dette princip bygger på, at det [[enkelte]] morfem [[bevarer]] sin [[stavemåde]] , [[selvom]] det i en ny [[sammenhæng]] udtales [[anderledes]] . Princippet sikrer [[dermed]] en vis [[enshed]] i ordenes stavemåde. i denne gruppe finder vi alle ikke-lydrette ord, som f.eks. sagde, havde, slot og temmelig, her bliver vi ofte overraskede, når vi læser (eller staver) ordene, fordi hvert bogstavs lyd ikke udtales. Land: her er d’et [[stumt]] og udtalen lyder som “lan”. Havde; her er v’et stumt udtalen lyder som “hade”. Slot: vokalen skifter karakter og udtales som å “slåt”. Temmelig: igen vokalskifte, det er [[endvidere]] svært at høre de to m’er (dobbel-konsonanterne) “tæmelig”. For de fleste voksne danskere [[volder]] det fonematiske princip ikke de store problemer, [[hvorimod]] vi ofte [[falder]] i det morfematiske princips mange [[fælder]] .
+- I det morfematiske princip finder vi ord, som ikke er lydrette. Dette princip [[bygger på]], at det [[enkelte]] morfem [[bevarer]] sin [[stavemåde]] , [[selvom]] det i en ny [[sammenhæng]] udtales [[anderledes]] . Princippet sikrer [[dermed]] en vis [[enshed]] i ordenes stavemåde. i denne gruppe finder vi alle ikke-lydrette ord, som f.eks. sagde, havde, slot og temmelig, her bliver vi ofte overraskede, når vi læser (eller staver) ordene, fordi hvert bogstavs lyd ikke udtales. Land: her er d’et [[stumt]] og udtalen lyder som “lan”. Havde; her er v’et stumt udtalen lyder som “hade”. Slot: vokalen skifter karakter og udtales som å “slåt”. Temmelig: igen vokalskifte, det er [[endvidere]] svært at høre de to m’er (dobbel-konsonanterne) “tæmelig”. For de fleste voksne danskere [[volder]] det fonematiske princip ikke de store problemer, [[hvorimod]] vi ofte [[falder]] i det morfematiske princips mange [[fælder]] .
 
 	在语素原理中我们发现单词并不听写一致. 这个原理建立在, 个别的音素保持了自己的拼写模式, 尽管它在一个新的字母组合里发音并不一致. 原理确保像这样一个在单词拼写模式上的某种一致性. 这组单词是我们找到的听写不一致的单词, 例如: 说过, 有过,
 
@@ -92,7 +92,11 @@ Vi kan opdele vokalerne i to grupper:
 |                   *vitamin*                   |                    *vidst*                    |
 
 > Vi kan altså samle sammen og konkludere følgende: 
-> 
+> Indeholder et ord to konsonanter efter hinanden, skal du være på vagt over for vokalen foran.
+> - Høres en kort vokallyd:et trin op ad trappen, når du skal stave ordet.
+> - Høres en lang og tydelig vokallyd: ordet skrives medden vokal, der høres.
+
+
 
  - 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
  - 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 

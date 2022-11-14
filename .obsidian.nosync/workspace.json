@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "daaa468e5e087c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/styr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/styr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/styr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md"
+                "file": "Inbox/styr.md"
               }
             }
           }
@@ -150,17 +165,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "b7c1b0a4ef11b73b",
+  "active": "daaa468e5e087c5d",
   "lastOpenFiles": [
-    "Attachment/image.jpg",
     "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "Inbox/styr.md",
+    "Inbox/virkelig.md",
+    "Inbox/redskab.md",
+    "Attachment/image.jpg",
     "日记/2022-11-14.md",
     "Inbox/re-.md",
-    "Inbox/redskab.md",
     "Inbox/-skab.md",
     "Inbox/på ny.md",
-    "Inbox/red.md",
-    "Inbox/skab.md",
-    "Inbox/virkelig.md"
+    "Inbox/red.md"
   ]
 }
