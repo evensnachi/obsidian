@@ -55,7 +55,7 @@ $$
 ### d)
 
 $$
-8 / 12 = \frac{3}{4}
+8 / 12 = \frac{2}{3}
 $$
 
 ## Opgave 3 Forsikringsrabatter

@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2106eab5aafa8c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/end.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/end.md",
+                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/end.md",
+                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/end.md"
+                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md"
               }
             }
           }
@@ -165,8 +151,9 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "2106eab5aafa8c91",
+  "active": "b63bc3458f1339c9",
   "lastOpenFiles": [
+    "Inbox/end.md",
     "Inbox/booklet.mattip.Tag trygt på ferie.md",
     "Inbox/nærme sig.md",
     "Inbox/endnu.md",
@@ -175,7 +162,6 @@
     "Inbox/sikrer sig.md",
     "模板/笔记信息模板.md",
     "Inbox/笔记重组模板.md",
-    "日记/2022-11-16.md",
-    "日记/2022-11-15.md"
+    "日记/2022-11-16.md"
   ]
 }
