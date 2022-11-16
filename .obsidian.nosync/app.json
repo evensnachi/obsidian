@@ -44,7 +44,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "autoPairBrackets": true,
-  "autoPairMarkdown": true,
+  "autoPairMarkdown": false,
   "rightToLeft": false,
   "vimMode": false
 }
