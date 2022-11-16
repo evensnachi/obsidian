@@ -83,7 +83,7 @@ Da familien lander i lufthaven på Rhodos, skal de først have fundet deres baga
 De to kufferter finder de hurtigt på bagagebåndet, men den sidste kuffert dukker ikke op. Mor hen vender sig i informationen, dat de kan sem at der ikke længere kører kufferter på båndet. Personalet i lufthaven får mors nummer og hotelnavn, så de kan henvende sig til hende, når de finder ud af, hvor kufferten er blevet af.
 
 ### a) 
-Da det desværre er mors kuffert, der ikke er dukket op, er hun nødt til at købe noget ekstra undertøj, et par t-shirts og et par shorts, da de er kommet på plads på hotellet. Mor handler for 149
+Da det desværre er mors kuffert, der ikke er dukket op, er hun nødt til at købe noget ekstra undertøj, et par t-shirts og et par shorts, da de er kommet på plads på hotellet. Mor handler for 149 Euro. Hvor mange penge er det i danske kr. , hvis kursen for en Euro er 7,54 kr. ? 
 
 $$
 149 * 7,54 = 1.123,46
@@ -94,7 +94,7 @@ $$
 ### b) 
 
 $$
-1.147 * 3 = 3.441
+1.123,47 * 3 = 3.370,38
 $$
 
 ### c) 
@@ -112,7 +112,7 @@ $$
 ### e)
 
 $$
-
+1.147 * 2 = 2.294
 $$
 
 ### f)
