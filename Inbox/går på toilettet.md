@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#type/dictionary #category/Dansk/ord/udtryk 
+#dictionary #udtryk 
 
 - 去厕所

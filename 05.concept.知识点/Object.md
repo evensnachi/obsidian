@@ -1,5 +1,5 @@
 ---
-tags: type/dictionary, category/English/grammar/PartsOfSpeech
+tags: dictionary, category/English/grammar/PartsOfSpeech
 aliases: 
     - 宾语
     - objekt

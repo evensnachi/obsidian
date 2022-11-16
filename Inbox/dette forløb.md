@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#type/dictionary #category/Dansk/ord/udtryk 
+#dictionary #udtryk 
 
 [[denne|dette]] [[forløb]]
 

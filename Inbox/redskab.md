@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#type/dictionary 
+#dictionary 
 - [[re-|red-]][[-skab]]: 
 
 		具有再次使用的功能的东西

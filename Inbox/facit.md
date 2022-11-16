@@ -1,5 +1,5 @@
 ---
 aliases: 
 ---
-#type/dictionary 
+#dictionary 
 - 结论

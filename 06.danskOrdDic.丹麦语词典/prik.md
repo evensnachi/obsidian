@@ -1,4 +1,4 @@
-#type/dictionary #category/Dansk/ord
+#dictionary #category/Dansk/ord
 #category/Dansk/ordklasse/navneord/n-ord 小圆点
 - [[prikken]]
 - [[prikker]] ^df7172

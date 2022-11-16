@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#type/dictionary 
+#dictionary 
 #category/Dansk/ordklasse/tillægsord 
 
 	- 提到的

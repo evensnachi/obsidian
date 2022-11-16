@@ -1,2 +1,2 @@
-#type/dictionary #category/English/phrase
+#dictionary #category/English/phrase
 与... 相同

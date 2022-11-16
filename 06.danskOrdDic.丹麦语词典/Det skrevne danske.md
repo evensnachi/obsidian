@@ -1,3 +1,3 @@
-#category/Dansk/ord/udtryk 
+#udtryk 
 - 书面丹麦语
 - [[Det]] [[skrevne]] dansk

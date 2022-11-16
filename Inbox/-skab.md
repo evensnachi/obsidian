@@ -5,7 +5,7 @@ aliases:
 	#t词结尾
 	-skabet, -skaber, -sakberne
 ---
-#type/dictionary 
+#dictionary 
 #category/Dansk/ord/suffiks 
 - bruges til at danne substantiver af adjektiver: det at have en bestemt egenskab eller kvalitet
 

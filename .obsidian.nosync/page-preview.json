@@ -4,5 +4,6 @@
   "tag-wrangler:tag-pane": false,
   "file-explorer": false,
   "graph": false,
-  "starred": false
+  "starred": false,
+  "git-view": false
 }

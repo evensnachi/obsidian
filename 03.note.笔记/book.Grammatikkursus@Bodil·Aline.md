@@ -1,5 +1,7 @@
 ---
-tags: bookNote, Dansk, Grammatik, Udtale, FVU
+title: book.Grammatikkursus@Bodil·Aline
+date: 16-11-2022_星期三
+tags: bookNote, dansk, grammatik, udtale, FVU
 aliaese: Bliv en sikker staver
 ---
 

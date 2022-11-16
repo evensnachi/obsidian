@@ -1,6 +1,6 @@
 ---
 aliases: hyppighedstabellen, hyppighedstabeller, hyppighedstabelerne
 ---
-#type/dictionary 
+#dictionary 
 - [[hyppighed]]s[[tabel]]
 - 频次表

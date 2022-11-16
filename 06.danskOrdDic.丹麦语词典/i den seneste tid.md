@@ -1,3 +1,3 @@
-- #card #category/Dansk/ord/udtryk
+- #card #udtryk
 	- recently
 	- 最近

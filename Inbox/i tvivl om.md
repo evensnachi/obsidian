@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#type/dictionary 
-#category/Dansk/ord/udtryk 
+#dictionary 
+#udtryk 
 - [[i]] [[tvivl]] [[om]]
 - 对... 存疑

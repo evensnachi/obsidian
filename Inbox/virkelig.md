@@ -1,7 +1,7 @@
 ---
 aliases: virkeligt, virkelige, virkligere, virkeligst
 ---
-#type/dictionary 
+#dictionary 
 
 - [[virke]][[-lig]]
 

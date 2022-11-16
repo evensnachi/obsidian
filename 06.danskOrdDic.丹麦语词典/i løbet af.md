@@ -1,2 +1,2 @@
-- #category/Dansk/ord/udtryk 
+- #udtryk 
 	- 在...期间

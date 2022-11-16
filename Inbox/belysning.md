@@ -1,7 +1,7 @@
 ---
 aliases: belysningen, belysninger, belysningerne
 ---
-#type/dictionary #category/Dansk/ordklasse/navneord/n-ord 
+#dictionary #category/Dansk/ordklasse/navneord/n-ord 
 
 [[belyse]][[-ing|-ning]]
 

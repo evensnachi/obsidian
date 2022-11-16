@@ -1,2 +1,2 @@
-- #category/Dansk/ord/udtryk 
+- #udtryk 
 	- 一阵流感

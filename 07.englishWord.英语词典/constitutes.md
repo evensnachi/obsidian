@@ -1,2 +1,2 @@
-#type/dictionary 
+#dictionary 
 #category/English/wordClass/verb/三单 构成
