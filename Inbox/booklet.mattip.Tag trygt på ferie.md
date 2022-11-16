@@ -70,13 +70,20 @@ $$
 
 $$
 \begin{align}
-(1-12\%)*(165*12)=1.320 
+(1-12\%)*(125*12)=1.320 
 \end{align}
 $$
 
-## Opgave 4
+## Opgave 4 Mor mangler sin kuffert
 
-### a)
+Kasper og Kristian glæder sig rigtig meget, for familien har bestilt en rejse til Rhodos. De har også fået deres rejseforsikring helt på plads.
+
+Da familien lander i lufthaven på Rhodos, skal de først have fundet deres bagage, sp de kan komme videre til deres hotel. Til sammen har de tre kufferter med. 
+
+De to kufferter finder de hurtigt på bagagebåndet, men den sidste kuffert dukker ikke op. Mor hen vender sig i informationen, dat de kan sem at der ikke længere kører kufferter på båndet. Personalet i lufthaven får mors nummer og hotelnavn, så de kan henvende sig til hende, når de finder ud af, hvor kufferten er blevet af.
+
+### a) 
+Da det desværre er mors kuffert, der ikke er dukket op, er hun nødt til at købe noget ekstra undertøj, et par t-shirts og et par shorts, da de er kommet på plads på hotellet. Mor handler for 149
 
 $$
 149 * 7,54 = 1.123,46
