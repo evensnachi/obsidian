@@ -7,7 +7,7 @@ tags: metamatik, matitip
 
 # Tag trygt på ferie
 
-Ferietiden [[nærme sig]], og Kasper og hans familie har planer om at rejse ud i verden. De ved [[endnu]] ikke, hvor de skal rejse hen, men de ved, at der er noget, der er endnu vigtigere end at [[vælge]] den helt rigtige [[feriedestination]]. Det er nemlig vigtigt, at familien [[sikrer sig]], hvis der skulle ske noget [[uheldigt]] under ferien. Derfor skal de have en [[rejseforsikring]]. Kaspers familie består af far, mor, Kasper og hans lillebror Kristian. 
+Ferietiden [[nærme sig]], og Kasper og hans familie har planer om at rejse ud i verden. De ved [[endnu]] ikke, hvor de skal rejse hen, men de ved, at der er noget, der er endnu vigtigere [[end]] at [[vælge]] den helt rigtige [[feriedestination]]. Det er nemlig vigtigt, at familien [[sikrer sig]], hvis der skulle ske noget [[uheldigt]] under ferien. Derfor skal de have en [[rejseforsikring]]. Kaspers familie består af far, mor, Kasper og hans lillebror Kristian. 
 
 Kaspers far [[undersøger]] prisen for en rejseforsikring, hvor hele familien er [[dækket]] i Europa og [[udenfor]] Europa. 
 
