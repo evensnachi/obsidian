@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-14.md",
+                "file": "日记/2022-11-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2022-11-14.md",
+            "file": "日记/2022-11-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2022-11-14.md",
+            "file": "日记/2022-11-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2022-11-14.md"
+            "file": "日记/2022-11-15.md"
           }
         }
       }
@@ -132,6 +132,7 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "日记/2022-11-15.md",
     "日记/2022-11-14.md",
     "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
     "日记/2022-11-13.md",
@@ -140,7 +141,6 @@
     "Inbox/mængde.md",
     "日记/2022-11-12.md",
     "日记/2022-11-11.md",
-    "Inbox/gennemsnit.md",
-    "03.note.笔记/note.Grammatikkursus.md"
+    "Inbox/gennemsnit.md"
   ]
 }
