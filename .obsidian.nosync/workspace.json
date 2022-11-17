@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10f0414a118650e8",
+        "id": "711e6e8e55014162",
         "type": "tabs",
         "children": [
           {
-            "id": "0983cb352058371b",
+            "id": "d1ec41773286ce12",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,32 +17,8 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
-            },
-            "group": "4671bd16c85efc3d"
-          }
-        ]
-      },
-      {
-        "id": "0a3f872c062316ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30cf174c6de69cf8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2022-11-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            },
-            "group": "4671bd16c85efc3d"
+              }
+            }
           }
         ]
       }
@@ -172,17 +147,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "0983cb352058371b",
+  "active": "d1ec41773286ce12",
   "lastOpenFiles": [
-    "日记/2022-11-16.md",
+    "日记/2022-11-11 2.md",
+    "日记/2022-11-12 2.md",
+    "日记/2022-11-13 2.md",
+    "日记/2022-11-15 2.md",
     "日记/2022-11-17.md",
+    "日记/2022-11-16.md",
     "日记/2022-11-16 2.md",
     "日记/2022-11-03.md",
     "Inbox/note.Apply for a permanent residence permit.md",
-    "模板/NewWord 新单词模板.md",
-    "模板/Dairy_日记模板.md",
-    "模板/电费记录模板.md",
-    "模板/笔记信息模板.md",
-    "模板/待办事项列表.md"
+    "模板/NewWord 新单词模板.md"
   ]
 }
