@@ -6,14 +6,31 @@
       {
         "id": "3d84678b01c5c01c",
         "type": "tabs",
+        "dimension": 42.11491442542788,
         "children": [
           {
             "id": "cabc3ba0be050a7e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/note.Apply for a permanent residence permit.md",
+                "file": "日记/2022-11-17.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            },
+            "group": "bfc1f60974fb9722"
+          },
+          {
+            "id": "fae0a7fdfc1b9cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-11-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,7 +38,31 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "7f02d327ce3d1e0d",
+        "type": "tabs",
+        "dimension": 57.88508557457212,
+        "children": [
+          {
+            "id": "e05334c75f06a6b7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-11-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            },
+            "group": "bfc1f60974fb9722"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/note.Apply for a permanent residence permit.md",
+                "file": "日记/2022-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/note.Apply for a permanent residence permit.md",
+                "file": "日记/2022-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/note.Apply for a permanent residence permit.md"
+                "file": "日记/2022-11-17.md"
               }
             }
           }
@@ -149,17 +190,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "cabc3ba0be050a7e",
+  "active": "e05334c75f06a6b7",
   "lastOpenFiles": [
+    "日记/2022-11-03.md",
     "日记/2022-11-17.md",
+    "Inbox/note.Apply for a permanent residence permit.md",
     "模板/NewWord 新单词模板.md",
     "模板/Dairy_日记模板.md",
     "模板/电费记录模板.md",
     "模板/笔记信息模板.md",
     "模板/待办事项列表.md",
     "模板/合并文件模板.md",
-    "模板/日常笔记模板.md",
-    "danskOrdbog.丹麦语词典/virkelig.md",
-    "Inbox/宾语Object.md"
+    "模板/日常笔记模板.md"
   ]
 }
