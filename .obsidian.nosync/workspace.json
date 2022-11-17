@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7b2226442891c1",
+        "id": "3d84678b01c5c01c",
         "type": "tabs",
         "children": [
           {
-            "id": "b63bc3458f1339c9",
+            "id": "cabc3ba0be050a7e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md",
-                "mode": "preview",
+                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -70,12 +68,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 502.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md",
+                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md",
+                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/booklet.mattip.Tag trygt på ferie.md"
+                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md"
               }
             }
           }
@@ -151,17 +148,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "b63bc3458f1339c9",
+  "active": "98cf98014b0730cd",
   "lastOpenFiles": [
-    "Inbox/end.md",
-    "Inbox/booklet.mattip.Tag trygt på ferie.md",
-    "Inbox/nærme sig.md",
-    "Inbox/endnu.md",
-    "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "模板/NewWord 新单词模板.md",
-    "Inbox/sikrer sig.md",
-    "模板/笔记信息模板.md",
-    "Inbox/笔记重组模板.md",
-    "日记/2022-11-16.md"
+    "Inbox/betegne.md",
+    "08.file.文档/085.booklet 小册子/booklet.Mattip_Om.Statistik 3.md",
+    "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
+    "08.file.文档/088.exercise.练习/excise.Trin_1.1_Opgavesæt_A_2016.md",
+    "01.topic.主题/topic.笔记工具.md",
+    "01.topic.主题/topic.Dansk@FVU.md",
+    "01.topic.主题/topic.English@英语兔.md",
+    "note.笔记/note.<三体>为什么翻译成The Three-Body Problem@英语兔.md",
+    "note.笔记/note.策划思维.md",
+    "note.笔记/note.obsidian.YAML.md"
   ]
 }
