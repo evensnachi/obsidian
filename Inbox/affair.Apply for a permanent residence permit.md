@@ -2,7 +2,6 @@
 title: affair.Apply for a permanent residence permit
 date: 17-11-2022_星期四
 tags: affair, 永居
-url: 
 ---
 
 - [移民局页面](https://nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence)
