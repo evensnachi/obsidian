@@ -23,22 +23,8 @@
               "pinned": true
             },
             "group": "bfc1f60974fb9722"
-          },
-          {
-            "id": "d0244ef5cc8db1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2022-11-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -189,17 +175,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "d0244ef5cc8db1e1",
+  "active": "cabc3ba0be050a7e",
   "lastOpenFiles": [
-    "日记/2022-11-03.md",
+    "日记/2022-11-16 2.md",
+    "日记/2022-11-16.md",
     "日记/2022-11-17.md",
+    "日记/2022-11-03.md",
     "Inbox/note.Apply for a permanent residence permit.md",
     "模板/NewWord 新单词模板.md",
     "模板/Dairy_日记模板.md",
     "模板/电费记录模板.md",
     "模板/笔记信息模板.md",
-    "模板/待办事项列表.md",
-    "模板/合并文件模板.md",
-    "模板/日常笔记模板.md"
+    "模板/待办事项列表.md"
   ]
 }
