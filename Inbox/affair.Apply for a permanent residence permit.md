@@ -4,6 +4,12 @@ date: 17-11-2022_星期四
 tags: affair, 永居
 ---
 
+<iframe 
+		border=0 
+		height=800
+		width=600
+		src="https://nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence"></iframe>
+
 - [移民局页面](https://nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence)
 
 审理时间:: 10个月
