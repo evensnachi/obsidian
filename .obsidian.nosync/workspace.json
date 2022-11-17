@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "Inbox/note.Apply for a permanent residence permit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "Inbox/note.Apply for a permanent residence permit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "Inbox/note.Apply for a permanent residence permit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-17.md"
+                "file": "Inbox/note.Apply for a permanent residence permit.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "cabc3ba0be050a7e",
   "lastOpenFiles": [
+    "日记/2022-11-17.md",
     "模板/NewWord 新单词模板.md",
     "模板/Dairy_日记模板.md",
     "模板/电费记录模板.md",
@@ -159,7 +160,6 @@
     "模板/合并文件模板.md",
     "模板/日常笔记模板.md",
     "danskOrdbog.丹麦语词典/virkelig.md",
-    "Inbox/宾语Object.md",
-    "08.file.文档/085.booklet 小册子/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md"
+    "Inbox/宾语Object.md"
   ]
 }
