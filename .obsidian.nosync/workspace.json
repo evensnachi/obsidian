@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d84678b01c5c01c",
+        "id": "10f0414a118650e8",
         "type": "tabs",
-        "dimension": 52.58007117437722,
         "children": [
           {
-            "id": "cabc3ba0be050a7e",
+            "id": "0983cb352058371b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,31 +21,29 @@
               },
               "pinned": true
             },
-            "group": "bfc1f60974fb9722"
+            "group": "4671bd16c85efc3d"
           }
-        ],
-        "stacked": true
+        ]
       },
       {
-        "id": "7f02d327ce3d1e0d",
+        "id": "0a3f872c062316ab",
         "type": "tabs",
-        "dimension": 47.419928825622776,
         "children": [
           {
-            "id": "e05334c75f06a6b7",
+            "id": "30cf174c6de69cf8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "日记/2022-11-17.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "pinned": true
             },
-            "group": "bfc1f60974fb9722"
+            "group": "4671bd16c85efc3d"
           }
         ]
       }
@@ -175,11 +172,11 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "cabc3ba0be050a7e",
+  "active": "0983cb352058371b",
   "lastOpenFiles": [
-    "日记/2022-11-16 2.md",
     "日记/2022-11-16.md",
     "日记/2022-11-17.md",
+    "日记/2022-11-16 2.md",
     "日记/2022-11-03.md",
     "Inbox/note.Apply for a permanent residence permit.md",
     "模板/NewWord 新单词模板.md",
