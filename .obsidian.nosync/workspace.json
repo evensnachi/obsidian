@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -176,7 +175,7 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "e05334c75f06a6b7",
+  "active": "cabc3ba0be050a7e",
   "lastOpenFiles": [
     "日记/2022-11-03.md",
     "日记/2022-11-17.md",
