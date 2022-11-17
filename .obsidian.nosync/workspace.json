@@ -23,8 +23,22 @@
               "pinned": true
             },
             "group": "bfc1f60974fb9722"
+          },
+          {
+            "id": "d0244ef5cc8db1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-11-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -175,7 +189,7 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "cabc3ba0be050a7e",
+  "active": "d0244ef5cc8db1e1",
   "lastOpenFiles": [
     "日记/2022-11-03.md",
     "日记/2022-11-17.md",
