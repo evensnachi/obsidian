@@ -238,9 +238,9 @@ omregnet:: =ændre 另外的
 
 
 
-# Kapitel 13 [[Gennemsnit]]
+# Kapitel 13 [[gennemsnit]]
 
-**[[Gennemsnit]]** er et **tal**, der ligger lige i midten af alle de tal, som man arbejder med. 
+**[[gennemsnit]]** er et **tal**, der ligger lige i midten af alle de tal, som man arbejder med. 
 
 Når man kender alderen på hver person i **en gruppe mennesker**, kan man beregne **gennemsnitsalderen**. De gamle
 

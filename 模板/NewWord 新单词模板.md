@@ -1,5 +1,5 @@
 ---
 title: {{title}}
-tags: dictionary, 
+tags: 
 aliases: 
 ---

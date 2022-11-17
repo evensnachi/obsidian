@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
+                "file": "日记/2022-11-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
+                "file": "日记/2022-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md",
+                "file": "日记/2022-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md"
+                "file": "日记/2022-11-17.md"
               }
             }
           }
@@ -148,17 +149,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "98cf98014b0730cd",
+  "active": "cabc3ba0be050a7e",
   "lastOpenFiles": [
-    "Inbox/betegne.md",
-    "08.file.文档/085.booklet 小册子/booklet.Mattip_Om.Statistik 3.md",
-    "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
-    "08.file.文档/088.exercise.练习/excise.Trin_1.1_Opgavesæt_A_2016.md",
-    "01.topic.主题/topic.笔记工具.md",
-    "01.topic.主题/topic.Dansk@FVU.md",
-    "01.topic.主题/topic.English@英语兔.md",
-    "note.笔记/note.<三体>为什么翻译成The Three-Body Problem@英语兔.md",
-    "note.笔记/note.策划思维.md",
-    "note.笔记/note.obsidian.YAML.md"
+    "模板/NewWord 新单词模板.md",
+    "模板/Dairy_日记模板.md",
+    "模板/电费记录模板.md",
+    "模板/笔记信息模板.md",
+    "模板/待办事项列表.md",
+    "模板/合并文件模板.md",
+    "模板/日常笔记模板.md",
+    "danskOrdbog.丹麦语词典/virkelig.md",
+    "Inbox/宾语Object.md",
+    "08.file.文档/085.booklet 小册子/Booklet.Mattip om.Tid, fart-og hastighedsberegninger.md"
   ]
 }

@@ -19,7 +19,7 @@ PDFfile:: [[mattip_om-vandforbrug_i_hjemmet.pdf]]
 	[[kubikmeter]]: 立方米
 	[[enhed]]:: bruges til at måle 单位
 
-I [[dette forløb]] skal du arbejdet med [[forbrug]] i hjemmet. Du skal arbejde med opgaver, der [[omhandle|omhandler]], hvad det koster, når du tager bad, [[går på toilettet]] og [[generel|generelt]] bruger vand i dit hjem.
+I [[dette forløb]] skal du arbejdet med [[forbrug]] i hjemmet. Du skal arbejde med opgaver, der [[omhandle|omhandler]], hvad det koster, når du tager bad, [[går på toilettet]] og [[generel|generelt]] bruger vand i dit hjem.
 
 [[Regelmæssig|regelmæssigt]] kommer der en [[regning]], hvor din [[husstand|husstands]] forbrug [[fremstå|fremstår]]. Der er mange, der ikke [[tænke over|tænker over]], hvad vand og forbrug koster. Det skal dette forløb være med til at [[belyse]].
 
@@ -77,7 +77,7 @@ $$\begin{align}
 
 ### Opgave 3
 
-[[karbad]]:: 泡澡
+[[Karbad]]:: 泡澡
 
 Det kan være rigtigt lækkert at ligge i et [[badekar]] [[fyldt]] med en masse [[boblende]] [[sæbeskum]]. Et badekar skal [[dog]] fyldes med varmt vand, før det er god [[fornemmelse]].
 
