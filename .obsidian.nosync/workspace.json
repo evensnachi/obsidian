@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-17.md",
-                "mode": "source",
+                "file": "Inbox/affair.Apply for a permanent residence permit.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "Inbox/affair.Apply for a permanent residence permit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "Inbox/affair.Apply for a permanent residence permit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-17.md"
+                "file": "Inbox/affair.Apply for a permanent residence permit.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f877ca04ad79ba10",
   "lastOpenFiles": [
-    "note.笔记/note.如何记住任何你读的东西.md",
     "日记/2022-11-17.md",
+    "note.笔记/note.如何记住任何你读的东西.md",
     "日记/2022-11-11 2.md",
     "日记/2022-11-12 2.md",
     "日记/2022-11-13 2.md",
