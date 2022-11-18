@@ -250,5 +250,15 @@
       ],
       "key": "-"
     }
-  ]
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:split-horizontal": []
 }

@@ -20,44 +20,7 @@
                 "source": true
               },
               "pinned": true
-            },
-            "group": "ab64a1cfc3383790"
-          },
-          {
-            "id": "c881a9b1281b7738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4fac633f708af7be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d8c6f4ead3d1d83",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            },
-            "group": "ab64a1cfc3383790"
           }
         ]
       }
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/book.Grammatikkursus@Bodil·Aline.md"
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md"
               }
             }
           }
@@ -186,17 +149,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "c881a9b1281b7738",
+  "active": "79ab5b391339a870",
   "lastOpenFiles": [
-    "日记/2022-11-18.md",
+    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
     "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
+    "日记/2022-11-18.md",
     "日记/2022-12-16.md",
     "日记/2022-11-17 2.md",
     "日记/2022-11-18 2.md",
     "日记/2022-11-17.md",
     "Inbox/affair.Apply for a permanent residence permit.md",
     "note.笔记/note.如何记住任何你读的东西.md",
-    "日记/2022-11-11 2.md",
-    "日记/2022-11-12 2.md"
+    "日记/2022-11-11 2.md"
   ]
 }

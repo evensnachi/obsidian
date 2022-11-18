@@ -121,19 +121,28 @@ $$
 (3441 - 1457,98) / 3441 = 57,62%
 $$
 
-## Opgav 5v Tyveri
+## Opgav 5 Tyveri
+
+Mors kuffert er endelig dukket op hen ad eftermiddagen, og til aften vil familien ud og spise. De finder en dejlig restaurant, hvor de bestiller deres mad. 
 
 ### a)
+Da de får regningen, skal de betale 48 Euro for maden. Hvor mange penge er det i dansk kr.? 
 
 $$
 48 * 7,54 = 361,92
 $$
 
+Far vil finde sin pung for at betale, men opdager, at han har glemt den i handskerummet i den lejede bil. Han går tilbage til bilen og opdager desværre, at den er brudt op, og pungen er væk. Far havde en del kontanter i pungen, så der er forsvundet 420 Euro.
+
 ### b)
+
+Hvor mange dansk penge har tyven stjålet fra far, når kursen er 7,54 kr. ?
 
 $$
 420 * 7,54 = 3166,8
 $$
+
+Mor
 
 ### c) 
 
