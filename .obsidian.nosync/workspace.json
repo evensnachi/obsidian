@@ -20,7 +20,8 @@
                 "source": true
               },
               "pinned": true
-            }
+            },
+            "group": "ab64a1cfc3383790"
           },
           {
             "id": "c881a9b1281b7738",
@@ -44,6 +45,7 @@
           {
             "id": "5d8c6f4ead3d1d83",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -51,8 +53,10 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
-            }
+              },
+              "pinned": true
+            },
+            "group": "ab64a1cfc3383790"
           }
         ]
       }
@@ -181,7 +185,7 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "5d8c6f4ead3d1d83",
+  "active": "79ab5b391339a870",
   "lastOpenFiles": [
     "日记/2022-11-18.md",
     "日记/2022-12-16.md",
