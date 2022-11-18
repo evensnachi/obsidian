@@ -1,5 +1,4 @@
 ---
-title: nærme sig
 tags: ordBog, udtryk
 aliases: nærmer sig
 ---

@@ -1,4 +1,4 @@
-#ordBog #category/Dansk/ord/sammensatOrd [[dele]]-[[streg]]
+#ordBog #sammensatOrd [[dele]]-[[streg]]
 #category/Dansk/ordklasse/navneord/n-ord 连字符
 - [[delestregen]]
 - [[delestreger]]

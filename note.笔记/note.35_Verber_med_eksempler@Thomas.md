@@ -1,6 +1,6 @@
 - [[at være]]
 - [[at gøre]]
-- [[at have]]
+- [[have]]
 - [[at lave]]
 - [[at få]]
 - [[at spise]]

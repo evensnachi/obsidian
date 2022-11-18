@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#study",
+                "query": "tag:#sammensatOrd",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -142,23 +143,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "active": "79ab5b391339a870",
   "lastOpenFiles": [
-    "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_1.md",
-    "日记/2022-10-28.md",
-    "danskOrdbog.丹麦语词典/Regnehieraki.md",
-    "08.file.文档/084.series.系列/series.Mattip_om/booklet.mattipOm.Vand_forbrug_i_hjemmet.md",
+    "danskOrdbog.丹麦语词典/have.md",
     "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-    "Inbox/piste.md",
-    "模板/NewWord 新单词模板.md",
-    "日记/2022-11-18.md",
-    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "日记/2022-12-16.md"
+    "Inbox/未命名 1.md",
+    "Inbox/未命名.md",
+    "Inbox/vigtig.md",
+    "Inbox/at rejse ud.md",
+    "danskOrdbog.丹麦语词典/nærme sig.md",
+    "Inbox/ferietid.md",
+    "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_1.md"
   ]
 }

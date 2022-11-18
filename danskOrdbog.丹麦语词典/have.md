@@ -1,3 +1,13 @@
+---
+tags: ordBog
+aliases: at have, har, havde, haft
+---
+
+#category/Dansk/ordklasse/udsagnsord 
+- 拥有
+
+## 例句
+
 - **Hav** en god dag! #category/Dansk/ordklasse/udsagnsord/bydeform
 - Jeg **vil** ikke **have** mus her. #category/Dansk/ordklasse/udsagnsord/infinitiv
 - Hvad **har** du der? #category/Dansk/ordklasse/udsagnsord/nutid
