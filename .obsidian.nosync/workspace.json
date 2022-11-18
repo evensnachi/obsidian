@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "286dcfa2c2df7a29",
+        "id": "f2dcb92f25c5337a",
         "type": "tabs",
         "children": [
           {
-            "id": "f877ca04ad79ba10",
+            "id": "79ab5b391339a870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-17.md",
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -135,29 +135,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-17.md"
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 341.5
   },
-  "active": "f877ca04ad79ba10",
+  "active": "79ab5b391339a870",
   "lastOpenFiles": [
-    "Inbox/affair.Apply for a permanent residence permit.md",
+    "日记/2022-11-18.md",
+    "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
+    "日记/2022-11-17 2.md",
+    "日记/2022-11-18 2.md",
     "日记/2022-11-17.md",
+    "Inbox/affair.Apply for a permanent residence permit.md",
     "note.笔记/note.如何记住任何你读的东西.md",
     "日记/2022-11-11 2.md",
     "日记/2022-11-12 2.md",
-    "日记/2022-11-13 2.md",
-    "日记/2022-11-15 2.md",
-    "日记/2022-11-16.md",
-    "日记/2022-11-16 2.md",
-    "日记/2022-11-03.md"
+    "日记/2022-11-13 2.md"
   ]
 }
