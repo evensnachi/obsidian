@@ -214,4 +214,12 @@ Far kører Kasper hen til den nærmeste skadestue , hvor lægerne , der undersø
 
 Da far og Kasper kommer til bage i hytten , snakker familien om ,  hvad de nu skal gøre . Der er heldigvis kun tre dage tilbage af ferien , så Kasper har allerede fået stået meget på ski , men de kontakter alligevel forsikringsselskabet , for at se , om de kan være behjælpelige med noget erstatning . 
 
-Forsikringsseleskabet tilbyder at betale $\frac{2}{7}$ tilbage af Kasper samt en voksens rejseudgifter 
+Forsikringsseleskabet tilbyder at betale $\frac{2}{7}$ tilbage af Kasper samt en voksens rejseudgifter , da de ikke dækker den første dag , hvor skaden er sket , men de dækker for de sidste to rejsedage . hvor Kasper og en ledsager ikke kan stå på ski . 
+
+#### a) Hvad er udgifterne gennemsnitligt pr. person til en hytte pr. dag ? ( Se tallene i opgave 6 . ) 
+
+#### b) Hvad udgør $\frac{2}{7}$ af prisen på et børneliftkort ? 
+
+#### c) Hvad udgør $\frac{2}{7}$ af prisen på et voksenliftkort ? 
+
+Eftersom familien bliver på  ferien hele ugen på trods af Kaspers skade , så tager de den planlagte færge hjem . Derfor mener Kaspers far ikke , at det er relevant at få forsikringen til at dække 
