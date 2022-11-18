@@ -10,11 +10,45 @@
           {
             "id": "79ab5b391339a870",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c881a9b1281b7738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-11-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fac633f708af7be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8c6f4ead3d1d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -71,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -143,11 +178,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
-  "active": "79ab5b391339a870",
+  "active": "5d8c6f4ead3d1d83",
   "lastOpenFiles": [
     "日记/2022-11-18.md",
+    "日记/2022-12-16.md",
     "08.file.文档/085.booklet 小册子/booklet.mattip.Tag trygt på ferie.md",
     "日记/2022-11-17 2.md",
     "日记/2022-11-18 2.md",
@@ -155,7 +192,6 @@
     "Inbox/affair.Apply for a permanent residence permit.md",
     "note.笔记/note.如何记住任何你读的东西.md",
     "日记/2022-11-11 2.md",
-    "日记/2022-11-12 2.md",
-    "日记/2022-11-13 2.md"
+    "日记/2022-11-12 2.md"
   ]
 }
