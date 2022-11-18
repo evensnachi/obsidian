@@ -5,48 +5,57 @@ tags: metamatik, matitip
 ---
 
 
-# Tag trygt på ferie
+## Tag trygt på ferie
 
 Ferietiden [[nærme sig]], og Kasper og hans familie har planer om at rejse ud i verden. De ved [[endnu]] ikke, hvor de skal rejse hen, men de ved, at der er noget, der er endnu vigtigere [[end]] at [[vælge]] den helt rigtige [[feriedestination]]. Det er nemlig vigtigt, at familien [[sikrer sig]], hvis der skulle ske noget [[uheldigt]] under ferien. Derfor skal de have en [[rejseforsikring]]. Kaspers familie består af far, mor, Kasper og hans lillebror Kristian. 
 
 Kaspers far [[undersøger]] prisen for en rejseforsikring, hvor hele familien er [[dækket]] i Europa og [[udenfor]] Europa. 
 
-## Opgave 1 : Kaspers far udregner udgifterne
+### Opgave 1 : Kaspers far udregner udgifterne
 
-### a)
+#### a)  Hvad vil det koste familien årligt, hvis rejesforsikringen koster 165 kr./md. ?
 
 $$
 165 kr. / md. * 12 = 1.980
 $$
 
-### b)
+#### b) Hvor meget er det pr. person i familien om året?
 
 $$
 1.980 / 4 = 495
 $$
 
-### c)
+#### c) Hvor meget koster det pr. person i familien at være dækket dagligt?
 
 $$
 165 / 4 / 30 = 1,375
 $$
 
-## Opgave 2 Rejse uden for Europa? 
+### Opgave 2 Rejse uden for Europa? 
 
+Familien har valgt en rejseforsikring, hvor de er dækket indenfor disse områder:
 
-### a)
+- Skidækning
+- Udvidet årsrejse
+- Rejseulykke
+- Afbestilling
+- Rejser uden for Europa
+
+Familien beslutter, at de kun vil på ferie i Europa, Så Kaspers far regner ligt på, hvad de kan spare, hvis han fravælger dækningen af rejser uden for Europa. Rejseforsikringen vil så i stedet koste 125kr./md. .
+
+#### a) Hvor mange penge vil familien spare årligt, hvis de vælger denne forsikringsløsning?
 
 $$
 (165 - 125) * 12 = 480
 $$
 
-### b)
+#### b) Hvad vil det gennemsnitligt koste pr. familiemedlem med denne forsikring årligt?
 
 $$
 125 * 12 / 4 = 375
 $$
 
-### c)
+#### c) Kaspers far beslutter, at denne løsning er den rigtige for familien. Forsikring forfalder hvert år til den 1. februar, og familien tegner først forsikringen d. 1. juni. Hvor maget
 
 $$ 
 125 * 8 = 1000

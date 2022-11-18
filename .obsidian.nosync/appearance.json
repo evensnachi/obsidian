@@ -4,8 +4,9 @@
   "cssTheme": "Blue Topaz",
   "accentColor": "",
   "showViewHeader": true,
-  "baseFontSize": 22,
+  "baseFontSize": 16,
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": true
 }
