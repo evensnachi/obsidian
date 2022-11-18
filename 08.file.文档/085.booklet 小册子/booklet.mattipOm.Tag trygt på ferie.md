@@ -200,4 +200,18 @@ Det er blevet vinter , og familien glæder sig til , at de skal på skiferie . D
 
 Kasper og Kristian har fundet en piste , hvor de kan køre styrtløb , og pisten er ret smart ,  for der bliver automatisk taget tid på deres løb . Drengene synes , at det er sjovt at konkurrere om , hvem der er hurtigst. 
 
-#### a) 
+#### a) Kasper kører 5 løb , mens Kristian noterer tiderne. Tiderne lyder på 23s. , 21s. , 24s. , 23s. og 20s. . Hvad bliver gennemsnitshastigheden af Kasper 5 løb?
+
+#### b) Bagefter løber Kristian 5 løb , mens Kasper noterer . Kristians tider hedder 25s. , 23s. , 23s. , 21s. og 24s. . Hvad bliver kristians gennemsnitshastighed ? 
+
+#### c) Hvem var sammenlagt den hurtigste af de to drenge ? 
+
+### Opgave 8 Kasper brækker benet
+
+Kasper vil lige tage en sidste tur ned af styrtløbsbakken . Han får rigtig meget fart på , og pludselig kan han ikke styre den ene ski , så han lander helt forkert på sit ben . Kristian kalder på far , som kører på pisten lige ved siden af . Far kan se , at Kasper har rigtig ondt , så han ringer efter hjælp nede på ski-centeret , det sender en snescooter hen for at hente Kasper . Far og Kristian får også lov til at køre med . 
+
+Far kører Kasper hen til den nærmeste skadestue , hvor lægerne , der undersøger Kasper , desværre kan konstatere , at benet er brækket . Kasper bliver akut opereret og får gips på benet . 
+
+Da far og Kasper kommer til bage i hytten , snakker familien om ,  hvad de nu skal gøre . Der er heldigvis kun tre dage tilbage af ferien , så Kasper har allerede fået stået meget på ski , men de kontakter alligevel forsikringsselskabet , for at se , om de kan være behjælpelige med noget erstatning . 
+
+Forsikringsseleskabet tilbyder at betale $\frac{2}{7}$ tilbage af Kasper samt en voksens rejseudgifter 
