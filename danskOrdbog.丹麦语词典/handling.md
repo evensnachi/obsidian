@@ -1,7 +1,7 @@
 ---
 aliases: handlingen, handlinger, handlingerne
 ---
-#dictionary #category/Dansk/ordklasse/navneord/n-ord 
+#ordBog #category/Dansk/ordklasse/navneord/n-ord 
 
 [[handle]][[-ing]]
 

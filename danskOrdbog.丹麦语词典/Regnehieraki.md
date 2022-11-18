@@ -1,8 +1,11 @@
-tags:: #card #type/concept #matematik
-词性::  #category/Dansk/ordklasse/navneord 
-释义::  运算优先级
-单词变位:: 
-同义词:: 
+---
+title: Regnehieraki
+date: 18-11-2022_星期五
+tags: concept, ordBog, matematik
+---
+
+#category/Dansk/ordklasse/navneord 
+- 运算优先级
 
 
 1. $(\ )$ : paranteser

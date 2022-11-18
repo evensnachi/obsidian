@@ -1,6 +1,6 @@
 ---
 aliases: omhandler, omhandlede, omhandlet
 ---
-#dictionary #category/Dansk/ordklasse/udsagnsord 
+#ordBog #category/Dansk/ordklasse/udsagnsord 
 
 - 处理

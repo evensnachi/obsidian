@@ -1,7 +1,7 @@
 ---
 aliases: belyser, belysete, belyst
 ---
-#dictionary 
+#ordBog 
 #category/Dansk/ordklasse/udsagnsord 
 	- 照亮; 说明
 

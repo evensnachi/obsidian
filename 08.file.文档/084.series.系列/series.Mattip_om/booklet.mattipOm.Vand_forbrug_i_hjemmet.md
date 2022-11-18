@@ -1,10 +1,8 @@
 ---
 title: 03.booklet.Vandforbrug i hjemmet
 date: 07-11-2022_星期一
-cards-deck: 08.file.文档::085.booklet 小册子
+tags: booklet, matematik,  mattip
 ---
-
-#type/booklet, #matematik, #source/booklet #publisher/mattipDK
 
 PDFfile:: [[mattip_om-vandforbrug_i_hjemmet.pdf]]
 # Du skal arbejde med:

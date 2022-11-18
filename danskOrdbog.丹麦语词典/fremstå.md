@@ -1,6 +1,6 @@
 ---
 aliases: fremstår, fremstod, fremstået
 ---
-#dictionary #category/Dansk/ordklasse/udsagnsord 
+#ordBog #category/Dansk/ordklasse/udsagnsord 
 
 - 出现

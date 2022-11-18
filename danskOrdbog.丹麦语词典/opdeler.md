@@ -1,7 +1,7 @@
 ---
 aliases: opdeler, opdelte, opdelt
 ---
-#dictionary 
+#ordBog 
 #category/Dansk/ordklasse/udsagnsord 
 
 	- 划分, 分组

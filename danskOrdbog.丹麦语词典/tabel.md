@@ -1,5 +1,5 @@
 ---
 aliases: tabellen, tabeller, tabellerne
 ---
-#dictionary #category/Dansk/ordklasse/navneord/n-ord 
+#ordBog #category/Dansk/ordklasse/navneord/n-ord 
 - 表格, 项目表, 目录, 表

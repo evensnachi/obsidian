@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#dictionary #udtryk 
+#ordBog #udtryk 
 
 [[denne|dette]] [[forløb]]
 

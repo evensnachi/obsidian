@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#dictionary #udtryk 
+#ordBog #udtryk 
 
 - 去厕所

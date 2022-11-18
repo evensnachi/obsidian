@@ -1,7 +1,7 @@
 ---
 aliases: regningen, regninger, regningerne
 ---
-#dictionary #category/Dansk/ordklasse/navneord/n-ord 
+#ordBog #category/Dansk/ordklasse/navneord/n-ord 
 
 - 电费单, 账单, 汇票; 发票, 发货单, 发货账单;
 

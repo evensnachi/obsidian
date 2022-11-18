@@ -1,6 +1,6 @@
 ---
 aliases: forskelligt, forskellige
 ---
-#dictionary #category/Dansk/ordklasse/tillægsord 
+#ordBog #category/Dansk/ordklasse/tillægsord 
 - [[forskel]][[-lig]]
 - 不同的

@@ -1,5 +1,5 @@
 ---
 aliases: 
 ---
-#dictionary 
+#ordBog 
 - 结论

@@ -1,2 +1,2 @@
-#dictionary #category/English/phrase
+#ordBog #category/English/phrase
 与... 相同

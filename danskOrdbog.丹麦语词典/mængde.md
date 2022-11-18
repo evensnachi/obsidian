@@ -1,5 +1,5 @@
 ---
 aliases: mængden, mængder, mængderne
 ---
-#dictionary #category/Dansk/ordklasse/navneord/n-ord 
+#ordBog #category/Dansk/ordklasse/navneord/n-ord 
 - 数量

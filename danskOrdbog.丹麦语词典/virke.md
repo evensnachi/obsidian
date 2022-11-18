@@ -1,7 +1,7 @@
 ---
 aliases: virker, virkede, virket
 ---
-#dictionary 
+#ordBog 
 #category/Dansk/ordklasse/udsagnsord 
 	- 运转
 	- 影响

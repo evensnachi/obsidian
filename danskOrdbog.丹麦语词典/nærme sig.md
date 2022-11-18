@@ -1,6 +1,6 @@
 ---
 title: nærme sig
-tags: dictionary, udtryk
+tags: ordBog, udtryk
 aliases: nærmer sig
 ---
 - [[nærme]] [[sig]]

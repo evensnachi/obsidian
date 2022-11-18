@@ -1,4 +1,9 @@
-#type/note #matematik 
+---
+title: textbook.Hverdagens_matematik_1
+date: 18-11-2022_星期五
+tags: bookNote, matematik, FVU, 
+---
+
 
 # Kapitel 6 km-m-cm-mm
 > Afstande samt højde, længde og bredde måler man i kilometer(km), meter(m), centimeter(cm) og millimeter(mm). 
