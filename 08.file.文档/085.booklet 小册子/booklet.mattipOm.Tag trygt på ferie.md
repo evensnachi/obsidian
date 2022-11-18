@@ -138,7 +138,7 @@ $$
 (3441 - 1457,98) / 3441 = 57,62%
 $$
 
-### Opgav 5 Tyveri
+### Opgave 5 Tyveri
 
 Mors kuffert er endelig dukket op hen ad eftermiddagen, og til aften vil familien ud og spise. De finder en dejlig restaurant, hvor de bestiller deres mad. 
 
@@ -184,7 +184,7 @@ $$
 1583,4 + 2170 = 3753,4
 $$
 
-## Opgave 6 Vinterferie
+### Opgave 6 Vinterferie
 
 Det er blevet vinter , og familien glæder sig til , at de skal på skiferie . De har booket en hytte i Norge , hvor de skal bo lige op ad [[piste]] . Hytten , de har lejet , koster 8800 kr. for en uge . Liftkort til børn koster 998 kr. pr. person og til voksne 1498 kr. pr. person . Færgetransporten for 4 personer med en bil koster 1395 kr. 
 
@@ -195,3 +195,9 @@ Det er blevet vinter , og familien glæder sig til , at de skal på skiferie . D
 #### c) Far opdager , at han kan spare 10 procent på færgetransporten, hvis han bestiller i god tid. Hvor meget sparer familien på færgen ?
 
 #### d)Hvad bliver den samlede pris nu for rejsen ? 
+
+### Opgave 7 Styrtløb
+
+Kasper og Kristian har fundet en piste , hvor de kan køre styrtløb , og pisten er ret smart ,  for der bliver automatisk taget tid på deres løb . Drengene synes , at det er sjovt at konkurrere om , hvem der er hurtigst. 
+
+#### a) 

@@ -21,19 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "25406597870f0216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -145,7 +132,7 @@
             }
           },
           {
-            "id": "dc6f452f3fdb2ecc",
+            "id": "c9f64bdfaea22d8a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -155,13 +142,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "cfee9efd0e463dd6",
+  "active": "79ab5b391339a870",
   "lastOpenFiles": [
     "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_1.md",
     "日记/2022-10-28.md",
