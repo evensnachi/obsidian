@@ -9,5 +9,7 @@
   "sanctum@@code-border": true,
   "sanctum@@syntax-highlighting": "dracula",
   "sanctum@@tag-border-width": "1px",
-  "sanctum@@heading-outline": "heading-counter-1"
+  "sanctum@@heading-outline": "heading-counter-1",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@transparent-setting-panel": false
 }
