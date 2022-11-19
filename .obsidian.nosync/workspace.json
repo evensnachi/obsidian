@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/yder-.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/yder-.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/yder-.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/yder-.md"
+                "file": "danskOrdbog.丹麦语词典/yderlig.md"
               }
             }
           }
@@ -147,8 +147,9 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "8232a35961c5e2fd",
+  "active": "ff23f5082d54eb86",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/-lig.md",
     "danskOrdbog.丹麦语词典/yderlig.md",
     "Inbox/yder-.md",
     "danskOrdbog.丹麦语词典/yderligere.md",
@@ -157,7 +158,6 @@
     "danskOrdbog.丹麦语词典/ud.md",
     "danskOrdbog.丹麦语词典/at rejse ud.md",
     "Inbox/affair.Apply for a permanent residence permit.md",
-    "Inbox/未命名.md",
-    "Inbox/未命名 1.md"
+    "Inbox/未命名.md"
   ]
 }
