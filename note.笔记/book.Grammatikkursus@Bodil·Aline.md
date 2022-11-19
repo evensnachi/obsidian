@@ -99,7 +99,6 @@ Vi kan opdele vokalerne i to grupper:
 > - Høres en lang og tydelig vokallyd: ordet skrives medden vokal, der høres.
 
 
-
  - 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
  - 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 
  - 参见: Vokaltrappen 

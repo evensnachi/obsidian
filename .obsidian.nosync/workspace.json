@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "41681615a161fa5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,12 +83,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md"
+                "file": "danskOrdbog.丹麦语词典/词根/ud.md"
               }
             }
           }
@@ -150,16 +163,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "79ab5b391339a870",
+  "active": "41681615a161fa5d",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/have.md",
-    "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-    "Inbox/未命名 1.md",
+    "danskOrdbog.丹麦语词典/at rejse ud.md",
+    "Inbox/affair.Apply for a permanent residence permit.md",
     "Inbox/未命名.md",
-    "Inbox/vigtig.md",
-    "Inbox/at rejse ud.md",
-    "danskOrdbog.丹麦语词典/nærme sig.md",
-    "Inbox/ferietid.md",
-    "08.file.文档/textbook.教科书/textbook.Hverdagens_matematik_1.md"
+    "Inbox/未命名 1.md",
+    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-11-19.md",
+    "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+    "danskOrdbog.丹麦语词典/have.md",
+    "danskOrdbog.丹麦语词典/vigtig.md",
+    "danskOrdbog.丹麦语词典/nærme sig.md"
   ]
 }
