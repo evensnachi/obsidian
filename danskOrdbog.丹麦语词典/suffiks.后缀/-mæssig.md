@@ -1,6 +1,6 @@
 ---
+tags: ordBog, suffiks
 aliases: -mæssigt, -mæssige
 ---
-#ordBog #suffiks 
 
-相对的
+- 相对的

@@ -27,7 +27,7 @@ Forløbet kan også være med til at [[skabe]] en [[bevidsthed]] om, hvor det e
 
 ### Priser på vand og afløb
 
-På vandregningen betales der for det rene vand, der leveres i [[vandhanen]] [[samt]] det [[spildevand]], der [[sendes ud]] i [[afløbet]]. 
+På vandregningen betales der for det rene vand, der leveres i [[vandhane|vandhanen]] [[samt]] det [[spildevand]], der [[sendes ud]] i [[afløbet]]. 
 
 I 2021 er prisen for vand og [[afløb]] $53.90kr./m^3$ . [[Heraf]] er prisen for vand $17,96kr.$ og $35,94kr.$ for afløb.
 
