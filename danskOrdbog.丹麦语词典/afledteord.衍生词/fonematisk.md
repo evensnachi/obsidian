@@ -1,5 +1,5 @@
 ---
-tags: ordbog
+tags: ordbog, afledteord
 aliases: fonematiske
 ---
 

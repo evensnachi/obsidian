@@ -1,7 +1,8 @@
 ---
+tags: ordBog
 aliases: tvivlen, at tvivle, tvivle, tvivler, tvivlede, tvivlet
 ---
-#ordBog 
+
 #category/Dansk/ordklasse/navneord/n-ord 
 	- 怀疑, 疑问
 	- [[i tvivl om]] 对... 存疑
