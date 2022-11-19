@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/-at.md",
+                "file": "danskOrdbog.丹麦语词典/fonematisk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/-at.md",
+                "file": "danskOrdbog.丹麦语词典/fonematisk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/-at.md",
+                "file": "danskOrdbog.丹麦语词典/fonematisk.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/-at.md"
+                "file": "danskOrdbog.丹麦语词典/fonematisk.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "ff23f5082d54eb86",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/fonematisk.md",
-    "Inbox/-atisk.md",
     "Inbox/fonem.md",
     "concept.知识点/morfematiske.md",
+    "danskOrdbog.丹麦语词典/rod.词根/morfem.md",
+    "danskOrdbog.丹麦语词典/fonematisk.md",
+    "danskOrdbog.丹麦语词典/suffiks.后缀/-at.md",
+    "danskOrdbog.丹麦语词典/suffiks.后缀/-isk.md",
+    "Inbox/-atisk.md",
     "danskOrdbog.丹麦语词典/atisk.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/at trøkke fra.md",
-    "danskOrdbog.丹麦语词典/fonem.md",
-    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "danskOrdbog.丹麦语词典/at lave.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/at lægge sammen.md"
+    "danskOrdbog.丹麦语词典/fonem.md"
   ]
 }
