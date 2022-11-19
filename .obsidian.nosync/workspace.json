@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f2dcb92f25c5337a",
+        "id": "a7f910b51966e353",
         "type": "tabs",
         "children": [
           {
-            "id": "79ab5b391339a870",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "41681615a161fa5d",
+            "id": "ff23f5082d54eb86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/词根/ud.md",
+                "file": "danskOrdbog.丹麦语词典/yderlig.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/词根/ud.md"
+                "file": "danskOrdbog.丹麦语词典/yderlig.md"
               }
             }
           }
@@ -163,17 +147,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "41681615a161fa5d",
+  "active": "ff23f5082d54eb86",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/yderligere.md",
+    "danskOrdbog.丹麦语词典/yderlig.md",
+    "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+    "模板/NewWord 新单词模板.md",
+    "danskOrdbog.丹麦语词典/ud.md",
     "danskOrdbog.丹麦语词典/at rejse ud.md",
     "Inbox/affair.Apply for a permanent residence permit.md",
     "Inbox/未命名.md",
     "Inbox/未命名 1.md",
-    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "日记/2022-11-19.md",
-    "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-    "danskOrdbog.丹麦语词典/have.md",
-    "danskOrdbog.丹麦语词典/vigtig.md",
-    "danskOrdbog.丹麦语词典/nærme sig.md"
+    "note.笔记/book.Grammatikkursus@Bodil·Aline.md"
   ]
 }

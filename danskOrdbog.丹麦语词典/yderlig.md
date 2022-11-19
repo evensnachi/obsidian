@@ -1,11 +1,10 @@
 ---
-cards-deck: 06.danskOrdDic.丹麦语词典
+tags: ordbog
+aliases: yderligt, yderlige, yderligere, yderligst
 ---
+#category/Dansk/ordklasse/tillægsord 
+- 更多的, 更近一步的
 
-yderlig #card 
-词性::  
-释义:: 更多的, 更近一步的
-单词变位:: 
-同义词:: 
-^1667211375753
-
+[[yderlig|yderligere]]
+- #category/Dansk/ordklasse/tillægsord 进一步的; 附加的, 补充的
+- #category/Dansk/ordklasse/biord 更远地
