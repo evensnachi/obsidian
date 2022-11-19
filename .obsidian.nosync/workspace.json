@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/verbum.md",
+                "file": "Inbox/nok.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sammensatOrd",
+                "query": "tag:#afledte_ord",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/verbum.md",
+                "file": "Inbox/nok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/verbum.md",
+                "file": "Inbox/nok.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/verbum.md"
+                "file": "Inbox/nok.md"
               }
             }
           }
@@ -144,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "active": "ff23f5082d54eb86",
   "lastOpenFiles": [
-    "concept.知识点/verbum bøjning 动词变位.md",
-    "danskOrdbog.丹麦语词典/词根/vigtig.md",
+    "danskOrdbog.丹麦语词典/词组/skal nok.md",
+    "danskOrdbog.丹麦语词典/词根/skulle.md",
+    "Inbox/skal.md",
+    "danskOrdbog.丹麦语词典/词组/være velkommen til.md",
+    "note.笔记/note.Breve_trin_for_trin_1@FVU.md",
+    "danskOrdbog.丹麦语词典/衍生词/venlig.md",
     "danskOrdbog.丹麦语词典/衍生词/virkelig.md",
     "danskOrdbog.丹麦语词典/衍生词/yderlig.md",
     "danskOrdbog.丹麦语词典/词根/virke.md",
-    "Inbox/yder-.md",
-    "danskOrdbog.丹麦语词典/-lig.md",
-    "danskOrdbog.丹麦语词典/yderligere.md",
-    "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-    "模板/NewWord 新单词模板.md"
+    "danskOrdbog.丹麦语词典/词根/verbum.md"
   ]
 }

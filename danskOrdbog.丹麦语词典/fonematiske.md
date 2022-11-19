@@ -1,4 +1,4 @@
-- #category/Dansk/ordklasse/navneord #category/Dansk/ord/afledte_ord #card #category/Dansk/ord #category/Dansk/ordklasse/navneord/t-ord
+- #category/Dansk/ordklasse/navneord #afledteOrd #card #category/Dansk/ord #category/Dansk/ordklasse/navneord/t-ord
 - [[fonem]]- [[atisk]]
 	- 音素
 	-

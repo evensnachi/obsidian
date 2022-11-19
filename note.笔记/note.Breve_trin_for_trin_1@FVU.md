@@ -32,7 +32,7 @@ I annoncer vil du således tit møde forkortelser og halve sætninger - undertid
 	Emne: Computerhjælp
 
 Hej Martin
-Julie fortalte, at du har store problemer med din nye [[bærbare]] computer. Hvis du vil have det, kan jeg godt prøve at hjælp dig. Du er [[velkommen til]] at [[kigge forbi]] en gang [[i løbet af]] weekenden. Bare ring [[i forvejen]] og [[sig]], hvornår du kommer.
+Julie fortalte, at du har store problemer med din nye [[bærbare]] computer. Hvis du vil have det, kan jeg godt prøve at hjælp dig. Du er [[være velkommen til|velkommen til]] at [[kigge forbi]] en gang [[i løbet af]] weekenden. Bare ring [[i forvejen]] og [[sig]], hvornår du kommer.
 
 Bedste hilsner
 Kasper

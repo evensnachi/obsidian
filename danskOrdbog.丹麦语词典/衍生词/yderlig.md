@@ -1,5 +1,5 @@
 ---
-tags: ordbog
+tags: ordbog, afledteOrd
 aliases: yderligt, yderlige, yderligere, yderligst
 ---
 
