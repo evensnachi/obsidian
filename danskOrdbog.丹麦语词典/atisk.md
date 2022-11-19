@@ -1,1 +1,1 @@
-- #category/Dansk/ord/suffiks #category/Dansk/ord 
+- #suffiks #category/Dansk/ord 

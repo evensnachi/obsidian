@@ -9,7 +9,7 @@ Fie [[flyder]] 10 år. Familien [[fejrer]] hende, hun får "ugens tilbud" til af
 
 - **Jeg har [[simpelthen]] ikke haft [[kræfter]] til at tænke på ret meget andet, siger hun og undskylder [[det rod]], der har [[bredt sig]] i køkkenet, stuen og den mørke gang, der [[fører]] fordi [[garderoben]] og ned til børnenes værelser. **
 
-Anette er 52 år og har været på sygedagpenge og [[kontanthjælp]], siden hun i 2005 måtte opgive arbejdet som [[socialog]] sundhedsasistenet i hjemmeplejen. Hun [[forløftede sig]] på en borger, der [[vejede]] i nærheden af 100 kilo, og så var det [[slut med]] at [[forsørge]] sig selv.  
+Anette er 52 år og har været på sygedagpenge og [[kontanthjælp]], siden hun i 2005 måtte opgive arbejdet som [[socialog]] sundhedsasistenet i hjemmeplejen. Hun [[forløftede sig]] på en borger, der [[veje|vejede]] i nærheden af 100 kilo, og så var det [[slut med]] at [[forsørge]] sig selv.  
 
 [[ryggen]] er [[ødelagt]], og Annette har [[smerter]] hver dag og sover som regel dårligt. [[hver]] anden uge kan hun [[dog]] slappe af fra torsdag til søndag, når Fie på snart 10 år og Maya på besøger den aflastningsfamilie, kommunen har [[sørget]] for [[pga]]. Annettes helbred. 18-årige Peter bor stadig hjemme og klarer som regel sig selv. 
 

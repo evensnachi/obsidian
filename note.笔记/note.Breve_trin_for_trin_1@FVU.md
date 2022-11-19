@@ -22,7 +22,7 @@
 
 Når man skal skrive en annonce til en avis, har man ofte kun et begrænset antal ord - eller man skal betale pr. ord. 
 Det kan derfor være nødvendigt at skrive kort og [[koncentreret]]. 
-I annoncer vil du således tit møde forkortelser og halve sætninger - undertiden skrives kun de vigtigste ord i sætningen, og mindre vigtige ord udelades - blot for at spare
+I annoncer vil du således tit møde forkortelser og halve sætninger - undertiden skrives kun de vigtigste ord i sætningen, og mindre [[vigtig|vigtige]] ord udelades - blot for at spare
 
 ## Tilbud
 

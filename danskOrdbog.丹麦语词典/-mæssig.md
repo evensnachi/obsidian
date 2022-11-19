@@ -1,6 +1,6 @@
 ---
 aliases: -mæssigt, -mæssige
 ---
-#ordBog #category/Dansk/ord/suffiks 
+#ordBog #suffiks 
 
 相对的

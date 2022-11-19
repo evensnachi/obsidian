@@ -1,2 +1,0 @@
-- #category/Dansk/ord 
-	- #category/Dansk/ordklasse/udsagnsord 称重

@@ -1,12 +1,8 @@
 ---
-aliases: 
-	#n词结尾
-	-skaben, -skaber, -skaberne
-	#t词结尾
-	-skabet, -skaber, -sakberne
+tags: ordBog, suffiks
+aliases: -skaben, -skaber, -skaberne,	-skabet, -skaber, -sakberne
 ---
-#ordBog 
-#category/Dansk/ord/suffiks 
+
 - bruges til at danne substantiver af adjektiver: det at have en bestemt egenskab eller kvalitet
 
 		由形容词构成名词, 表示具有某种特征或品质. 
@@ -27,6 +23,6 @@ aliases:
 
 		表示从事某种职业, 也表示相关活动
 
-- bruges til at danne substantiver af visse verber
+- bruges til at danne substantiver af visse [[verbum|verber]]
 
 		用于某些动词构成名词

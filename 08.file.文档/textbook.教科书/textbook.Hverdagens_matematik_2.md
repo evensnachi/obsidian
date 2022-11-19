@@ -143,7 +143,7 @@ Herunder kan du se de månedlige [[udgifter]] for leje af et rækkehus i Gladsax
 
 [[have]]::: 有
 ^1667225191540
-[[vedrører]]::: 涉及 
+[[vedrøre|vedrører]]::: 涉及 
 ^1667225191543
 
 

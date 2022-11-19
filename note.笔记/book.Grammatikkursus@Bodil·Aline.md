@@ -13,7 +13,7 @@ aliaese: Bliv en sikker staver
 
 ## Det fonematiske
 
-Det fonematiske princip [[bygger på]] , at der til hver [[betydningsadskillende]] lyd [[knytter]] sig ét bestemt bogstav. Dette skulle [[sikre]], at et bestemt bogstav udtales [[ens]]. Her finder vi de [[lydrette]] ord som f.eks. *lys*, *vitamin*, *kapital* og *mikrobiologi*, vi bliver ikke [[overraskede]] når vi læser (eller staver) ordene, fordi hvert bogstavs lyd udtales.
+Det fonematiske princip [[bygger på]] , at der til hver [[betydningsadskillende]] lyd [[knytter]] sig ét bestemt bogstav. Dette [[skulle]] [[sikre]], at et bestemt bogstav udtales [[ens]]. Her finder vi de [[lydrette]] ord som f.eks. *lys*, *vitamin*, *kapital* og *mikrobiologi*, vi bliver ikke [[overraskede]] når vi læser (eller staver) ordene, fordi hvert bogstavs lyd udtales.
 
 	音素原理建立在每个具有独立含义的音素都有一个确定的字母相关联. 这就保证了, 每个确定字母的发音都一样. 这里是我们找到的听写一致的单词, 例如: 听, 维他命, 首都和微生物学, 当我们阅读(或者拼写)单词时, 我们不会惊慌, 因为每个字母都听发音.
 

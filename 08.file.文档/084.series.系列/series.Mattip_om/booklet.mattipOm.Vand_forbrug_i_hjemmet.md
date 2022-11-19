@@ -7,7 +7,7 @@ tags: booklet, matematik,  mattip
 PDFfile:: [[mattip_om-vandforbrug_i_hjemmet.pdf]]
 # Du skal arbejde med:
 - Matematiske  [[beregninger]]  i [[forhold]] til [[forburg]] i hjemmet.
-- [[Praktiske]] [[aktiviteter]], der [[vedrører]] dit [[eget]] forbrug i hjemmet.
+- [[Praktiske]] [[aktiviteter]], der [[vedrøre|vedrører]] dit [[eget]] forbrug i hjemmet.
 - At [[skabe]] en [[forstelse]] for økonomi i [[forbindelse]] med forbrug.
 - Brugen af korrekte [[enheder]]
 - [[Faglig]] læsning.

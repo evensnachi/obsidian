@@ -3,5 +3,5 @@ aliases:
 ---
 #ordBog 
 - 减去
-- Betyder at man skal minusse
+- Betyder at man [[skulle|skal]] minusse
 - Subtraktion
