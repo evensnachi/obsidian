@@ -3,4 +3,4 @@ tags: ordbog,
 aliases: 
 ---
 #category/Dansk/ord/præfiks 
-- 出到极致的
+- 表示修饰的词根含义更扩大一步

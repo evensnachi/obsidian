@@ -1,7 +1,8 @@
 ---
+tags: ordBog, rod
 aliases: virker, virkede, virket
 ---
-#ordBog 
+
 #category/Dansk/ordklasse/udsagnsord 
 	- 运转
 	- 影响

@@ -2,6 +2,7 @@
 tags: ordbog
 aliases: yderligt, yderlige, yderligere, yderligst
 ---
+
 #category/Dansk/ordklasse/tillægsord 
 - 更多的, 更近一步的
 - [[yder-]][[-lig]]
