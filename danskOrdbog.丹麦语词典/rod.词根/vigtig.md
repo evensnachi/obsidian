@@ -1,5 +1,5 @@
 ---
-tags: card
+tags: card, rod
 aliases: vigtigt, vigtige, vigtigere, vigtigst, vigtigest
 ---
 

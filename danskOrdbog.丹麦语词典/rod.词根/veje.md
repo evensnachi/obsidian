@@ -1,5 +1,5 @@
 ---
-tags: ordbog
+tags: card, rod
 aliases: vejer, vejede, vejet
 ---
 
