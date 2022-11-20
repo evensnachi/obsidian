@@ -1,4 +1,4 @@
 ---
-tags: ordbog
+tags: card
 aliases: 
 ---
