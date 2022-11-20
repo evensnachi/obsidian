@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
-                "mode": "preview",
+                "file": "模板/Dairy_日记模板.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+            "file": "模板/Dairy_日记模板.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+            "file": "模板/Dairy_日记模板.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md"
+            "file": "模板/Dairy_日记模板.md"
           }
         }
       }
@@ -132,15 +132,15 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
-    "Inbox/vigtig.md",
+    "日记/2022-11-20.md",
+    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
+    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
+    "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+    "danskOrdbog.丹麦语词典/udtryk.词组/uden at røre en finger.md",
+    "日记/2022-11-19.md",
     "08.file.文档/085.booklet 小册子/booklet.mattipOm.Tag trygt på ferie.md",
+    "Inbox/vigtig.md",
     "日记/2022-11-18.md",
-    "09.work.工作/照烧酱.md",
-    "09.work.工作/work.heat.备酱列表.md",
-    "日记/2022-11-16.md",
-    "日记/2022-11-15.md",
-    "日记/2022-11-14.md",
-    "03.note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "日记/2022-11-13.md"
+    "09.work.工作/照烧酱.md"
   ]
 }

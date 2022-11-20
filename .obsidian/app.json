@@ -28,7 +28,8 @@
     "editor:unfold-all",
     "note-composer:extract-heading",
     "editor:context-menu",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:toggle-code"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",

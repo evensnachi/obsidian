@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f910b51966e353",
+        "id": "cb16d8b4fbb15432",
         "type": "tabs",
         "children": [
           {
-            "id": "ff23f5082d54eb86",
+            "id": "7b191c187f1417a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +138,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "ff23f5082d54eb86",
+  "active": "7b191c187f1417a2",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
+    "danskOrdbog.丹麦语词典/rod.词根/advare.md",
+    "danskOrdbog.丹麦语词典/rod.词根/afløb.md",
+    "danskOrdbog.丹麦语词典/rod.词根/fonem.md",
+    "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+    "danskOrdbog.丹麦语词典/rod.词根/skal.md",
+    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
     "danskOrdbog.丹麦语词典/værdigt.md",
     "danskOrdbog.丹麦语词典/væk.md",
-    "danskOrdbog.丹麦语词典/tømme.md",
-    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
-    "danskOrdbog.丹麦语词典/tri.md",
-    "danskOrdbog.丹麦语词典/ud.md",
-    "danskOrdbog.丹麦语词典/til.md",
-    "danskOrdbog.丹麦语词典/afledteord.衍生词/morfematisk.md",
-    "danskOrdbog.丹麦语词典/rod.词根/morfem.md",
-    "note.笔记/book.Grammatikkursus@Bodil·Aline.md"
+    "danskOrdbog.丹麦语词典/tømme.md"
   ]
 }
