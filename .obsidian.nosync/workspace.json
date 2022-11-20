@@ -11,8 +11,13 @@
             "id": "7b191c187f1417a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/værd.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/værd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/værd.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/værd.md"
+              }
             }
           }
         ],
@@ -140,15 +149,15 @@
   },
   "active": "7b191c187f1417a2",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/værdig.md",
+    "Inbox/-ig.md",
+    "08.file.文档/081.article.文章/article.Fakta_om_hus_forbi.md",
     "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
     "danskOrdbog.丹麦语词典/rod.词根/advare.md",
     "danskOrdbog.丹麦语词典/rod.词根/afløb.md",
     "danskOrdbog.丹麦语词典/rod.词根/fonem.md",
     "danskOrdbog.丹麦语词典/rod.词根/røre.md",
     "danskOrdbog.丹麦语词典/rod.词根/skal.md",
-    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
-    "danskOrdbog.丹麦语词典/værdigt.md",
-    "danskOrdbog.丹麦语词典/væk.md",
-    "danskOrdbog.丹麦语词典/tømme.md"
+    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md"
   ]
 }

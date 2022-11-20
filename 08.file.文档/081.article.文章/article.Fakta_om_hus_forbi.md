@@ -30,7 +30,7 @@ Hus  Forbi er en af de få, om ikke den [[eneste]] avis, der bliver solgt på ga
 - ![[medierne]]
 - ![[talerør]]
 - ![[udgør]]
-- ![[værdigt]]
+- ![[værdig|værdigt]]
 - ![[alternativ]]
 - ![[tiggeri]]
 - ![[tidligere hjemløse]]

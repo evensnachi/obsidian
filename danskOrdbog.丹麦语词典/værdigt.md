@@ -1,2 +1,0 @@
-- #category/Dansk/ord 
-    - 值得
