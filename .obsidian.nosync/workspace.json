@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/samtale.md",
-                "mode": "preview",
+                "file": "danskOrdbog.丹麦语词典/samlede.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/samtale.md",
+                "file": "danskOrdbog.丹麦语词典/samlede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/samtale.md",
+                "file": "danskOrdbog.丹麦语词典/samlede.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/samtale.md"
+                "file": "danskOrdbog.丹麦语词典/samlede.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "b33ccf4ca384bfcf",
   "lastOpenFiles": [
     "danskOrdbog.丹麦语词典/rod.词根/ved.md",
+    "danskOrdbog.丹麦语词典/samtale.md",
     "日记/2022-11-20.md",
     "模板/NewWord 新单词模板.md",
     "Inbox/丹麦语单词.md",
@@ -157,7 +158,6 @@
     "danskOrdbog.丹麦语词典/rod.词根/vel.md",
     "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
     "danskOrdbog.丹麦语词典/rod.词根/vigtig.md",
-    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/veje ud.md"
+    "danskOrdbog.丹麦语词典/rod.词根/virke.md"
   ]
 }
