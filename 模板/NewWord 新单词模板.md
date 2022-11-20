@@ -1,4 +1,6 @@
 ---
-tags: card
+tags: 
 aliases: 
 ---
+
+# {{title}} #card 
