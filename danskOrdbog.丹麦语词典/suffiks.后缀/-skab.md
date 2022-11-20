@@ -1,5 +1,5 @@
 ---
-tags: ordBog, suffiks
+tags: card, suffiks
 aliases: -skaben, -skaber, -skaberne,	-skabet, -skaber, -sakberne
 ---
 

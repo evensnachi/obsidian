@@ -1,7 +1,7 @@
 ---
 aliases: red-, 
 ---
-#ordBog 
+#card 
 #category/Dansk/ord/præfiks
 - igen, [[på ny]]
 

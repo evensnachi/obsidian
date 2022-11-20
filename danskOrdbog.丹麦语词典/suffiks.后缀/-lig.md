@@ -1,5 +1,5 @@
 ---
-tags: ordBog, suffiks
+tags: card, suffiks
 aliases: lig, -ligt, -lige, -ligere, -ligst, -lign
 ---
 

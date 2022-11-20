@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb16d8b4fbb15432",
+        "id": "9245341222785eda",
         "type": "tabs",
         "children": [
           {
-            "id": "7b191c187f1417a2",
+            "id": "b33ccf4ca384bfcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/væk.md",
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/veje ud.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#suffiks",
+                "query": "tag:#ordBog",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/væk.md",
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/veje ud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/væk.md",
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/veje ud.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/væk.md"
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/veje ud.md"
               }
             }
           }
@@ -147,8 +147,10 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "7b191c187f1417a2",
+  "active": "8232a35961c5e2fd",
   "lastOpenFiles": [
+    "日记/2022-11-20.md",
+    "danskOrdbog.丹麦语词典/væk.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/væk for.md",
     "Inbox/for.md",
     "danskOrdbog.丹麦语词典/afledteord.衍生词/værdig.md",
@@ -156,8 +158,6 @@
     "Inbox/-ig.md",
     "08.file.文档/081.article.文章/article.Fakta_om_hus_forbi.md",
     "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
-    "danskOrdbog.丹麦语词典/rod.词根/advare.md",
-    "danskOrdbog.丹麦语词典/rod.词根/afløb.md",
-    "danskOrdbog.丹麦语词典/rod.词根/fonem.md"
+    "danskOrdbog.丹麦语词典/rod.词根/advare.md"
   ]
 }

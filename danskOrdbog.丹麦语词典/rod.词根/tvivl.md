@@ -1,5 +1,5 @@
 ---
-tags: ordBog
+tags: card
 aliases: tvivlen, at tvivle, tvivle, tvivler, tvivlede, tvivlet
 ---
 

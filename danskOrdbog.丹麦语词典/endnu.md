@@ -1,6 +1,6 @@
 ---
 title: endnu
-tags: ordBog, 
+tags: card, 
 aliases: 
 ---
 #category/Dansk/ordklasse/biord 

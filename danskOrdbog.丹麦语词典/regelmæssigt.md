@@ -1,5 +1,5 @@
 ---
 aliases: 
 ---
-#ordBog #category/Dansk/ordklasse/biord 
+#card #category/Dansk/ordklasse/biord 
 - 有规律的

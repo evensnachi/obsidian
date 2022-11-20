@@ -1,6 +1,6 @@
 ---
 aliases: regelmæssigheden, regelmæssigheder, regelmæssighederne
 ---
-#ordBog #category/Dansk/ordklasse/navneord/n-ord 
+#card #category/Dansk/ordklasse/navneord/n-ord 
 
 规律性

@@ -1,6 +1,6 @@
 ---
 title: end
-tags: ordBog, 
+tags: card, 
 aliases: 
 ---
 #

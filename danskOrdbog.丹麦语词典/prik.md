@@ -1,4 +1,4 @@
-#ordBog #category/Dansk/ord
+#card #category/Dansk/ord
 #category/Dansk/ordklasse/navneord/n-ord 小圆点
 - [[prikken]]
 - [[prikker]] ^df7172

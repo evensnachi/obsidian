@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#ordBog #udtryk 
+#card #udtryk 
 
 - 去厕所

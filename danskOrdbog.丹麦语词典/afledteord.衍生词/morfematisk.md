@@ -1,5 +1,5 @@
 ---
-tags: ordbog, afledteord
+tags: ordbog, afledteOrd
 aliases: morfematiske
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ordBog
+tags: card
 aliases: psiten
 ---
 #category/Dansk/ordklasse/navneord/n-ord 

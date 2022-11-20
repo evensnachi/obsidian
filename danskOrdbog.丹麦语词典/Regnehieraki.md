@@ -1,7 +1,7 @@
 ---
 title: Regnehieraki
 date: 18-11-2022_星期五
-tags: concept, ordBog, matematik
+tags: concept, card, matematik
 ---
 
 #category/Dansk/ordklasse/navneord 

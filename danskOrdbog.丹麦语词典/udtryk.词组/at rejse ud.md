@@ -1,5 +1,5 @@
 ---
-tags: ordBog, udtryk
+tags: card, udtryk
 aliases: rejser ud 
 ---
 

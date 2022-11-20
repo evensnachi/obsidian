@@ -1,6 +1,6 @@
 ---
 aliases: hyppighedstabellen, hyppighedstabeller, hyppighedstabelerne
 ---
-#ordBog 
+#card 
 - [[hyppighed]]s[[tabel]]
 - 频次表

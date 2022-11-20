@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#ordBog 
+#card 
 #udtryk 
 - 再次

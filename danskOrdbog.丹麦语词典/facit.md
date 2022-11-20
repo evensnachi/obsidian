@@ -1,5 +1,5 @@
 ---
 aliases: 
 ---
-#ordBog 
+#card 
 - 结论

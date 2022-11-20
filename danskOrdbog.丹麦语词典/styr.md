@@ -1,7 +1,7 @@
 ---
 aliases: styret, styr, styrene
 ---
-#ordBog 
+#card 
 #category/Dansk/ordklasse/navneord/t-ord 
 
 	- 车把

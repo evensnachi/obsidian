@@ -1,7 +1,7 @@
 ---
 aliases:  tænker over, tænkte over, har tænkt over, havde tænket over
 ---
-#ordBog #udtryk 
+#card #udtryk 
 
 [[tænke]] [[over]]
 - 考虑

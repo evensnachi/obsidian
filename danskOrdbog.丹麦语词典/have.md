@@ -1,5 +1,5 @@
 ---
-tags: ordBog
+tags: card
 aliases: at have, har, havde, haft
 ---
 

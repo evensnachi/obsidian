@@ -1,7 +1,7 @@
 ---
 aliases: tidligt, tidlige, tidligere, tidligst
 ---
-#ordBog 
+#card 
 
 #category/Dansk/ordklasse/tillægsord 
 

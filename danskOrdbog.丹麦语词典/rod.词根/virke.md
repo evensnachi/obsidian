@@ -1,5 +1,5 @@
 ---
-tags: ordBog, rod
+tags: card, rod
 aliases: virker, virkede, virket
 ---
 

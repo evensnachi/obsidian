@@ -1,5 +1,5 @@
 ---
-tags: ordBog , sammensatOrd
+tags: card , sammensatOrd
 aliases: ferietiden, ferietider, ferietiderne
 ---
 

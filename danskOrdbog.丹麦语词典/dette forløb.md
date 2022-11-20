@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#ordBog #udtryk 
+#card #udtryk 
 
 [[denne|dette]] [[forløb]]
 
