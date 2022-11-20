@@ -1,5 +1,5 @@
 {
-  "contextAwareMode": false,
+  "contextAwareMode": true,
   "sourceSupport": true,
   "codeHighlightSupport": true,
   "inlineID": true,
