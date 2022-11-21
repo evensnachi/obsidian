@@ -1,7 +1,7 @@
 ---
 aliases: dette, disse
 ---
-#card #category/Dansk/ordklasse/stedord
+#card #stedord代词
 - 这个
 - [[denne gang]] 这次
 - [[på denne måde]] 这样,这样子 

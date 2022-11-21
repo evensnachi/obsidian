@@ -2,10 +2,15 @@
 title: ved
 tags: rod
 aliases: veddet
-cards-deck: danskOrdbog.丹麦语词典::rod.词根
+cards-deck: 21-11-2022_星期一
+cards-deck: 21-11-2022_星期一
 ---
 
-# ved #card
-木头  #category/Dansk/ordklasse/navneord/t-ord 
-在旁边; 被,由 #category/Dansk/ordklasse/forholdsord介词 
-^1668953185719
+# ved #navneord名词/t-ord #card
+- 木头  
+^1669018214168
+
+# ved #forholdsord介词 #card
+- 在旁边; 被,由
+^1669018021783
+

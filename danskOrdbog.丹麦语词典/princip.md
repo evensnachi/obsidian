@@ -1,3 +1,3 @@
-- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/t-ord #card #category/Dansk/ord
+- #navneord名词 #navneord名词/t-ord #card #ordBog
 	- 原理
-- [[principper]] #category/Dansk/ordklasse/navneord/n-ord/flertal
+- [[principper]] #navneord名词/n-ord/flertal

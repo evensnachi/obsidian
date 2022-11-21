@@ -1,2 +1,2 @@
-- #category/Dansk/ord #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/t-ord 
+- #ordBog #navneord名词 #navneord名词/t-ord 
     - 喉舌

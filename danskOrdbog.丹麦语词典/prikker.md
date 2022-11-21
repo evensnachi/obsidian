@@ -1,3 +1,3 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/navneord/n-ord/flertal 小圆点
-#category/Dansk/ordklasse/udsagnsord/nutid 用...刺着
+#card #ordBog 
+#navneord名词/n-ord/flertal 小圆点
+#udsagnsord动词/nutid 用...刺着

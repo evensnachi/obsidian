@@ -3,5 +3,5 @@ title: endnu
 tags: card, 
 aliases: 
 ---
-#category/Dansk/ordklasse/biord 
+#biord副词 
 - 还, 仍旧, 仍然

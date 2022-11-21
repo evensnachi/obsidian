@@ -1,4 +1,4 @@
-- #category/Dansk/ord #sammensatOrd 
+- #ordBog #sammensatOrd 
 	- 提前退休
 	- [[førtid]]s[[pension]]
 	- 

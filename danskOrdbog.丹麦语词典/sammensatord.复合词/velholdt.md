@@ -3,6 +3,6 @@ tags: ordbog, sammensatOrd
 aliases: velholdte
 ---
 
-#category/Dansk/ordklasse/tillægsord 
+#tillægsord形容词 
 - 保存良好的
 - [[vel]][[holde|holdt]]

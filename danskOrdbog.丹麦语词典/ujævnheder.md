@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/navneord #card #category/Dansk/ordklasse/navneord/n-ord/flertal
+tag:: #navneord名词 #card #navneord名词/n-ord/flertal
 
 	- 凹凸不平
 - [[ujævn]]-[[hed]]

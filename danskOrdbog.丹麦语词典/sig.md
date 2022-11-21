@@ -1,4 +1,0 @@
-- #category/Dansk/ord/personligeStedord
-	- 某人自己
-- #category/Dansk/ordklasse/udsagnsord  #category/Dansk/ordklasse/udsagnsord/bydeform 
-	- 说

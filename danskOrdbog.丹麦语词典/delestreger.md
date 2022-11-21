@@ -1,3 +1,3 @@
 #card #sammensatOrd 
-#category/Dansk/ordklasse/navneord/n-ord/flertal  连字符
+#navneord名词/n-ord/flertal  连字符
 - [[delestreg]]

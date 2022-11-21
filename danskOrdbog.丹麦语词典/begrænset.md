@@ -1,2 +1,2 @@
-- #category/English/wordClass/adjective #card #category/Dansk/ord
+- #category/English/wordClass/adjective #card #ordBog
 	- 有限的

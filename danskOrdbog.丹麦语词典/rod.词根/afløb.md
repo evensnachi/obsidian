@@ -3,5 +3,5 @@ tags: ordbog
 aliases: afløbet, afløbene
 ---
 
-#category/Dansk/ordklasse/navneord/t-ord 
+#navneord名词/t-ord 
 - 下水道; 出水口

@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ordklasse/udsagnsord/infinitiv
+tag:: #udsagnsord动词 #card #udsagnsord动词/infinitiv
 card-last-interval:: 4
 card-repeats:: 1
 card-ease-factor:: 2.6

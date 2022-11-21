@@ -1,10 +1,11 @@
 ---
 tags: card, rod
 aliases: 
-cards-deck: danskOrdbog.丹麦语词典::rod.词根
+cards-deck: 21-11-2022_星期一
 ---
 
 # vel #card 
 
-#category/Dansk/ordklasse/stedord 
+#stedord代词 
 - 好, 对, 令人满意
+^1669017796703

@@ -1,2 +1,2 @@
-- #category/Dansk/ordklasse/navneord/n-ord/flertal 
-- #category/Dansk/ordklasse/navneord/n-ord 费用,开支,经费
+- #navneord名词/n-ord/flertal 
+- #navneord名词/n-ord 费用,开支,经费

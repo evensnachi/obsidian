@@ -1,2 +1,2 @@
-- #category/Dansk/ord #category/English/wordClass/adjective #category/Dansk/ordklasse/navneord/n-ord/flertal 
+- #ordBog #category/English/wordClass/adjective #navneord名词/n-ord/flertal 
     - 只有的, 单独的

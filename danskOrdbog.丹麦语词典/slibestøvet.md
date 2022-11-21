@@ -1,4 +1,4 @@
-- #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/t-ord #card
+- #navneord名词 #navneord名词/t-ord #card
   card-last-interval:: 4
   card-repeats:: 1
   card-ease-factor:: 2.36

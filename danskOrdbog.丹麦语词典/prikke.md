@@ -1,5 +1,5 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/udsagnsord/infinitiv 用...刺; 刺痛
+#card #ordBog 
+#udsagnsord动词/infinitiv 用...刺; 刺痛
 - [[prik]]
 - [[prikker]]
 - [[prikkede]]

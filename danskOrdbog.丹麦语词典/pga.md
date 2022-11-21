@@ -1,2 +1,2 @@
-- #category/Dansk/ord  på grund af
+- #ordBog  på grund af
 	- 因为

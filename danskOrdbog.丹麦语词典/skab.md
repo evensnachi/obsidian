@@ -2,6 +2,6 @@
 aliases: skabet, skabe, skabene
 ---
 #card 
-#category/Dansk/ordklasse/navneord/t-ord 
+#navneord名词/t-ord 
 	- 橱柜, 柜子, 储藏室
 	- (医学) 疥疮

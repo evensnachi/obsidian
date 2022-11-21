@@ -1,2 +1,2 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/udsagnsord/datid 用...刺了
+#card #ordBog 
+#udsagnsord动词/datid 用...刺了

@@ -4,7 +4,7 @@ date: 18-11-2022_星期五
 tags: concept, card, matematik
 ---
 
-#category/Dansk/ordklasse/navneord 
+#navneord名词 
 - 运算优先级
 
 

@@ -28,13 +28,13 @@ At handle ind = at købe
 
 ###### 生词
 
-**samtale**:: 对话, 面试 #category/Dansk/ordklasse/navneord/n-ord
+**samtale**:: 对话, 面试 #navneord名词/n-ord
 
-**udgør**:: 构成 #category/Dansk/ordklasse/udsagnsord/nutid
+**udgør**:: 构成 #udsagnsord动词/nutid
 
-**udgiften**:: 支出,花费,费用 #category/Dansk/ordklasse/navneord/n-ord/artikel
+**udgiften**:: 支出,花费,费用 #navneord名词/n-ord/artikel
 
-**samlede**:: 累计 #category/Dansk/ordklasse/udsagnsord/datid/tillægsord
+**samlede**:: 累计 #udsagnsord动词/datid/tillægsord
 
 
 

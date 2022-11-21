@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ordklasse/udsagnsord/bydeform #category/Dansk/ordklasse/udsagnsord/infinitiv
+tag:: #udsagnsord动词 #card #udsagnsord动词/bydeform #udsagnsord动词/infinitiv
 
 	- 得到
 - [[får]]

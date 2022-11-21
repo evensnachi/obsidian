@@ -3,6 +3,6 @@ tags: ordbog
 aliases: vedrører, vedrørte, vedrørt
 ---
 
-#category/Dansk/ordklasse/udsagnsord 
+#udsagnsord动词 
 - 指称, 涉及到, 有关
 - [[ved]][[røre]]

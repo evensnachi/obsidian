@@ -2,6 +2,6 @@
 aliases: 
 ---
 #card 
-#category/Dansk/ordklasse/tillægsord 
+#tillægsord形容词 
 
 	- 提到的

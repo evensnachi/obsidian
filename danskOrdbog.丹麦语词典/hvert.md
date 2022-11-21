@@ -1,3 +1,3 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/stedord/intetkøn 每个; 每人
+#card #ordBog 
+#stedord代词/intetkøn 每个; 每人
 - [[hver]]

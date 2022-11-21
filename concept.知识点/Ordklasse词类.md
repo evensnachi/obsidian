@@ -1,2 +1,2 @@
-#type/concept #category/Dansk/ordklasse 
+#type/concept 
 - 表达单词性质的分类. 

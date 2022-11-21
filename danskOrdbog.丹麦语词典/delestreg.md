@@ -1,5 +1,5 @@
 #card #sammensatOrd [[dele]]-[[streg]]
-#category/Dansk/ordklasse/navneord/n-ord 连字符
+#navneord名词/n-ord 连字符
 - [[delestregen]]
 - [[delestreger]]
 - [[delestregerne]]

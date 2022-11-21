@@ -1,3 +1,3 @@
-- #category/English/wordClass/adjective #card #category/Dansk/ord
+- #category/English/wordClass/adjective #card #ordBog
   collapsed:: true
 	- 多才多艺的

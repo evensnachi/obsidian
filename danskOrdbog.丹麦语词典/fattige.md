@@ -1,4 +1,4 @@
-- #category/Dansk/ord 
+- #ordBog 
 	- 贫困的
 
 ## Udtale

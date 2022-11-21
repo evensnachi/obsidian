@@ -3,7 +3,7 @@ tags: ordbog, afledteOrd, sidsteled
 aliases: venligt, venlige, venligere, venligst, -venlig
 ---
 
-#category/Dansk/ordklasse/tillægsord 
+#tillægsord形容词 
 - 友好的
 
 #sidsteled

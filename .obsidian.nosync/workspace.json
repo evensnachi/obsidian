@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9245341222785eda",
+        "id": "47060f34348f62dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b33ccf4ca384bfcf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/临时模板.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "056d0fc402f185fe",
+            "id": "145779e4544cdac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/vel.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ordBog",
+                "query": "tag:#category/Dansk/grammatik",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/vel.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/vel.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/vel.md"
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md"
               }
             }
           }
@@ -160,20 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
-  "active": "056d0fc402f185fe",
+  "active": "145779e4544cdac6",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/rod.词根/sig.md",
+    "danskOrdbog.丹麦语词典/præfiks.前缀/re-.md",
     "模板/临时模板.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vel.md",
-    "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vigtig.md",
-    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
-    "日记/2022-11-21.md",
     "模板/NewWord 新单词模板.md",
-    "模板/Dairy_日记模板.md",
-    "Attachment/Sandt eller falsk.jpg",
-    "danskOrdbog.丹麦语词典/suffiks.后缀/-ig.md"
+    "danskOrdbog.丹麦语词典/rod.词根/ved.md",
+    "concept.知识点/Ordklasse词类.md",
+    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
+    "Inbox/new.md",
+    "danskOrdbog.丹麦语词典/rod.词根/veje.md",
+    "danskOrdbog.丹麦语词典/rod.词根/vel.md"
   ]
 }

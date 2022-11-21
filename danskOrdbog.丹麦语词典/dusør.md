@@ -1,4 +1,4 @@
-- #category/Dansk/ordklasse/navneord #card #category/Dansk/ord
+- #navneord名词 #card #ordBog
   collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1

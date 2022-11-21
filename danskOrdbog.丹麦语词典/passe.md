@@ -1,4 +1,4 @@
-#category/Dansk/ord   
+#ordBog   
 适合, 配合, 照顾
 
 ## Udtale

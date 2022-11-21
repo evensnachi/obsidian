@@ -1,7 +1,7 @@
 ---
 aliases: regelmæssigt, regelmæssige
 ---
-#card #category/Dansk/ordklasse/tillægsord #afledteOrd 
+#card #tillægsord形容词 #afledteOrd 
 [[regel]][[-mæssig]] `相对的规矩`
 有规律的; 均匀; 
 

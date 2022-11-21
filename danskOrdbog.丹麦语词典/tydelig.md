@@ -1,4 +1,4 @@
-#category/Dansk/ord   
+#ordBog   
 明显, 示范
 
 ## Udtale

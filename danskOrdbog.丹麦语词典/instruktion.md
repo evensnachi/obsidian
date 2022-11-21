@@ -1,2 +1,2 @@
-- #category/Dansk/ordklasse/navneord #card #category/Dansk/ord
+- #navneord名词 #card #ordBog
 	- 用法说明

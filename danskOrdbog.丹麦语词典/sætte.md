@@ -1,4 +1,4 @@
-#category/Dansk/ord   
+#ordBog   
 布置,设定
 
 ## Udtale

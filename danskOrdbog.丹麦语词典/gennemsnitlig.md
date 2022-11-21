@@ -1,7 +1,7 @@
 ---
 aliases: gennemsnitligt, gennemsnitlige, 
 ---
-#card #category/Dansk/ordklasse/tillægsord 
+#card #tillægsord形容词 
 
 - [[gennemsnit]][[-lig]]
 - 平均的

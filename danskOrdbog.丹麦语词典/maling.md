@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/navneord #card #category/Dansk/ordklasse/navneord/n-ord
+tag:: #navneord名词 #card #navneord名词/n-ord
 
 	- 油漆
 	-

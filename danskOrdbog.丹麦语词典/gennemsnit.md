@@ -1,7 +1,7 @@
 ---
 aliases: gennemsnittet, gennemsnit, gennemsnittene
 ---
-#card #category/Dansk/ordklasse/navneord/t-ord 
+#card #navneord名词/t-ord 
 
 - 'g*e*n|n*e*m|sn*i*t
 - 直径, 平均数

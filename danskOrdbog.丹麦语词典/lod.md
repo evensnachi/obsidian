@@ -1,4 +1,4 @@
-- #category/Dansk/ordklasse/udsagnsord #category/Dansk/ordklasse/udsagnsord/datid 
+- #udsagnsord动词 #udsagnsord动词/datid 
 	- 让
 	- [[lad]]
 	- 

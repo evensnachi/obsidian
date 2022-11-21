@@ -1,4 +1,4 @@
-- #category/English/wordClass/adjective #card #category/Dansk/ord
+- #category/English/wordClass/adjective #card #ordBog
   card-last-interval:: 4
   card-repeats:: 1
   card-ease-factor:: 2.6

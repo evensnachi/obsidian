@@ -3,6 +3,6 @@ aliases: tidligt, tidlige, tidligere, tidligst
 ---
 #card 
 
-#category/Dansk/ordklasse/tillægsord 
+#tillægsord形容词 
 
 	- 早的

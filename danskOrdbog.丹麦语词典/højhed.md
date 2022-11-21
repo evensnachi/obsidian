@@ -1,5 +1,5 @@
 ---
 aliases: højheden, højheder, højhederne
 ---
-#card #category/Dansk/ordklasse/navneord/n-ord 
+#card #navneord名词/n-ord 
 - (称呼)殿下

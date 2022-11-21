@@ -1,5 +1,5 @@
 ---
 aliases: forskellen, forkelle, forskellene
 ---
-#card #category/Dansk/ordklasse/navneord/n-ord 
+#card #navneord名词/n-ord 
 - 不同

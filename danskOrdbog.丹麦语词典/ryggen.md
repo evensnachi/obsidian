@@ -1,2 +1,2 @@
-- #category/Dansk/ord 
-	- #category/Dansk/ordklasse/navneord 背部
+- #ordBog 
+	- #navneord名词 背部

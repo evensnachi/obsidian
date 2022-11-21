@@ -1,4 +1,4 @@
-#type/concept #category/Dansk/ordklasse/navneord 
+#type/concept #navneord名词 
 
 - Substantiv 
 

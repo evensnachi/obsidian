@@ -1,3 +1,3 @@
-tag:: #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ordklasse/udsagnsord/førdatid #category/Dansk/ordklasse/udsagnsord/førnutid
+tag:: #udsagnsord动词 #card #udsagnsord动词/førdatid #udsagnsord动词/førnutid
 
 	- 吃

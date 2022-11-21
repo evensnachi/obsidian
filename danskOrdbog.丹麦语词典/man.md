@@ -1,4 +1,4 @@
-#category/Dansk/ord   
+#ordBog   
 指代表一类事物的,不确定的一个
 
 ## Udtale

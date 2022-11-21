@@ -1,2 +1,2 @@
-- #category/Dansk/ordklasse/udsagnsord #category/Dansk/ordklasse/udsagnsord/bydeform 
+- #udsagnsord动词 #udsagnsord动词/bydeform 
 	- 让

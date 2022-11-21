@@ -1,2 +1,2 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/navneord/n-ord/flertalArtikel 小圆点
+#card #ordBog 
+#navneord名词/n-ord/flertalArtikel 小圆点

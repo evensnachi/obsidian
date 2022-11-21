@@ -1,5 +1,5 @@
 tags:: #card 
-词性::  #category/Dansk/ordklasse/navneord 
+词性::  #navneord名词 
 释义:: 动词
 单词变位:: 
 同义词:: [[verbum]]

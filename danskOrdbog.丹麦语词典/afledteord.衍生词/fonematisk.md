@@ -3,6 +3,6 @@ tags: ordbog, afledteOrd
 aliases: fonematiske
 ---
 
-#category/Dansk/ordklasse/tillægsord 
+#tillægsord形容词 
 	- 音素的
 	- [[fonem]][[-at]][[-isk]]

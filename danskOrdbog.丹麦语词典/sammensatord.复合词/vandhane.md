@@ -3,6 +3,6 @@ tags: ordbog
 aliases: vandhanen, vandhaner, vandhanerne
 ---
 
-#category/Dansk/ordklasse/navneord/n-ord 
+#navneord名词/n-ord 
 - 水龙头
 - [[vand]][[hane]]

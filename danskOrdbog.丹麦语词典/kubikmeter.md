@@ -1,5 +1,5 @@
 ---
 aliases:kubikmeteren, kubikmeter, kubikmeterne
 ---
-#card #category/Dansk/ordklasse/navneord/n-ord 
+#card #navneord名词/n-ord 
 - 立方米

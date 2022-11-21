@@ -1,6 +1,6 @@
 ---
 aliases: generelt, generelle
 ---
-#card #category/Dansk/ordklasse/tillægsord 
+#card #tillægsord形容词 
 
 普遍, 一般; 全面;

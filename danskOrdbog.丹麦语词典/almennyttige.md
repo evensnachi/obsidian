@@ -1,2 +1,2 @@
-- #category/Dansk/ordklasse/tillægsord 非营利的
+- #tillægsord形容词 非营利的
 - 

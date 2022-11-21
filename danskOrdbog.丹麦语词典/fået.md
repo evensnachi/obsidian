@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ordklasse/udsagnsord/førnutid #category/Dansk/ordklasse/udsagnsord/førdatid
+tag:: #udsagnsord动词 #card #udsagnsord动词/førnutid #udsagnsord动词/førdatid
 
 	- 得到
 - [[få]]

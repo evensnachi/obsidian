@@ -3,5 +3,5 @@ tags: ordbog
 aliases: morfemet, morfemer, morfemerne
 ---
 
-#category/Dansk/ordklasse/navneord/t-ord
+#navneord名词/t-ord
 - 语素

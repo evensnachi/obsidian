@@ -1,2 +1,2 @@
-- #category/Dansk/ord 
+- #ordBog 
     - 易受伤害的

@@ -1,4 +1,4 @@
-tag:: #category/Dansk/ordklasse/udsagnsord #card #category/Dansk/ordklasse/udsagnsord/bydeform
+tag:: #udsagnsord动词 #card #udsagnsord动词/bydeform
 
 	- 吃
 -

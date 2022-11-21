@@ -1,4 +1,4 @@
-#category/Dansk/ord 
+#ordBog 
 庆祝
 
 ## Udtale

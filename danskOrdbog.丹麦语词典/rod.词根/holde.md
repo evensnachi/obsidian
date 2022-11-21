@@ -2,5 +2,5 @@
 tags: ordbog
 aliases: holder, holdt, holdte
 ---
-#category/Dansk/ordklasse/udsagnsord 
+#udsagnsord动词 
 -  持有, 保存

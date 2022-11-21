@@ -1,3 +1,3 @@
-- [[princip]] #category/Dansk/ordklasse/navneord/n-ord/flertal #card
+- [[princip]] #navneord名词/n-ord/flertal #card
 	- 原理
 	-

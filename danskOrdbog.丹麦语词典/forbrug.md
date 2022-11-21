@@ -1,7 +1,7 @@
 ---
 aliases: forbruget
 ---
-#card #category/Dansk/ordklasse/navneord/t-ord 
+#card #navneord名词/t-ord 
 
 - 消费 
 

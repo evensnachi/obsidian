@@ -1,2 +1,2 @@
-#sammensatOrd #category/Dansk/ordklasse/navneord 
+#sammensatOrd #navneord名词 
 木质部件

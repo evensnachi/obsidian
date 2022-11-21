@@ -1,4 +1,4 @@
-- #category/English/wordClass/adjective #card #category/Dansk/ord
+- #category/English/wordClass/adjective #card #ordBog
   collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1

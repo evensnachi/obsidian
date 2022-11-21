@@ -1,3 +1,3 @@
-- #category/Dansk/ordklasse/udsagnsord #category/Dansk/ordklasse/udsagnsord/datid #card
+- #udsagnsord动词 #udsagnsord动词/datid #card
 	- 缺少, 缺乏
 -

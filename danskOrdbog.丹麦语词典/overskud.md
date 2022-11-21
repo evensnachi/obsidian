@@ -1,2 +1,2 @@
-- #category/Dansk/ord 
+- #ordBog 
 	- 剩余, 盈余   

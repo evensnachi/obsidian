@@ -2,5 +2,5 @@
 tags: card
 aliases: psiten
 ---
-#category/Dansk/ordklasse/navneord/n-ord 
+#navneord名词/n-ord 
 - 滑雪道

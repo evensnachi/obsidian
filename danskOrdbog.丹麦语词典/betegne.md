@@ -1,6 +1,6 @@
 ---
 aliases: betegner, betegnede, betegnet
 ---
-#card #category/Dansk/ordklasse/udsagnsord 
+#card #udsagnsord动词 
 
 - 表示

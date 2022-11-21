@@ -1,4 +1,4 @@
-#category/Dansk/ord   
+#ordBog   
 [[sammen]]·[[sætte|sat]]  
 组合
 

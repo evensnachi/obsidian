@@ -1,2 +1,2 @@
-- #category/Dansk/ordklasse/tillægsord 
+- #tillægsord形容词 
 	- 便携的

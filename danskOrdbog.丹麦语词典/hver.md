@@ -1,3 +1,3 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/stedord/fælleskøn 每个; 每人
+#card #ordBog 
+#stedord代词/fælleskøn 每个; 每人
 - [[hvert]]

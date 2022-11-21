@@ -3,5 +3,5 @@ tags: ordbog
 aliases: vandet
 ---
 
-#category/Dansk/ordklasse/navneord/t-ord 
+#navneord名词/t-ord 
 - 水

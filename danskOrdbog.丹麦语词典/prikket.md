@@ -1,2 +1,2 @@
-#card #category/Dansk/ord 
-#category/Dansk/ordklasse/udsagnsord/kortParticipium 用...刺
+#card #ordBog 
+#udsagnsord动词/kortParticipium 用...刺

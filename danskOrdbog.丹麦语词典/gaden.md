@@ -1,2 +1,2 @@
-- 街上 #category/Dansk/ord #category/Dansk/ordklasse/navneord #category/Dansk/ordklasse/navneord/n-ord #category/Dansk/ordklasse/navneord/n-ord/artikel
+- 街上 #ordBog #navneord名词 #navneord名词/n-ord #navneord名词/n-ord/artikel
 - 

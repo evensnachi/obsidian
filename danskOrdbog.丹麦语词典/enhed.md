@@ -1,6 +1,6 @@
 ---
 aliases: enheden, enheder, enhederne
 ---
-#card  #category/Dansk/ordklasse/navneord/n-ord 
+#card  #navneord名词/n-ord 
 - 单位 
 - bruges til at måle
