@@ -4,10 +4,10 @@ date: {{date}}
 time: {{time}}
 ---
 
-```tasks
-(not done)
-```
-
 ```dataview
 table aliases from #ordBog 
+```
+
+```tasks
+(not done)
 ```

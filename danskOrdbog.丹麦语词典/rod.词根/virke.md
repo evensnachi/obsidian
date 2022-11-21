@@ -1,5 +1,5 @@
 ---
-tags: rod
+tags: ordBorg, rod
 aliases: virker, virkede, virket
 cards-deck: danskOrdbog.丹麦语词典::rod.词根
 ---
