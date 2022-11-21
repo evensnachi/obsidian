@@ -5,7 +5,7 @@ time: {{time}}
 ---
 
 ```dataview
-table aliases from #ordBog 
+table aliases from #ordBog AND !#suffiks AND !#præfiks SORT file.name DESC
 ```
 
 ```tasks

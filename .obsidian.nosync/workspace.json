@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-21.md",
+                "file": "模板/Dairy_日记模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-21.md",
+                "file": "模板/Dairy_日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-21.md",
+                "file": "模板/Dairy_日记模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-21.md"
+                "file": "模板/Dairy_日记模板.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "145779e4544cdac6",
   "lastOpenFiles": [
+    "日记/2022-11-21.md",
     "danskOrdbog.丹麦语词典/rod.词根/virke.md",
     "danskOrdbog.丹麦语词典/rod.词根/sig.md",
     "danskOrdbog.丹麦语词典/præfiks.前缀/re-.md",
@@ -156,7 +157,6 @@
     "danskOrdbog.丹麦语词典/rod.词根/ved.md",
     "concept.知识点/Ordklasse词类.md",
     "Inbox/new.md",
-    "danskOrdbog.丹麦语词典/rod.词根/veje.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vel.md"
+    "danskOrdbog.丹麦语词典/rod.词根/veje.md"
   ]
 }
