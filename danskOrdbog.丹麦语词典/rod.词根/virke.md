@@ -1,7 +1,7 @@
 ---
 tags: ordBorg, rod
 aliases: virker, virkede, virket
-cards-deck: danskOrdbog.丹麦语词典::rod.词根
+cards-deck: 21-11-2022_星期一
 ---
 
 # virke #card 
