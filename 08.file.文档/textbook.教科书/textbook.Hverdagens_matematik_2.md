@@ -117,27 +117,27 @@ Herunder kan du se de månedlige [[udgifter]] for leje af et rækkehus i Gladsax
 - ![[Procentregning_i_regnearket_opgave.xlsx]]
 ## ny ord
 
-- [[Procentregning]] #card 
+- [[Procentregning]] #card-reverse 
 	- 百分比计算
 ^1667224852063
 
-- [[stege prise]] #card 
+- [[stege prise]] #card-reverse 
 	- 价格的增长
 ^1667224852066
 
-- [[yderligere]] #card 
+- [[yderligere]] #card-reverse 
 	- 更多
 ^1667224852068
 
-- [[boligstøtte]] #card 
+- [[boligstøtte]] #card-reverse 
 	- 住房补贴
 ^1667224852070
 
-- [[friplads børnehave]] #card 
+- [[friplads børnehave]] #card-reverse 
 	- 免费幼儿园
 ^1667224852072
 
-- [[forsikrings]] #card 
+- [[forsikrings]] #card-reverse 
 	- 保险
 ^1667224796025
 

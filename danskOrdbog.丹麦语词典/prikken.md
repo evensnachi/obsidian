@@ -1,2 +1,2 @@
-#card #ordBog 
+#card-reverse #ordBog 
 #navneord名词/n-ord/artikel 小圆点

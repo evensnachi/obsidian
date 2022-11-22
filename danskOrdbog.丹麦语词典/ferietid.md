@@ -1,5 +1,5 @@
 ---
-tags: card , sammensatOrd
+tags: card-reverse , sammensatOrd
 aliases: ferietiden, ferietider, ferietiderne
 ---
 

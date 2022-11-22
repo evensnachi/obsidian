@@ -1,7 +1,7 @@
 ---
 aliases: belysningen, belysninger, belysningerne
 ---
-#card #navneord名词/n-ord 
+#card-reverse #navneord名词/n-ord 
 
 [[belyse]][[-ing|-ning]]
 

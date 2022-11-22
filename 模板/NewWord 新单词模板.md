@@ -1,5 +1,5 @@
 ---
-tags: ordBog,
+tags: ordBog, 
 aliases: 
 cards-deck: {{date}}
 ---

@@ -1,6 +1,6 @@
 ---
 aliases: fremstår, fremstod, fremstået
 ---
-#card #udsagnsord动词 
+#card-reverse #udsagnsord动词 
 
 - 出现

@@ -2,7 +2,7 @@
 cards-deck: 06.danskOrdDic.丹麦语词典
 ---
 
-aktiviteter #card 
+aktiviteter #card-reverse 
 词性::  #navneord名词/n-ord/flertal 
 释义:: 活动, 活跃
 单词变位:: 

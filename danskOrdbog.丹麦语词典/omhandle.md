@@ -1,6 +1,6 @@
 ---
 aliases: omhandler, omhandlede, omhandlet
 ---
-#card #udsagnsord动词 
+#card-reverse #udsagnsord动词 
 
 - 处理

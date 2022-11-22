@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#card 
+#card-reverse 
 #udtryk 
 - 再次

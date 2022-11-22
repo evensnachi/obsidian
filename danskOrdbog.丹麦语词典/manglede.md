@@ -1,3 +1,3 @@
-- #udsagnsord动词 #udsagnsord动词/datid #card
+- #udsagnsord动词 #udsagnsord动词/datid #card-reverse
 	- 缺少, 缺乏
 -

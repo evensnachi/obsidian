@@ -1,5 +1,5 @@
 ---
-tags: card, category/English/grammar/PartsOfSpeech
+tags: card-reverse, category/English/grammar/PartsOfSpeech
 aliases: 
     - 宾语
     - objekt

@@ -1,4 +1,4 @@
-#card #ordBog
+#card-reverse #ordBog
 #navneord名词/n-ord 小圆点
 - [[prikken]]
 - [[prikker]] ^df7172

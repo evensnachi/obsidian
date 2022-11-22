@@ -1,3 +1,3 @@
-- #navneord名词 #navneord名词/n-ord #card #ordBog
+- #navneord名词 #navneord名词/n-ord #card-reverse #ordBog
 	- 总数, 数量
 -

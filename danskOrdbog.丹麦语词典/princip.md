@@ -1,3 +1,3 @@
-- #navneord名词 #navneord名词/t-ord #card #ordBog
+- #navneord名词 #navneord名词/t-ord #card-reverse #ordBog
 	- 原理
 - [[principper]] #navneord名词/n-ord/flertal

@@ -1,5 +1,5 @@
 ---
-tags: card
+tags: card-reverse
 aliases: psiten
 ---
 #navneord名词/n-ord 

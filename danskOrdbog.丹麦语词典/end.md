@@ -1,6 +1,6 @@
 ---
 title: end
-tags: card, 
+tags: card-reverse, 
 aliases: 
 ---
 #

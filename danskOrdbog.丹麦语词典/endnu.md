@@ -1,6 +1,6 @@
 ---
 title: endnu
-tags: card, 
+tags: card-reverse, 
 aliases: 
 ---
 #biord副词 

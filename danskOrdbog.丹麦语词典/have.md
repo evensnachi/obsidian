@@ -1,5 +1,5 @@
 ---
-tags: card
+tags: card-reverse
 aliases: at have, har, havde, haft
 ---
 

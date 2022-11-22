@@ -1,3 +1,3 @@
-- #udtryk #card
+- #udtryk #card-reverse
 	- 由...组成
 	-

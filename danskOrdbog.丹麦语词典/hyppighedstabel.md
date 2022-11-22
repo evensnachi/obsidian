@@ -1,6 +1,6 @@
 ---
 aliases: hyppighedstabellen, hyppighedstabeller, hyppighedstabelerne
 ---
-#card 
+#card-reverse 
 - [[hyppighed]]s[[tabel]]
 - 频次表

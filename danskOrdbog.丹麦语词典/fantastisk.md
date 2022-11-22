@@ -1,4 +1,4 @@
-- #ordBog #category/English/wordClass/adjective #card
+- #ordBog #category/English/wordClass/adjective #card-reverse
   card-last-score:: 3
   card-repeats:: 1
   card-next-schedule:: 2022-09-19T05:18:00.761Z

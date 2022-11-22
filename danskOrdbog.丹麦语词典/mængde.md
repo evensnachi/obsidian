@@ -1,5 +1,5 @@
 ---
 aliases: mængden, mængder, mængderne
 ---
-#card #navneord名词/n-ord 
+#card-reverse #navneord名词/n-ord 
 - 数量

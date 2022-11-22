@@ -1,4 +1,4 @@
-- #category/English/wordClass/adjective #card #ordBog
+- #category/English/wordClass/adjective #card-reverse #ordBog
   collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1

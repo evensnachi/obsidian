@@ -2,7 +2,7 @@
 cards-deck: 06.danskOrdDic.丹麦语词典
 ---
 
-forburg #card 
+forburg #card-reverse 
 词性::  #navneord名词/t-ord 
 释义:: 开支
 单词变位:: 

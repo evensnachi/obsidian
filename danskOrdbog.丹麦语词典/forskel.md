@@ -1,5 +1,5 @@
 ---
 aliases: forskellen, forkelle, forskellene
 ---
-#card #navneord名词/n-ord 
+#card-reverse #navneord名词/n-ord 
 - 不同

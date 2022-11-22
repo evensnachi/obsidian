@@ -1,5 +1,5 @@
 ---
 aliases: 
 ---
-#card 
+#card-reverse 
 - 结论

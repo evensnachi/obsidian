@@ -1,6 +1,6 @@
 ---
 aliases: betegner, betegnede, betegnet
 ---
-#card #udsagnsord动词 
+#card-reverse #udsagnsord动词 
 
 - 表示

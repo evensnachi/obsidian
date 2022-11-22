@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/skulle.md",
-                "mode": "source",
+                "file": "日记/2022-11-22.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#category/Dansk/grammatik",
+                "query": "tag:#card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/skulle.md",
+                "file": "日记/2022-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/skulle.md",
+                "file": "日记/2022-11-22.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/skulle.md"
+                "file": "日记/2022-11-22.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   "active": "145779e4544cdac6",
   "lastOpenFiles": [
     "模板/NewWord 新单词模板.md",
-    "Inbox/new.md",
-    "danskOrdbog.丹麦语词典/rod.词根/skulle.md",
-    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vand.md",
+    "日记/2022-11-22.md",
+    "danskOrdbog.丹麦语词典/styr.md",
+    "danskOrdbog.丹麦语词典/tidlig.md",
+    "danskOrdbog.丹麦语词典/rod.词根/vigtig.md",
     "danskOrdbog.丹麦语词典/rod.词根/ved.md",
-    "danskOrdbog.丹麦语词典/rod.词根/veje.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vel.md",
-    "danskOrdbog.丹麦语词典/rod.词根/verbum.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vigtig.md"
+    "danskOrdbog.丹麦语词典/rod.词根/vand.md",
+    "模板/临时模板.md",
+    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
+    "danskOrdbog.丹麦语词典/rod.词根/sig.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 aliases: regningen, regninger, regningerne
 ---
-#card #navneord名词/n-ord 
+#card-reverse #navneord名词/n-ord 
 
 - 电费单, 账单, 汇票; 发票, 发货单, 发货账单;
 

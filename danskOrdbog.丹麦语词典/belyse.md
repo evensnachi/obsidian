@@ -1,7 +1,7 @@
 ---
 aliases: belyser, belysete, belyst
 ---
-#card 
+#card-reverse 
 #udsagnsord动词 
 	- 照亮; 说明
 

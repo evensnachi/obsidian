@@ -1,3 +1,3 @@
-- #card #udtryk
+- #card-reverse #udtryk
 	- recently
 	- 最近

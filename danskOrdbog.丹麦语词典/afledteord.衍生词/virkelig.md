@@ -1,5 +1,5 @@
 ---
-tags: card, afledteOrd
+tags: card-reverse, afledteOrd
 aliases: virkeligt, virkelige, virkligere, virkeligst
 ---
 

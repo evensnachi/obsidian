@@ -1,7 +1,7 @@
 ---
 aliases: handlingen, handlinger, handlingerne
 ---
-#card #navneord名词/n-ord 
+#card-reverse #navneord名词/n-ord 
 
 [[handle]][[-ing]]
 

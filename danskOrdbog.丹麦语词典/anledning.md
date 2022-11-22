@@ -1,2 +1,2 @@
-- #navneord名词 #card #ordBog
+- #navneord名词 #card-reverse #ordBog
 	- 场合

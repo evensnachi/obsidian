@@ -1,4 +1,4 @@
-- #category/English/wordClass/adverb #card #ordBog
+- #category/English/wordClass/adverb #card-reverse #ordBog
   card-last-interval:: 4
   card-repeats:: 1
   card-ease-factor:: 2.6

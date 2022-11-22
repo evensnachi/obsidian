@@ -1,3 +1,3 @@
-- #category/English/wordClass/adjective #card
+- #category/English/wordClass/adjective #card-reverse
 	- 遥远
 	- 偏远
