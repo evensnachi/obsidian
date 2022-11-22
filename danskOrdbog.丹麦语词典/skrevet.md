@@ -1,3 +1,0 @@
-- #category/English/wordClass/adjective #card
-- [[skrevne]] #navneord名词/n-ord/flertal
-	- 书面的

@@ -1,3 +1,0 @@
-- [[princip]] #navneord名词/n-ord/flertal #card-reverse
-	- 原理
-	-

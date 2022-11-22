@@ -5,9 +5,9 @@ tags: bookNote, dansk, grammatik, udtale, FVU
 aliaese: Bliv en sikker staver
 ---
 
-# Det [[fonematisk|fonematiske]] og [[morfematisk|morfematiske]] [[princip]]
+# Det fonematiske og morfematiske princip
 
-[[Det skrevne danske]] sprog [[består af]] 2 [[principper]]: det fonematiske princip (lydprincippet) og det morfematiske princip (betydningsprincippet).
+[[Det skrevne danske]] sprog [[består af]] 2 [[princip|principper]]: det [[fonematisk|fonematiske]] princip (lydprincippet) og det [[morfematisk|morfematiske]] princip (betydningsprincippet).
 
 	书面丹麦语建立在 2 个原理上: 音素原理(lydprincippet) 和语素原理(betydningsprincippet)
 

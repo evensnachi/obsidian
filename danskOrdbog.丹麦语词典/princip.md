@@ -1,3 +1,9 @@
-- #navneord名词 #navneord名词/t-ord #card-reverse #ordBog
-	- 原理
-- [[principper]] #navneord名词/n-ord/flertal
+
+---
+tags: ordBog, 
+aliases: princippet, principper, principerne
+cards-deck: 22-11-2022
+---
+
+# princip #navneord名词/t-ord  #card-reverse 
+- 原理

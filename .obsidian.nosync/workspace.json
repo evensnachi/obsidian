@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-22.md",
-                "mode": "preview",
+                "file": "danskOrdbog.丹麦语词典/skrive.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-22.md",
+                "file": "danskOrdbog.丹麦语词典/skrive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-22.md",
+                "file": "danskOrdbog.丹麦语词典/skrive.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-22.md"
+                "file": "danskOrdbog.丹麦语词典/skrive.md"
               }
             }
           }
@@ -144,19 +145,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "active": "145779e4544cdac6",
   "lastOpenFiles": [
-    "模板/NewWord 新单词模板.md",
+    "danskOrdbog.丹麦语词典/skrevet.md",
+    "danskOrdbog.丹麦语词典/skrive.md",
+    "danskOrdbog.丹麦语词典/Det skrevne danske.md",
+    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
+    "danskOrdbog.丹麦语词典/principper.md",
+    "danskOrdbog.丹麦语词典/princip.md",
     "日记/2022-11-22.md",
+    "模板/NewWord 新单词模板.md",
     "danskOrdbog.丹麦语词典/styr.md",
-    "danskOrdbog.丹麦语词典/tidlig.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vigtig.md",
-    "danskOrdbog.丹麦语词典/rod.词根/ved.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vand.md",
-    "模板/临时模板.md",
-    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
-    "danskOrdbog.丹麦语词典/rod.词根/sig.md"
+    "danskOrdbog.丹麦语词典/tidlig.md"
   ]
 }

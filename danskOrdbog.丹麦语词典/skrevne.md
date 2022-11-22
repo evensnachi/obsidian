@@ -1,2 +1,0 @@
-- [[skrevet]] #navneord名词/n-ord/flertal
-	- 书面的
