@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "304dee6c649563fa",
+            "id": "8a986b1a0c01131a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
+                "file": "Inbox/at.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
+                "file": "Inbox/at.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
+                "file": "Inbox/at.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md"
+                "file": "Inbox/at.md"
               }
             }
           }
@@ -165,12 +165,12 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "304dee6c649563fa",
+  "active": "8a986b1a0c01131a",
   "lastOpenFiles": [
-    "模板/NewWord 新单词模板.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
     "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/Det skrevne danske.md",
+    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
+    "模板/NewWord 新单词模板.md",
     "danskOrdbog.丹麦语词典/rod.词根/dansk.md",
     "Inbox/det.md",
     "danskOrdbog.丹麦语词典/afledteord.衍生词/fonematisk.md",
