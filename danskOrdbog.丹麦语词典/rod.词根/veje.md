@@ -1,8 +1,7 @@
 ---
-tags: card, rod
+tags: ordBog, rod
 aliases: vejer, vejede, vejet
-cards-deck: 21-11-2022_星期一
-cards-deck: 21-11-2022_星期一
+cards-deck: 21-11-2022
 ---
 
 # veje #card 

@@ -1,9 +1,7 @@
 ---
-title: ved
 tags: rod
 aliases: veddet
-cards-deck: 21-11-2022_星期一
-cards-deck: 21-11-2022_星期一
+cards-deck: 21-11-2022
 ---
 
 # ved #navneord名词/t-ord #card

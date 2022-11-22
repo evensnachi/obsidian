@@ -1,7 +1,9 @@
 ---
-tags: ordbog
+tags: ordBog,
 aliases: vandet
+cards-deck: 22-11-2022
 ---
 
-#navneord名词/t-ord 
+# vand #navneord名词/t-ord  #card 
 - 水
+^1669109915429

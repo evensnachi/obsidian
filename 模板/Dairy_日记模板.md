@@ -5,7 +5,8 @@ time: {{time}}
 ---
 
 ```dataview
-table aliases from #ordBog AND !#suffiks AND !#præfiks SORT file.name DESC
+table aliases, cards-deck from #ordBog AND !#suffiks AND !#præfiks Where file.mday = date(today)
+SORT file.name DESC
 ```
 
 ```tasks
