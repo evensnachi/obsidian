@@ -1,6 +1,7 @@
 ---
 tags: ordbog, afledteOrd
 aliases: yderligt, yderlige, yderligere, yderligst
+mdate: 20-11-2022
 ---
 
 #tillægsord形容词 
