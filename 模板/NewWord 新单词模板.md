@@ -4,5 +4,5 @@ aliases:
 cards-deck: {{date}}
 ---
 
-# {{title}} #ordKlass #card 
+# {{title}} #ordKlass #card-reverse 
 - 

@@ -10,17 +10,34 @@
           {
             "id": "145779e4544cdac6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/skrive.md",
+                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "304dee6c649563fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -96,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/skrive.md",
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/skrive.md",
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/skrive.md"
+                "file": "danskOrdbog.丹麦语词典/udtryk.词组/består af.md"
               }
             }
           }
@@ -148,17 +165,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "145779e4544cdac6",
+  "active": "304dee6c649563fa",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/skrevet.md",
-    "danskOrdbog.丹麦语词典/skrive.md",
-    "danskOrdbog.丹麦语词典/Det skrevne danske.md",
-    "note.笔记/book.Grammatikkursus@Bodil·Aline.md",
-    "danskOrdbog.丹麦语词典/principper.md",
-    "danskOrdbog.丹麦语词典/princip.md",
-    "日记/2022-11-22.md",
     "模板/NewWord 新单词模板.md",
-    "danskOrdbog.丹麦语词典/styr.md",
-    "danskOrdbog.丹麦语词典/tidlig.md"
+    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
+    "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+    "danskOrdbog.丹麦语词典/udtryk.词组/Det skrevne danske.md",
+    "danskOrdbog.丹麦语词典/rod.词根/dansk.md",
+    "Inbox/det.md",
+    "danskOrdbog.丹麦语词典/afledteord.衍生词/fonematisk.md",
+    "danskOrdbog.丹麦语词典/rod.词根/princip.md",
+    "danskOrdbog.丹麦语词典/rod.词根/skrive.md",
+    "danskOrdbog.丹麦语词典/skrevet.md"
   ]
 }
