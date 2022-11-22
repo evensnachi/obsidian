@@ -1,7 +1,8 @@
 ---
 tags: ordBog, rod
 aliases: virker, virkede, virket
-cards-deck: 
+cards-deck: 21-11-2022
+cardDate: 22-11-2022
 ---
 
 # virke #card 
