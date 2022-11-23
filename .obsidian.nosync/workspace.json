@@ -15,28 +15,14 @@
               "type": "markdown",
               "state": {
                 "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8a986b1a0c01131a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/at.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/at.md",
+                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/at.md",
+                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/at.md"
+                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md"
               }
             }
           }
@@ -165,8 +151,9 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "8a986b1a0c01131a",
+  "active": "145779e4544cdac6",
   "lastOpenFiles": [
+    "Inbox/at.md",
     "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/Det skrevne danske.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
@@ -175,7 +162,6 @@
     "Inbox/det.md",
     "danskOrdbog.丹麦语词典/afledteord.衍生词/fonematisk.md",
     "danskOrdbog.丹麦语词典/rod.词根/princip.md",
-    "danskOrdbog.丹麦语词典/rod.词根/skrive.md",
-    "danskOrdbog.丹麦语词典/skrevet.md"
+    "danskOrdbog.丹麦语词典/rod.词根/skrive.md"
   ]
 }
