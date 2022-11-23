@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "47060f34348f62dd",
+        "id": "7dec9395abb4833d",
         "type": "tabs",
         "children": [
           {
-            "id": "145779e4544cdac6",
+            "id": "52f9a089a0689396",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+                "file": "日记/2022-11-23.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+                "file": "日记/2022-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+                "file": "日记/2022-11-23.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md"
+                "file": "日记/2022-11-23.md"
               }
             }
           }
@@ -151,17 +149,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "145779e4544cdac6",
+  "active": "52f9a089a0689396",
   "lastOpenFiles": [
-    "Inbox/at.md",
+    "日记/2022-11-15.md",
+    "10.affair.事务/affair.ApplyFor_A_PermanentResidencePermit.永居.md",
+    "日记/2022-11-23.md",
+    "日记/2022-11-03.md",
+    "日记/2022-10-24.md",
+    "danskOrdbog.丹麦语词典/rod.词根/ved.md",
     "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
+    "Inbox/at.md",
     "danskOrdbog.丹麦语词典/udtryk.词组/Det skrevne danske.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md",
-    "模板/NewWord 新单词模板.md",
-    "danskOrdbog.丹麦语词典/rod.词根/dansk.md",
-    "Inbox/det.md",
-    "danskOrdbog.丹麦语词典/afledteord.衍生词/fonematisk.md",
-    "danskOrdbog.丹麦语词典/rod.词根/princip.md",
-    "danskOrdbog.丹麦语词典/rod.词根/skrive.md"
+    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md"
   ]
 }
