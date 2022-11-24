@@ -1,10 +1,13 @@
 {
   "globalFilter": "#task",
-  "removeGlobalFilter": false,
-  "setDoneDate": true,
+  "removeGlobalFilter": true,
+  "setDoneDate": false,
   "autoSuggestInEditor": false,
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 6,
+  "provideAccessKeys": true,
+  "useFilenameAsScheduledDate": false,
+  "filenameAsDateFolders": [],
   "features": {
     "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
   }
