@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-21.md",
+                "file": "日记/2022-11-24.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -81,20 +81,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3b530245a3d6a31e",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
         "id": "8ed5b2a9d3607b20",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2022-11-21.md",
+            "file": "日记/2022-11-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2022-11-21.md",
+            "file": "日记/2022-11-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2022-11-21.md"
+            "file": "日记/2022-11-24.md"
           }
         }
       }
@@ -132,15 +124,15 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
+    "模板/未命名.md",
+    "日记/2022-11-24.md",
     "日记/2022-11-21.md",
+    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md",
     "danskOrdbog.丹麦语词典/atisk.md",
     "danskOrdbog.丹麦语词典/dusør.md",
     "concept.知识点/abonnere.md",
     "日记/2022-11-20.md",
     "danskOrdbog.丹麦语词典/maling.md",
-    "danskOrdbog.丹麦语词典/antal.md",
-    "note.笔记/note.Obsidian_插件_Flashcard.md",
-    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md"
+    "danskOrdbog.丹麦语词典/antal.md"
   ]
 }

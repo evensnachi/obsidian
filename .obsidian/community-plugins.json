@@ -1,17 +1,11 @@
 [
   "file-explorer-note-count",
   "recent-files-obsidian",
-  "obsidian-mind-map",
-  "calendar",
-  "obsidian-pandoc",
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-style-settings",
-  "obsidian-annotator",
   "tag-wrangler",
   "flashcards-obsidian",
-  "table-editor-obsidian",
-  "quick-latex",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-annotator"
 ]
