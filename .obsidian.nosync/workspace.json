@@ -10,14 +10,16 @@
           {
             "id": "52f9a089a0689396",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-23.md",
-                "mode": "preview",
+                "file": "日记/2022-11-24.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-23.md",
+                "file": "日记/2022-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-23.md",
+                "file": "日记/2022-11-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-23.md"
+                "file": "日记/2022-11-24.md"
               }
             }
           }
@@ -151,15 +153,15 @@
   },
   "active": "52f9a089a0689396",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/rod.词根/vane.md",
+    "日记/2022-11-24.md",
+    "日记/2022-11-23.md",
     "日记/2022-11-15.md",
     "10.affair.事务/affair.ApplyFor_A_PermanentResidencePermit.永居.md",
-    "日记/2022-11-23.md",
     "日记/2022-11-03.md",
     "日记/2022-10-24.md",
     "danskOrdbog.丹麦语词典/rod.词根/ved.md",
     "note.笔记/bookNote.Grammatikkursus@Bodil·Aline.md",
-    "Inbox/at.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/Det skrevne danske.md",
-    "danskOrdbog.丹麦语词典/udtryk.词组/består af.md"
+    "Inbox/at.md"
   ]
 }
