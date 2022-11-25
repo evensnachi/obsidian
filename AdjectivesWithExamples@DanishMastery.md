@@ -89,4 +89,98 @@ tags: dansk
 - Han er et ungt menneske. 
 - Lyt til de unge. 
 
-#### 
+#### gammel
+- Hvor gammel er hunden ? 
+- Hans jakkesæt er gammelt .
+- De gamle sange er bedst . 
+
+#### træt
+- Min hjerne er træt. 
+- Hans ansigt er træt. 
+- Mine forældre er trætte. 
+- Hun kiggede træt på mig. 
+
+#### søvnig 
+- Du er ikke søvnig.
+- Et søvnigt spædbarn. 
+- To søvnige øjne. 
+- Han mumlede søvnigt.
+
+#### sulten
+- Sultanen er sulten. 
+- Jeg så et sultent dyr. 
+- Vores fisk er sultne. 
+- Han betragtede sultent maden. 
+
+#### mæt
+- Er du også mæt ? 
+- Et mæt insekt . 
+- Vores venner er mætte.
+
+#### tørstig
+- Min ven er tørstig . 
+- Et tørstigt kæledyr .
+- De er alle tørstige .
+- Han kiggede tørstigt på koppen. 
+
+#### sjov
+- Det var en sjov anekdote.  笑话
+- Hun kom på et sjovt udtryk. 
+- Disse skuespillere er sjove. 
+- De har det sjovt. 
+
+#### rig
+- Chefen er rig. 
+- Vi bor i et rigt land. 
+- Hans børn er rige. 
+
+#### fattig
+- Maleren er fattig. 
+- Det er et fattigt område. 
+- Jeg tror, de er fattige. 
+
+#### billig
+- Kjolen er billig. 
+- De købte et billigt hus. 
+- Priserne her er billige. 
+- Du kan få den billigt. 
+
+#### dyr 
+- Kamelen var ikke så dyr. 
+- Opholdet er for dyrt. 
+- Hun elsker dyre ting. 
+- Det vil koste ham dyrt. 
+
+#### tyk
+- Din fugl er tyk. 
+- Jeg vil have et tykt lag. 
+- Han læser kun tykke bøger. 
+
+#### tynd
+- Han har en tynd krop. 
+- Det er et tyndt argument. 
+- Mange modeller er tynde.
+
+#### stærk
+- Han er meget stærk . 
+- Hun havde et stærkt greb. 
+- Alle deltagerne er stærke. 
+- Stærkt gået!
+
+#### svag
+- Bjørnen er ikke svag. 
+- I et svagt øjeblik. 
+- Du kender hans svage sider. 
+- Vi hvisker svagt.
+
+#### sød
+- Katten er så sød. 
+- Et sødt stykke frugt. 
+- De to nonner er søde. 
+- Det var sødt gjort. 
+
+#### venlig
+- Er hun altid så venlig? 
+- Han har et venligt smil. 
+- De to piger er venlige. 
+- Han hilste venligt. 
