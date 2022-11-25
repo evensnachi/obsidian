@@ -15,5 +15,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "cm-typewriter-scroll-obsidian",
   "obsidian-git",
-  "quick-latex"
+  "quick-latex",
+  "note-refactor-obsidian"
 ]

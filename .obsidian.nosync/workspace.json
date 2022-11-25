@@ -8,9 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52f9a089a0689396",
+            "id": "f823180db578f12b",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdjectivesWithExamples@DanishMastery.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e48c89955cfd61fe",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -18,11 +30,11 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -151,17 +163,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "52f9a089a0689396",
+  "active": "e48c89955cfd61fe",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/rod.词根/hånd.md",
+    "日记/2022-11-25.md",
+    "AdjectivesWithExamples@DanishMastery.md",
     "日记/2022-11-24.md",
+    "Inbox/Untitled.md",
+    "danskOrdbog.丹麦语词典/rod.词根/hånd.md",
     "danskOrdbog.丹麦语词典/rod.词根/pande.md",
     "danskOrdbog.丹麦语词典/rod.词根/kravle.md",
     "danskOrdbog.丹麦语词典/rod.词根/lille.md",
     "danskOrdbog.丹麦语词典/rod.词根/vane.md",
-    "日记/2022-11-23.md",
-    "日记/2022-11-15.md",
-    "10.affair.事务/affair.ApplyFor_A_PermanentResidencePermit.永居.md",
-    "日记/2022-11-03.md"
+    "日记/2022-11-23.md"
   ]
 }

@@ -318,5 +318,6 @@
       ],
       "key": "6"
     }
-  ]
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": []
 }
