@@ -1,6 +1,6 @@
 ---
 tags: ordBog, sammensatOrd 
-aliases: 
+aliases: forhold
 cards-deck: 25-11-2022
 ---
 
