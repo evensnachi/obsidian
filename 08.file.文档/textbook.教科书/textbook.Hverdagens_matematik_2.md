@@ -11,7 +11,7 @@ category: Dansk matematik
 At handle ind = at købe
 	jeg handler ind.  
 
-## en [[samtale]] opgave
+## en [[danskOrdbog.丹麦语词典/samtale]] opgave
 
 1. Den koster 11 kr. 
 2. Det koster 10 kr. Fordi $2 * 5(kr.)= 10(kr.)2∗5(kr.)=10(kr.)$
