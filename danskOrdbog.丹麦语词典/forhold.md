@@ -1,6 +1,12 @@
 ---
-cards-deck: 06.danskOrdDic.丹麦语词典
+tags: ordBog, sammensatOrd 
+aliases: 
+cards-deck: 25-11-2022
 ---
+
+# forhold #ordKlass #card-reverse 
+- 
+
 
 forhold #card-reverse 
 词性::  #navneord名词/t-ord 
