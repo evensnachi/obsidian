@@ -4,7 +4,7 @@ date: 25-11-2022
 tags: dansk
 ---
 
-[# Learn Danish adjectives with examples! (Live-stream)](https://youtu.be/jga41sWBB5E)
+[# Learn Danish adjectives with examples! (Live-stream)](https://youtu.be/wH4KLm3ycnY)
 
 #### god
 - Han er god. 
