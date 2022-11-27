@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7dec9395abb4833d",
+        "id": "3dc750154d78d32d",
         "type": "tabs",
         "children": [
           {
-            "id": "f823180db578f12b",
+            "id": "0aa5a6cf9a6b4401",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "danskOrdbog.丹麦语词典/forhold.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/forhold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/forhold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "danskOrdbog.丹麦语词典/forhold.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,8 +140,10 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "f823180db578f12b",
+  "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
+    "danskOrdbog.丹麦语词典/sammensatord.复合词/forholde.md",
     "AdjectivesWithExamples@DanishMastery.md",
     "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
     "日记/2022-11-24.md",
@@ -158,8 +151,6 @@
     "Inbox/Untitled.md",
     "danskOrdbog.丹麦语词典/rod.词根/hånd.md",
     "danskOrdbog.丹麦语词典/rod.词根/pande.md",
-    "danskOrdbog.丹麦语词典/rod.词根/kravle.md",
-    "danskOrdbog.丹麦语词典/rod.词根/lille.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vane.md"
+    "danskOrdbog.丹麦语词典/rod.词根/kravle.md"
   ]
 }
