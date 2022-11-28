@@ -11,8 +11,13 @@
             "id": "0aa5a6cf9a6b4401",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md"
+              }
             }
           }
         ],
@@ -141,15 +150,15 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
+    "日记/2022-11-28.md",
+    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
+    "danskOrdbog.丹麦语词典/rod.词根/virke.md",
+    "danskOrdbog.丹麦语词典/undgå.md",
+    "Inbox/det.md",
+    "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
     "Inbox/Untitled.md",
-    "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
     "Attachment/100634672_1663219974726_0.pdf",
     "Attachment/AS_Fyn_F1_235816_62.pdf",
-    "Attachment/Benadryl 8mg.png",
-    "Attachment/dailies..jpeg",
-    "Attachment/IMG_1363.jpeg",
-    "Attachment/IMG_1382.jpeg",
-    "Attachment/læg tallen sammen.jpg",
-    "Attachment/Pasted Graphic 1.png"
+    "Attachment/Benadryl 8mg.png"
   ]
 }
