@@ -31,7 +31,17 @@ tags: category/computerScience/javaWeb, type/note
 		- `width=` 是标签内宽度属性
 		- `height=`是高度属性
 		- `alt=` 是注释属性, 会让搜索引擎识别图片
-		- 
+	- `<h1>` 标题 从 1 到 6
+	- 
+
+- 路径的问题
+	- 相对路径: 相对与当前文件的其他资源的路径
+		- 就是查询路径时是从本文件开始的
+	- 绝对路径: 从根目录开始的, 文件的完整路径.
+		- 就是查询路径时是从根目录开始的 
+- HTML 是解释型语言, 不是编译型语言
+	- JAVA 是编译型语言, 不可以有错误, 否则编译失败.
+	- 
 
 ```html
 <html>
@@ -43,8 +53,9 @@ tags: category/computerScience/javaWeb, type/note
 		Hello World ! <br/> 你好 HTML!
 		<p> 这里是一个段落 </p>
 		<p> 这里是第二个段落 </p>
-		<img src=""
+		<img src="Unknow.jpg">
 		
 	</body>
 </html>
 ```
+

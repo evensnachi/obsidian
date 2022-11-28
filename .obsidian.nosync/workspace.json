@@ -14,14 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
