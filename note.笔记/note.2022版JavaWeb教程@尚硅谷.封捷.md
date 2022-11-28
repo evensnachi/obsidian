@@ -35,6 +35,20 @@ tags: category/computerScience/javaWeb, type/note
 - 列表标签 
 	- `<ol></ol>` *order list* 有序列表
 		- `li` *list item* 子标签, 列表元素
+		- `type="A"` 表示显示的类型
+			- A 大写拉丁字母
+			- a 小写拉丁字母
+			- I 大写罗马字母
+			- i 小写罗马字母
+			- 1 (default) 数字
+		- `start="3"` 表示从第几开始
+	- `<ul>` *unordered list* 无序列表
+		- `li` 同样使用 list item
+		- `type="disc"`
+			- disc(default) 圆点
+			- circle 圆圈
+			- square 方形 
+	- `<b>` 加粗
 
 - 路径的问题
 	- 相对路径: 相对与当前文件的其他资源的路径
