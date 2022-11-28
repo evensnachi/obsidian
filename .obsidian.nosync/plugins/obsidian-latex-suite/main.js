@@ -4924,7 +4924,8 @@ var operators = [
   "dim",
   "liminf",
   "min",
-  "max"
+  "max",
+  "inf"
 ];
 var fractions = {
   "{1}{2}": "\xBD",
@@ -5090,7 +5091,8 @@ var brackets = {
   "langle": "\u3008",
   "rangle": "\u3009",
   "lvert": "|",
-  "rvert": "|"
+  "rvert": "|",
+  "vert": "|"
 };
 var mathbb = {
   "0": "\u{1D7D8}",
@@ -5303,6 +5305,19 @@ function concealBoldMathBbMathRm(eqn, symbolMap) {
   }
   return concealments;
 }
+function concealText(eqn) {
+  const regexStr = "\\\\text{([A-Za-z0-9-.!?() ]+)}";
+  const regex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(regex)];
+  const concealments = [];
+  for (const match of matches) {
+    const value = match[1];
+    const start2 = match.index;
+    const end2 = start2 + match[0].length;
+    concealments.push({ start: start2, end: end2, replacement: value, class: "cm-concealed-mathrm cm-variable-2" });
+  }
+  return concealments;
+}
 function concealOperators(eqn, symbols) {
   const regexStr = "\\\\(" + symbols.join("|") + ")";
   const regex = new RegExp(regexStr, "g");
@@ -5423,6 +5438,7 @@ function conceal(view) {
           ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
           ...concealAtoZ(eqn, "\\\\mathcal{", "}", mathscrcal),
           ...concealBoldMathBbMathRm(eqn, mathbb),
+          ...concealText(eqn),
           ...concealBraKet(eqn, selection, bounds.start),
           ...concealFraction(eqn, selection, bounds.start),
           ...concealOperators(eqn, operators)
@@ -7408,6 +7424,18 @@ var markerStateField = import_state6.StateField.define({
 // src/snippets/snippet_helper_functions.ts
 var import_json5 = __toModule(require_dist());
 function sortSnippets(snippets2) {
+  function compareTriggerLength(a, b) {
+    const aTriggerLength = a.trigger.length;
+    const bTriggerLength = b.trigger.length;
+    if (aTriggerLength < bTriggerLength) {
+      return 1;
+    }
+    if (aTriggerLength > bTriggerLength) {
+      return -1;
+    }
+    return 0;
+  }
+  snippets2.sort(compareTriggerLength);
   function compare(a, b) {
     const aPriority = a.priority === void 0 ? 0 : a.priority;
     const bPriority = b.priority === void 0 ? 0 : b.priority;
@@ -7874,7 +7902,8 @@ var SnippetManager = class {
     for (const snippet of snippets2) {
       if (snippet.keyPressed && snippet.keyPressed.length === 1) {
         const prevChar = view.state.doc.sliceString(snippet.to - 1, snippet.to);
-        keyPresses.push({ from: snippet.to - 1, to: snippet.to, insert: prevChar + snippet.keyPressed });
+        const from = snippet.to === 0 ? 0 : snippet.to - 1;
+        keyPresses.push({ from, to: snippet.to, insert: prevChar + snippet.keyPressed });
       }
     }
     view.dispatch({
