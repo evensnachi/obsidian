@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-                "mode": "preview",
+                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md"
+                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md"
               }
             }
           }
@@ -150,15 +151,15 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
-    "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
-    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
     "日记/2022-11-28.md",
-    "日记/2022-11-27.md",
-    "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
-    "danskOrdbog.丹麦语词典/sammensatord.复合词/forholde.md",
-    "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
-    "日记/2022-11-24.md",
-    "日记/2022-11-25.md",
-    "Inbox/Untitled.md"
+    "01.topic.主题/topic.Dansk@FVU.md",
+    "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
+    "note.笔记/note.GetThingsDone.md",
+    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "note.笔记/note.营养学.md",
+    "note.笔记/note.英语语法结构@英语兔.md",
+    "note.笔记/note.Obsidian_使用教程@清单控沙牛.md",
+    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
+    "note.笔记/note.R_语言.md"
   ]
 }

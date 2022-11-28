@@ -15,5 +15,7 @@
   "listive-theme-settings@@desktop-dark-theme-variant": "color-scheme-discord",
   "listive-theme-settings@@h1-border-width": "3px",
   "listive-theme-settings@@list-guide-adj": "2px",
-  "listive-theme-settings@@list-guide-outliner-adj": "2px"
+  "listive-theme-settings@@list-guide-outliner-adj": "2px",
+  "title@@custom-page-header": false,
+  "title@@advanced-toolbar-mode": false
 }

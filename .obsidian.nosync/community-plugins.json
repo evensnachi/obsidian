@@ -16,5 +16,6 @@
   "cm-typewriter-scroll-obsidian",
   "obsidian-git",
   "quick-latex",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-frontmatter-tag-suggest"
 ]
