@@ -32,7 +32,8 @@ tags: category/computerScience/javaWeb, type/note
 		- `height=`是高度属性
 		- `alt=` 是注释属性, 会让搜索引擎识别图片
 	- `<h1>` 标题 从 1 到 6
-	- 
+- 列表标签 
+	- `<ol>` 有序列表
 
 - 路径的问题
 	- 相对路径: 相对与当前文件的其他资源的路径
@@ -41,7 +42,8 @@ tags: category/computerScience/javaWeb, type/note
 		- 就是查询路径时是从根目录开始的 
 - HTML 是解释型语言, 不是编译型语言
 	- JAVA 是编译型语言, 不可以有错误, 否则编译失败.
-	- 
+	- HTML 在无法解释代码的时候, 会跳过.  
+
 
 ```html
 <html>
