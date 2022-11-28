@@ -19,14 +19,32 @@ tags: category/computerScience/javaWeb, type/note
 - html 页面由一对标签组成, `<html></html>`
 	- `<html>` 称之为开始标签
 		- `</html>` 称之为结束标签
+- `html` 标签内部有两个子标签
+	- `<head></head>`
+		- `<title>` 表示页面标题
+		- `<meta>` 标签中设置编码方式
+- `<body></body>`
+	- `<br/>` 换行标签是个单标签(自结束标签) : 开始标签和结束标签是同一个, 斜杠放在单词后面. 
+	- `<p>` 标签是段落标签
+	- `<image>` 标签是图片标签
+		- `src=`是标签内属性: 需要在等号后面加引号写图片路径. 
+		- `width=` 是标签内宽度属性
+		- `height=`是高度属性
+		- `alt=` 是注释属性, 会让搜索引擎识别图片
+		- 
 
 ```html
 <html>
 	<head>
 		<title>网页的标题</title>
+		<meta charset="UTF-8">
 	</head>
 	<body>
-		Hello World !
+		Hello World ! <br/> 你好 HTML!
+		<p> 这里是一个段落 </p>
+		<p> 这里是第二个段落 </p>
+		<img src=""
+		
 	</body>
 </html>
 ```

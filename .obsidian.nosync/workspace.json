@@ -11,13 +11,8 @@
             "id": "0aa5a6cf9a6b4401",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -72,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,15 +141,15 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
-    "日记/2022-11-28.md",
-    "01.topic.主题/topic.Dansk@FVU.md",
-    "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
-    "note.笔记/note.GetThingsDone.md",
-    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-    "note.笔记/note.营养学.md",
-    "note.笔记/note.英语语法结构@英语兔.md",
-    "note.笔记/note.Obsidian_使用教程@清单控沙牛.md",
-    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
-    "note.笔记/note.R_语言.md"
+    "Inbox/Untitled.md",
+    "Inbox/note.2022版JavaWeb教程@尚硅谷.封捷.md",
+    "Attachment/100634672_1663219974726_0.pdf",
+    "Attachment/AS_Fyn_F1_235816_62.pdf",
+    "Attachment/Benadryl 8mg.png",
+    "Attachment/dailies..jpeg",
+    "Attachment/IMG_1363.jpeg",
+    "Attachment/IMG_1382.jpeg",
+    "Attachment/læg tallen sammen.jpg",
+    "Attachment/Pasted Graphic 1.png"
   ]
 }
