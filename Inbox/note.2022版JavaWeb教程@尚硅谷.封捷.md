@@ -6,16 +6,9 @@ tags: category/computerScience/javaWeb, type/note
 
 # 2022版JavaWeb教程
 
-[2022版JavaWeb教程](https://youtube.com/playlist?list=PLmOn9nNkQxJGKsCUQt6CpDmE2SjBOyLkK)
+[VideoLink](https://youtube.com/playlist?list=PLmOn9nNkQxJGKsCUQt6CpDmE2SjBOyLkK)
 
 ## 01. JavaWeb 教程简介
-### ioejæafj
-- fef
-- efw
-	- feffsffa
-	- fefafa
-		- fwesa
-
 
 ## 02. HTML 介绍
 
@@ -24,8 +17,8 @@ tags: category/computerScience/javaWeb, type/note
 ## 03. HTML 中的基础标签
 
 - html 页面由一对标签组成, `<html></html>`
-	- <html> 称之为开始标签
-		- </html> 称之为结束标签
+	- `<html>` 称之为开始标签
+		- `</html>` 称之为结束标签
 
 ```html
 <html>
