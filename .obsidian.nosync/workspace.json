@@ -11,8 +11,13 @@
             "id": "0aa5a6cf9a6b4401",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -67,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md"
+              }
             }
           }
         ],
@@ -142,15 +150,15 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
+    "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
+    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-11-28.md",
+    "日记/2022-11-27.md",
     "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
     "danskOrdbog.丹麦语词典/sammensatord.复合词/forholde.md",
-    "AdjectivesWithExamples@DanishMastery.md",
     "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
     "日记/2022-11-24.md",
     "日记/2022-11-25.md",
-    "Inbox/Untitled.md",
-    "danskOrdbog.丹麦语词典/rod.词根/hånd.md",
-    "danskOrdbog.丹麦语词典/rod.词根/pande.md",
-    "danskOrdbog.丹麦语词典/rod.词根/kravle.md"
+    "Inbox/Untitled.md"
   ]
 }

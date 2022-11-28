@@ -11,5 +11,9 @@
   "sanctum@@tag-border-width": "1px",
   "sanctum@@heading-outline": "heading-counter-1",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
-  "blue-topaz-theme@@transparent-setting-panel": false
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "listive-theme-settings@@desktop-dark-theme-variant": "color-scheme-discord",
+  "listive-theme-settings@@h1-border-width": "3px",
+  "listive-theme-settings@@list-guide-adj": "2px",
+  "listive-theme-settings@@list-guide-outliner-adj": "2px"
 }

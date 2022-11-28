@@ -6,7 +6,7 @@ BOOK:[[Danish._An_Essential_Grammar,_2nd_Edition_(Tom_Lundskaer-Nielsen,_Philip_
 
 ## 1.1 元音
 
-> 这一部分见[[bookNote.Grammatikkursus@Bodil·Aline]] , 本书使用的方法比较适合英语读者和[[IPA(International Phonetic Alphabet)]]用户, 相对较复杂.
+> 这一部分见[[note.Grammatikkursus@Bodil·Aline]] , 本书使用的方法比较适合英语读者和[[IPA(International Phonetic Alphabet)]]用户, 相对较复杂.
 
 
 ### 1. 元音字母和元音发音
