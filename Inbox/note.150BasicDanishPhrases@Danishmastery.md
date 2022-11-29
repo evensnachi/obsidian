@@ -1,10 +1,18 @@
 ---
 title: note.150BasicDanishPhrasesPart2@Danishmastery
 date: 29-11-2022
-tags: 
+tags: category/Dansk , source/video , 
+link:
 ---
 
-# 150 Basic Danish Phrases Part 2
+# 150 Basic Danish Phrases 
+
+
+## 150 Basic Danish Phrases Part 1
+[Video Link](https://youtu.be/AmuWypfFWxo)
+
+
+## 150 Basic Danish Phrases Part 2
 
 [Video Link](https://youtu.be/SLl3LBjDSRk)
 
