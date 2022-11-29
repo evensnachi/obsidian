@@ -10,14 +10,16 @@
           {
             "id": "0aa5a6cf9a6b4401",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+                "file": "Inbox/note.150BasicDanishPhrasesPart2@Danishmastery.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -71,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+                "file": "Inbox/note.150BasicDanishPhrasesPart2@Danishmastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+                "file": "Inbox/note.150BasicDanishPhrasesPart2@Danishmastery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/røre.md"
+                "file": "Inbox/note.150BasicDanishPhrasesPart2@Danishmastery.md"
               }
             }
           }
@@ -144,19 +147,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
-    "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
+    "danskOrdbog.丹麦语词典/rod.词根/sen.md",
+    "Inbox/note.150BasicDanishPhrasesPart2@Danishmastery.md",
+    "日记/2022-11-29.md",
     "danskOrdbog.丹麦语词典/rod.词根/røre.md",
+    "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
     "danskOrdbog.丹麦语词典/rod.词根/sig.md",
     "danskOrdbog.丹麦语词典/rod.词根/skal.md",
     "danskOrdbog.丹麦语词典/rod.词根/skrive.md",
     "danskOrdbog.丹麦语词典/rod.词根/skulle.md",
-    "Inbox/skreven.md",
-    "danskOrdbog.丹麦语词典/rod.词根/ved.md",
-    "danskOrdbog.丹麦语词典/rod.词根/veje.md",
-    "danskOrdbog.丹麦语词典/rod.词根/tvivl.md"
+    "Inbox/skreven.md"
   ]
 }
