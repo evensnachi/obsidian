@@ -8,6 +8,8 @@ link:
 # 150 Basic Danish Phrases 
 
 
+
+
 ## 150 Basic Danish Phrases Part 1
 [Video Link](https://youtu.be/AmuWypfFWxo)
 
@@ -140,3 +142,11 @@ link:
 - Undskyld , kan du gentage det ? 
 	- En gang taler , tak . 
 	- gentage = repeat : gen = re(英) 
+
+
+
+
+
+
+
+
