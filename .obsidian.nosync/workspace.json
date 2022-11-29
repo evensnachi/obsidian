@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
-                "mode": "source",
+                "file": "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
+                "file": "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
+                "file": "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md"
+                "file": "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
+    "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
+    "日记/2022-11-29.md",
+    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
     "日记/2022-11-28.md",
     "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
     "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
     "danskOrdbog.丹麦语词典/rod.词根/virke.md",
     "danskOrdbog.丹麦语词典/undgå.md",
     "Inbox/det.md",
-    "Inbox/Untitled.md",
-    "Attachment/100634672_1663219974726_0.pdf",
-    "Attachment/AS_Fyn_F1_235816_62.pdf",
-    "Attachment/Benadryl 8mg.png"
+    "Inbox/Untitled.md"
   ]
 }
