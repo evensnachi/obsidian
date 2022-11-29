@@ -1,15 +1,10 @@
 ---
-tags: card
-aliases: tvivlen, at tvivle, tvivle, tvivler, tvivlede, tvivlet
-cards-deck: 22-11-2022
+tags: ordBog, rod , navneord名词/n-ord 
+aliases: tvivlen
 cards-deck: 22-11-2022
 ---
 
-# tvivl #navneord名词/n-ord #card
+#### tvivl #navneord名词/n-ord #card
 - 怀疑, 疑问
 - [[i tvivl om]] 对... 存疑
 ^1669110069460
-
-# tvivl #udsagnsord动词 #card 
-- 怀疑
-^1669110069469

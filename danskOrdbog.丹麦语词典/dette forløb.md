@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-#card-reverse #udtryk 
+#card-reverse #udtryk词组 
 
 [[denne|dette]] [[forløb]]
 

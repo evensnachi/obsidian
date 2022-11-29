@@ -1,3 +1,3 @@
-- #card-reverse #udtryk
+- #card-reverse #udtryk词组
 	- 菜谱
 - [[mad]] [[opskrifter]]

@@ -2,5 +2,5 @@
 aliases: 
 ---
 #card-reverse 
-#udtryk 
+#udtryk词组 
 - 再次

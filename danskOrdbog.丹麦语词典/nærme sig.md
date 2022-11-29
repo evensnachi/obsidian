@@ -1,5 +1,5 @@
 ---
-tags: card-reverse, udtryk
+tags: card-reverse, udtryk词组
 aliases: nærmer sig
 ---
 - [[nærme]] [[sig]]

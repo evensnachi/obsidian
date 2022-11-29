@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#card #udtryk 
+#card #udtryk词组 
 
 - 一般

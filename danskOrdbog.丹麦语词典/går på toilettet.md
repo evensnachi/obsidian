@@ -1,6 +1,6 @@
 ---
 aliases: 
 ---
-#card-reverse #udtryk 
+#card-reverse #udtryk词组 
 
 - 去厕所

@@ -1,2 +1,2 @@
-- #udtryk 
+- #udtryk词组 
 	- 停止

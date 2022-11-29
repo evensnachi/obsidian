@@ -1,4 +1,4 @@
-- #udtryk 
+- #udtryk词组 
 	- 嫁给某人
 	- [[forløftede]] [[sig]]
 	- 

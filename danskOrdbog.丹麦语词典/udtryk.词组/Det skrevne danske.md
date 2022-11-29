@@ -1,5 +1,5 @@
 ---
-tags: ordBog, udtryk
+tags: ordBog, udtryk词组
 aliases: 
 cards-deck: 22-11-2022
 ---

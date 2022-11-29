@@ -1,5 +1,5 @@
 ---
-tags: card, udtryk
+tags: card, udtryk词组
 aliases: læg tallen sammen
 ---
 
