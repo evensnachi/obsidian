@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/ved.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/ved.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/ved.md",
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "danskOrdbog.丹麦语词典/rod.词根/ved.md"
+                "file": "danskOrdbog.丹麦语词典/rod.词根/virke.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "0aa5a6cf9a6b4401",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/rod.词根/ved.md",
     "danskOrdbog.丹麦语词典/sammensatord.复合词/forhold.md",
     "note.笔记/note.AdjectivesWithExamples@DanishMastery.md",
     "日记/2022-11-29.md",
@@ -157,7 +158,6 @@
     "note.笔记/note.2022版JavaWeb教程@尚硅谷.封捷.md",
     "danskOrdbog.丹麦语词典/rod.词根/tvivl.md",
     "danskOrdbog.丹麦语词典/rod.词根/virke.md",
-    "danskOrdbog.丹麦语词典/undgå.md",
-    "Inbox/det.md"
+    "danskOrdbog.丹麦语词典/undgå.md"
   ]
 }

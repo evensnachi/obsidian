@@ -4,7 +4,7 @@ aliases: virker, virkede, virket
 cards-deck: 21-11-2022
 ---
 
-# virke #udsagnsord动词  #card-reverse 
+#### virke #udsagnsord动词  #card-reverse 
 - 运转
 - 影响
 - 有效
