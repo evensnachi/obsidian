@@ -1,6 +1,6 @@
 ---
 tags: ordBog,
-aliases: vandet
+aliases: vandet #不可数
 cards-deck: 22-11-2022
 ---
 
