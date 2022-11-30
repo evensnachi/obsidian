@@ -8,5 +8,5 @@ tags: booklet , FVU ,
 
 
 #### Opgave 11
-- En bana [[tabe|taber]] 40% af sin [[vægt]], når den bliver [[skrælle|skrællet]]. 
+- [ ] En bana [[tabe|taber]] 40% af sin [[vægt]], når den bliver [[skrælle|skrællet]]. 
 
