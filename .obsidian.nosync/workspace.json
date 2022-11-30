@@ -10,17 +10,20 @@
           {
             "id": "df253378ef73a467",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-11-29.md",
+                "file": "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-11-29.md",
+                "file": "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-11-29.md",
+                "file": "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-11-29.md"
+                "file": "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md"
               }
             }
           }
@@ -150,15 +153,15 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
+    "danskOrdbog.丹麦语词典/rod.词根/skrælle.md",
+    "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
+    "danskOrdbog.丹麦语词典/rod.词根/vægt.md",
+    "danskOrdbog.丹麦语词典/rod.词根/tabe.md",
+    "日记/2022-11-30.md",
+    "日记/2022-11-29.md",
     "Inbox/note.150BasicDanishPhrases@Danishmastery.md",
     "Inbox/Untitled 1.md",
     "Inbox/Untitled.md",
-    "日记/2022-11-29.md",
-    "Inbox/affair.关于是否可以拿学生签证申请永居的事情.md",
-    "danskOrdbog.丹麦语词典/rod.词根/vand.md",
-    "danskOrdbog.丹麦语词典/rod.词根/sen.md",
-    "danskOrdbog.丹麦语词典/rod.词根/røre.md",
-    "danskOrdbog.丹麦语词典/rod.词根/samtale.md",
-    "danskOrdbog.丹麦语词典/rod.词根/sig.md"
+    "Inbox/affair.关于是否可以拿学生签证申请永居的事情.md"
   ]
 }
