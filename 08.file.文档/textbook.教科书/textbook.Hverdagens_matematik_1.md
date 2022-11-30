@@ -1,7 +1,7 @@
 ---
 title: textbook.Hverdagens_matematik_1
 date: 18-11-2022_星期五
-tags: bookNote, matematik, FVU, 
+tags: bookNote, matematik, publisher/FVU, 
 ---
 
 

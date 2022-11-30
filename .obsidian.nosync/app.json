@@ -3,7 +3,7 @@
   "livePreview": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "spellcheck": true,
+  "spellcheck": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
   "showLineNumber": true,
