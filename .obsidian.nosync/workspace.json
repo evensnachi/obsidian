@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-12-01.md",
-                "mode": "preview",
+                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-12-01.md",
+                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-12-01.md",
+                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-12-01.md"
+                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
+    "日记/2022-12-01.md",
     "日记/2022-11-29.md",
     "Inbox/affair.关于是否可以拿学生签证申请永居的事情.md",
-    "日记/2022-12-01.md",
     "日记/2022-11-28.md",
     "日记/2022-11-30.md",
     "10.affair.事务/affair.ApplyFor_A_PermanentResidencePermit.永居.md",
