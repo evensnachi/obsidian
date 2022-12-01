@@ -15,3 +15,13 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 ## CSS
 
+### 01 css 简介
+
+- 网页的三个部分
+	- 结构 HTML
+	- 表现 CSS
+	- 行为 JS
+- 所有外在显示的东西都属于表现, 用 CSS 控制
+- CSS 层叠样式表
+	- 分层的样式的列表
+	- 网页时分层的, 因为我们看起来的网页是从上面向下看的. 
