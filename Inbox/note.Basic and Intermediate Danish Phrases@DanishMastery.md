@@ -160,8 +160,13 @@ aliases:
 - skal vi drikke en øl ? 
 - skal vi bestille noget mad ? 
 - hvad har du lyst til ? 
-	- 
+	- 你想来点什么吗?
 - jeg har lyst til .. 
-	- (拥有)
-- jeg kan godt lige ..
-- 
+	- 我想来点 .. (拥有)
+- jeg kan godt lide ..
+- jeg kan ikke lide ..
+- jeg kan også godt lide .. 
+- jeg kan heller ikke lide .. 
+- det / den bedste er ..
+- hvad er klokken ? 
+- den 
