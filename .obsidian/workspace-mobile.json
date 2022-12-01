@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.work.工作/咖喱酱.md",
+                "file": "Inbox/Book.DanskMatematik.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "09.work.工作/咖喱酱.md",
+            "file": "Inbox/Book.DanskMatematik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "09.work.工作/咖喱酱.md",
+            "file": "Inbox/Book.DanskMatematik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "09.work.工作/咖喱酱.md"
+            "file": "Inbox/Book.DanskMatematik.md"
           }
         }
       }
@@ -124,6 +124,7 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "日记/2022-11-30.md",
     "09.work.工作/蒜蓉酱.md",
     "09.work.工作/糖醋汁.md",
     "09.work.工作/柚子汤底.md",
@@ -132,7 +133,6 @@
     "AdjectivesWithExamples@DanishMastery.md",
     "日记/2022-11-24.md",
     "模板/未命名.md",
-    "日记/2022-11-21.md",
-    "danskOrdbog.丹麦语词典/afledteord.衍生词/yderlig.md"
+    "日记/2022-11-21.md"
   ]
 }
