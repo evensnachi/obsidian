@@ -60,4 +60,108 @@ aliases:
 - jeg hedder ..
 - mit navn er ..
 - Hvad hedder du ? 
+- jeg er 25 år gammel.
+- hvor gammel er du ? 
+- hvor kommer du fra ? 
+- jeg kommer fra .. 
+- jeg bor i / på ..
+	- 国家, 城市 / 街道, 岛名
+- hvor bor du ? 
+- hvordan går det ? 
+- det går godt . 
+- det går ikke så godt . 
+- jeg er glad . 
+- jeg er ked af det . 
+	- 我不开心, 我伤心
+- jeg keder mig . 
+	- 我无聊
+- jeg er sulten 
+- jeg er tørstig . 
+- hvad med dig ? 
+	- [va me da]
+- jeg fryser . 
+	- 我冷
+- jeg sveder
+	- 我一身汗
+- jeg er klar . 
+- jeg er spændt ! 
+	- 我很兴奋
+- jeg glæder mig . 
+	- 我很兴奋 ( 等不及什么事情)
+- jeg er lidt nervøs . 
+- held og lykke !
+	- good luck !
+- pøj, pøj 
+	- good luck on 挑战
+- knæk og bræk! 
+	- 狗屎运
+- prosit! 
+	- 一百岁
+- tillykke
+	- 恭喜
+- tillykke med fødselsdagen !
+	- 生日快乐
+- god jul 
+- godt nytår
+- (hav en ) god weekend
+- hav en god dag
+- fortsat god dag
+	- (继续) 今天好
+- i lige måde
+	- 你也一样
+- fedt
+	- 太棒了
+- sådan
+	- 就是这样
+- er det rigtigt ? 
+- virkelig ? 
+	- 真的?
+- mener du det ? 
+	- 你认真的? 
+- hvad mener du ? 
+	- 你什么意思? 
+- hvad betyder det ? 
+	- 这什么意思 ?
+- hvad siger du ? 
+	- 你说什么?
+- hvad er det ? 
+	- 那是什么? 
+- hvem er han / hun ? 
+	- 他/她 是谁?
+- hvorfor ? 
+	- 为什么
+- hvordan ? 
+	- 怎么的?
+- hvornår 
+	- 什么时候
+- hvor laver du ? 
+	- 你干什么呢? / 你是干什么的? 
+- lad os gøre det !
+- det er en god ide
+- hvad synes du ? 
+	- 你怎么觉得
+- giv mig et øjeblik
+- vent lidt !
+- kom nu !
+- skynd dig !
+- jeg / vi har ikke hele dagen. 
+- jeg har travlt .
+- jeg har ikke så maget tid. 
+- jeg er på arbejde .
+- hvad er dit arbejde / job . 
+- jeg arbejde som ...
+- det er snart weekend. 
+- det er fredag i dag . 
+- jeg har fri i dag. 
+- jeg slappe af . 
+- jeg taler i telefon. 
+- hvad er din planer for i morgen ? 
+- skal vi se en film ? 
+- skal vi drikke en øl ? 
+- skal vi bestille noget mad ? 
+- hvad har du lyst til ? 
+	- 
+- jeg har lyst til .. 
+	- (拥有)
+- jeg kan godt lige ..
 - 
