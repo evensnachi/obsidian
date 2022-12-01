@@ -27,6 +27,11 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 	- 网页时分层的, 因为我们看起来的网页是从上面向下看的. 
 	- 通过 CSS 可以为网页的每一层分别设置样式.
 
+#### 使用 CSS 修改元素的样式
+##### 第一种方式
+- 在标签内部使用 style 属性来设置元素样式
+	- 使用名值对, 名值之间用冒号连接
+
 ```html
 
 ```
