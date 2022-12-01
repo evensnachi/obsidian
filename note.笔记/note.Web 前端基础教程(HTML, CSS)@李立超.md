@@ -25,3 +25,11 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - CSS 层叠样式表
 	- 分层的样式的列表
 	- 网页时分层的, 因为我们看起来的网页是从上面向下看的. 
+	- 通过 CSS 可以为网页的每一层分别设置样式.
+
+```html
+
+```
+
+```css
+```
