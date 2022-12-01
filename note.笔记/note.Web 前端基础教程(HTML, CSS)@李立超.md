@@ -28,13 +28,29 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 	- 通过 CSS 可以为网页的每一层分别设置样式.
 
 #### 使用 CSS 修改元素的样式
-##### 第一种方式
+##### 第一种方式 : 内联样式, 行内样式
 - 在标签内部使用 style 属性来设置元素样式
 	- 使用名值对, 名值之间用冒号连接
+	- 每个样式都以分号结尾. 
 
 ```html
+<!DOCTYPE html>
 
-```
+<html lang="en">
 
-```css
+<head>
+
+<meta charset="UTF-8">
+
+<title>Document</title>
+
+</head>
+
+<body>
+
+<p style="color :red; font-size: 30px;">少小离家老大回,乡音无改鬓毛衰,</p>
+
+</body>
+
+</html>
 ```
