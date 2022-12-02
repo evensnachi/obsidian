@@ -72,6 +72,8 @@ Y og Ø udtales også med fortungen, vores læbestilling er rundet og mundens å
 
 Vær her opmærksom på, at U kan springe 2 trin ned i vores udtale (som det eneste). Hvis vi skal udtale ordet: smukke springer vi helt ned til å, og husk selvfølgelig i stavning at gå 2 trin tilbage til vores udgangspunkt. 
 
+	这里要注意, u 发音下降两阶
+
 U-O-Å udtales med bagtungen, vores læbestilling er rundet og mundens åbningsgrad går fra lav via mellem til høj.
 
 ## Tre ekstra lyde
