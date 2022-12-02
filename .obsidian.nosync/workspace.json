@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
+                "file": "日记/2022-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
+                "file": "日记/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
+                "file": "日记/2022-12-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md"
+                "file": "日记/2022-12-02.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
+    "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
     "日记/2022-12-01.md",
     "日记/2022-11-29.md",
     "Inbox/affair.关于是否可以拿学生签证申请永居的事情.md",
@@ -159,7 +160,6 @@
     "10.affair.事务/affair.ApplyFor_A_PermanentResidencePermit.永居.md",
     "日记/2022-11-03.md",
     "Inbox/Book.DanskMatematik.md",
-    "模板/笔记信息模板.md",
-    "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md"
+    "模板/笔记信息模板.md"
   ]
 }
