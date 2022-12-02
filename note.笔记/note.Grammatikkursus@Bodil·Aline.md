@@ -180,21 +180,52 @@ Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.
 
 | Sæt kryds: | Lydret | Ikke-lydret |
 | ---------- | ------ | ----------- |
-| lys        | lyset  | -           |
+| lys        | lys    | -           |
 | kys        | -      | kysset      |
 | hør        | -      | hørren      |
 | lygte      | -      | lygte       |
-| is         | isen   | -           |
+| is         | is     | -           |
 | ind        | -      | ind         |
-| æsel       |        |             |
-| sol        |        |             |
-| heks       |        |             |
-| evig       |        |             |
-| ål         |        |             |
-| have       |        |             |
-| hammer     |        |             |
-| hus        |        |             |
-| bue        |        |             |
-| bussen     |        |             |
-| høne       |        |             |
-| bøtte           |        |             |
+| æsel       | æsel   |             |
+| sol        | sol    |             |
+| heks       |        | heksen      |
+| evig       | evig   |             |
+| ål         | ål     |             |
+| have       | haven  |             |
+| hammer     |        | hammer      |
+| hus        | husen  |             |
+| bue        | bue    |             |
+| bussen     | bussen |             |
+| høne       | høne   |             |
+| bøtte      |        | bøtte       |
+
+## Opgave 5
+
+Afgør hvilken vokal, du hører, når du udtaler ordet . 
+
+| Ordet    | Vokalen lyder som |
+| -------- | ----------------- |
+| Nemme    |                   |
+| Elske    |                   |
+| Mester   |                   |
+| Begge    |                   |
+| Venner   |                   |
+| Hikke    |                   |
+| Digt     |                   |
+| Sigte    |                   |
+| Fisk     |                   |
+| Miste    |                   |
+| Dygtig   |                   |
+| Yndig    |                   |
+| Yngst    |                   |
+| Lykke    |                   |
+| Munter   |                   |
+| suppe    |                   |
+| Underlig |                   |
+| Kunde    |                   |
+| Loppe    |                   |
+| Post     |                   |
+
+## Opgave 6
+
+
