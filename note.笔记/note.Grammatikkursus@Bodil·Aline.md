@@ -112,7 +112,7 @@ Vi kan opdele vokalerne i to grupper:
 |                       ==lydrette 听写一致==                        |                   ==Ikke lydrette 听写不一致==                    |
 |             Ordet skrives med den vokal, du kan høre.              |           Ordet skrives ikke med den vokal, du kan høre           |
 | Vokalen efterfølges altid kun af en konsonant 元音后跟一个辅音字母 | Vokalen efter følges af mindst 2 konsonanter 元音后跟两个辅音字母 |
-|                   **konsonant-vokal-konsonant**                   |              **konsonant-vokal-konsonant-konsonant**              |
+|                   **konsonant-vokal-konsonant**                    |              **konsonant-vokal-konsonant-konsonant**              |
 |                                *is*                                |                               *ind*                               |
 |                               *bil*                                |                              *bedre*                              |
 |                             *vitamin*                              |                              *vidst*                              |
@@ -123,37 +123,78 @@ Vi kan opdele vokalerne i to grupper:
 > - Høres en lang og tydelig vokallyd: ordet skrives medden vokal, der høres.
 
 
- - 如果听起来是长元音, 写出来和听见的是一样的, 后面没有或者跟一个辅音.  
- - 如果听起来是短元音, 写的比听的元音字母上一个台阶, 后面跟两个辅音.   (发音降一个台阶,U 阶降两阶.) 
+	所以我们可以得出如下结论: 
+	- 如果一个单词包含两个连续辅音字母, 那么前面的元音需要降阶.
+	- 听到一个短元音, 字母升阶, 后接连续的两个辅音字母. 
+	- 听到一个长元音, 字母不变, 后接一个或者没有辅音字母. 
+
+
  - 参见: Vokaltrappen 
  - [[ung]] = u -> [å] / ng -> [ŋ]  
  - seks = e -> [æ]  
-
 
 	注意: 名词后面要加定冠词来看发音, 如果需要双写辅音加定冠词的, 要视为后接双辅音的.
 	注意: 有的单词像 bussen 不变. 属于特殊单词. 
 	注意: 有的单词像 bøtte 不变, 是因为ø下面没有变化的余地了. 
 
-## 规则
+## Opgave 1 
 
-后面不跟辅音,或者跟一个辅音的, 是**长元音**, 发音和元音字母发音**一致**.
-后面跟两个辅音,是**短元音**, 发音要降一个台阶(u,o,å,[ɔ] 降两个台阶)
+Fordel disse ord i lydrette og ikke- lydrette 
 
-### 特例
-名词要看原形加定冠词的形式, 时候需要双写最后一个辅音.
-反过来说, 如果是长元音的名词, 加定冠词不用双写后两个辅音字母
-ø 后面没有降阶的了, 所以永远都是长元音, 发本音.
-bussen ( u 发短元音,但是元音字母不变 )
+| lydrette | ikke-lydrette |
+| -------- | ------------- |
+| due      | ung           |
+| ses      | seks          |
+| bur      | duft          |
+| globus   | bukser        |
+| uge      | golf          |
+
+## Opgave 2
+
+Fordel disse ord i lydrette og ikke- lydrette
+
+| Lydrette | ikke-lydrette |
+| -------- | ------------- |
+| koma     | komma         |
+| hule     | hulle         |
+| dele     | delle         |
+| damen    | dammen        |
+| tiger    | tigger        |
+
+## Opgave 3 
+
+Fordel disse ord i lydrette og ikke-lydrette
+
+| Lydrette | ikke-lydrette |
+| -------- | ------------- |
+| kro      | krukke        |
+| strop    |               |
+| lokal    | lokke         |
+| pose     | post          |
+| stol     |               |
+| slibe    | slippe              |
 
 ## Opgave 4
+
 Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.   
 
-|Sæt kryds:|Lydret|Ikke-lydret|
-|-|-|-|
-|lys|lyset|-|
-|kys|-|kysset|
-|hør|-|hørren|
-|lygte|-|lygte|
-|is|isen|-|
-|ind|-|ind|
-|
+| Sæt kryds: | Lydret | Ikke-lydret |
+| ---------- | ------ | ----------- |
+| lys        | lyset  | -           |
+| kys        | -      | kysset      |
+| hør        | -      | hørren      |
+| lygte      | -      | lygte       |
+| is         | isen   | -           |
+| ind        | -      | ind         |
+| æsel       |        |             |
+| sol        |        |             |
+| heks       |        |             |
+| evig       |        |             |
+| ål         |        |             |
+| have       |        |             |
+| hammer     |        |             |
+| hus        |        |             |
+| bue        |        |             |
+| bussen     |        |             |
+| høne       |        |             |
+| bøtte           |        |             |
