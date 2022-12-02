@@ -27,20 +27,32 @@ I det morfematiske princip finder vi ord, som ikke er lydrette. Dette princip [[
 
 Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som [[tidlig|tidligere]] [[nævnt]] [[opdeler]] vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose, ål.
 
+	元音台阶是一种特别好的工具去掌握所有的元音. 就像我们之前提到的,我们把我们的单词分为听写一致和听写不一致的词. 哪些听写一致的单词不会造成大麻烦. 
+
 Vokalerne kalder vi også for selvlyde, de kan stå alene (for sig selv) og danne et helt ord. F.eks. : Jeg bor **i** Danmark. Vi bor på en *ø*. Jeg svømmer i en **å**. 
 
+	这些元音我们也称为自带发音, 可以独立存在, 或者就是一个单词. 例如 i , å .
+
 Som du kan se i skemaet, bliver vokalerne opdelt i fire familier, Det gør de, fordi vokalerne inden for samme familie lydligt ligger meget tæt, vi producerer lydene med samme mundstilling, den eneste forskel er, at vi åbner munden mere og mere, og derfor har de en tendens til at blive forvekslet.
+
+	就如同你在表里看到的, 元音分为四个家族. 它们像这样是因为同一个家族的元音听起来非常接近, 我们以相同的口腔部位发生, 唯一的区别是嘴巴越张越开, 因此它们有点容易混淆. 
 
 ![[IMG_1382.jpeg]]
 
 
 Husk! Vokalerne kan skifte, ved læsning går udtalen et trin ned. Ved stavning går de et trin op. 
 
+	记住 : 元音会变换, 读的时候发下一阶的音, 写的时候是上一阶的字母. 
+
 Bemærk! R udtaler vi i halsen, hvilket gør, at vi har tendens til at trække vokalen tilbage. Som en regel kan vi sige, at R trækker alle lyde tilbage, hvorfor vokalen kan gå to trin ned. 
+
+	注意 : R 我们发喉间音, 这意味着, 我们发的元音会向后缩紧. 所以我们可以说 R 让所有的音向后, 这就是元音下降两阶的原因. 
 
 ## familie: A
 
 Umiddelbart ser det ud til, at A kun er i familie med sig selv. Men vi har faktisk to a-lyde, som du skal være opmærksom på. Den ene a-lyd finder du f.eks. i *have*, den anden a-lyd, som er påvirket af bogstavet R, finder du f.eks. i *har*.
+
+	乍一看，好像 a 只和他自己有关。 但我们实际上有两种 a 发音您需要注意。 你会发现 a 发音，例如 在 *have* 中; 受字母 r 影响的第二个 a 发音，你会发现例如 你有 *har* 。
 
 A udtales med fortungen, vores læbestilling er rundet og mundens åbningsgraden er lav.
 
