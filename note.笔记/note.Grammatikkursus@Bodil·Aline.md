@@ -58,7 +58,7 @@ A udtales med fortungen, vores læbestilling er rundet og mundens åbningsgraden
 
 ## familie: I - E - Æ
 
-Reglen i vokaltrappen er, at når vi læser et ord, går vi et trin ned ad trappen, når vi staver, går vi et trin op. Tag f.eks. ordet: *ind*. Når vi udtaler det, lyder *i* 'et som et*e*, vi er altså gået et trin ned til *e* for at udtale ordet, når vi skal stave det, skal vi gå tilbage til vores udgangspunkt. På samme måde gør vi med f.eks. ordet: *hest*. Vi udtaler det med et *æ*, menstaver det med et *e*. 
+Reglen i vokaltrappen er, at når vi læser et ord, går vi et trin ned ad trappen, når vi staver, går vi et trin op. Tag f.eks. ordet: *ind*. Når vi udtaler det, lyder *i* et som et *e*, vi er altså gået et trin ned til *e* for at udtale ordet, når vi skal stave det, skal vi gå tilbage til vores udgangspunkt. På samme måde gør vi med f.eks. ordet: *hest*. Vi udtaler det med et *æ*, menstaver det med et *e*. 
 
 I-E-Æ udtales med fortungen, vores læbestilling er urundet og mundens åbningsgrad går fra lav via mellem til høj. 
 
