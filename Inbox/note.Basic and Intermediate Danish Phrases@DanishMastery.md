@@ -5,7 +5,11 @@ tags:
 aliases: 
 ---
 
+[(link)Basic and Intermediate Danish Phrases](https://youtu.be/SaqHnLW69nk)
+
 # note.Basic and Intermediate Danish Phrases@DanishMastery
+
+## 150 Basic Danish phrases 
 
 - Hej 
 - Goddag
@@ -169,4 +173,103 @@ aliases:
 - jeg kan heller ikke lide .. 
 - det / den bedste er ..
 - hvad er klokken ? 
-- den 
+- den er / klokken er .. 
+- den er to / 2 / 14:00 
+- .. halv fire / 3:30 / 15:30
+- kvart over fem / 5:15 / 17:15
+- det er sent . 
+- det er tidligt . 
+- det er snart morgen . 
+- hvordan er vejret ? 
+- det er varmt . 
+- det er maget varmt i dag . 
+- det er koldt . 
+- det er virkelig koldt . 
+- det er regner . 
+- det begynder snart at regne. 
+- rengne er stoppet . 
+- det sner . 
+- vi fik meget sne. 
+- er den allerede smeltet ? 
+- det / vinden blæser . 
+- det blæser virkelig maget ! 
+- lad os blive indenfor . 
+- lad os gå ud / udenfor . 
+- det er dailigt vejr . 
+- Solen skinner . 
+- Jeg soler mig . 
+- han blev solbrændt . 
+	- brændt 烫伤
+- du har en god farve / kulør. 
+- du ser godt ud . 
+- du er en god ven .
+- vil du hjælpe mig ? 
+- hjælp 
+- er det nogen , der kan hjælpe ? 
+- vil du være sød at .. ? 
+- jeg vil gerne bede om .. 
+- jeg har et problem . 
+- hvad er problemet ? 
+- jeg ved ikke hvor jeg er . 
+- jeg kan ikke finde .. 
+- hvor er .. ? 
+- er du faret vild  ?
+- du skal gå ligeud . 
+- du skal dreje til venstre / højre . 
+- ligger der . 
+- jeg skal købe en / et 
+- sælger i også ? 
+- hvad / hvor maget koster den her ? 
+- tager i kort ? 
+- en pose , tak . 
+- kvittering ? 
+- ja , tak . 
+- nej , tak . 
+- forstår / taler du dansk ? 
+- ja , jeg forstår / taler dansk . 
+- nej , jeg forstår / taler ikke dansk . 
+- jeg forstår lidt . 
+- det er et svært sprog . 
+- undskyld , kan du gentage det ? 
+
+
+## 55 intermediate phrases
+
+- jeg er nødt til at gøre det . 
+	- 我必须干这个
+- jeg har ikke noget valg . 
+	- 我没得选
+- der er ikke op til mig . 
+	- 那不取决于我
+- jeg overvejer at gøre det . 
+	- 我考虑干那个
+- synes du , jeg skal gøre det ? 
+	- 你觉得, 我要做吗? 
+- hvis jeg var dig , ville jeg ..
+	- 如果我是你, 我就.. 
+- jeg foreslår , at du --
+	- 我建议, 你.. 
+- det er værd at overveje . 
+	- 那是个坏决定
+- du behøver ikke at gøre det . 
+	- 你不必做那个
+- har du taget en beslutning ? 
+	- 你做决定了吗? 
+- jeg har besluttet at .. 
+	-  我决定了要 .. 
+- du gjorde det rigtige .
+	- 你做了对的事. 
+- jeg er stolt af dig . 
+	- 我为你骄傲
+- jeg respekterer dit valg . 
+	- 我尊重你的决定 . 
+- jeg har gjort noget dumt . 
+	- 我干了蠢事. 
+- det skulle jeg ikke have gjort . 
+	- 我不该干这个
+- jeg fortryder det . 
+	- 我后悔了
+- så har du lært 'det . 
+	- 你学到了么? 
+- men lærer af sine fejl . 
+	- 你c
