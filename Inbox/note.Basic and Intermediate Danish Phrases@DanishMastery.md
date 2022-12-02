@@ -272,4 +272,68 @@ aliases:
 - så har du lært 'det . 
 	- 你学到了么? 
 - men lærer af sine fejl . 
-	- 你c
+	- 失败是成功之母
+- der er menneskeligt at fejle. 
+- op med humøret . 
+	- 打起精神
+- lad os se fremad . 
+	- 让我们向前看
+- jeg trænger til en ferie . 
+	- 我需要一个假期
+- hvor skal vi rejse hen ? 
+- jeg har altid drømt om at opleve .. 
+	- 我总有个梦想就是要体验 ... 
+- har du nogensinde været i .. ? 
+	- 你在... 待过吗? 
+- den / det skulle være noget helt specielt . 
+	- 这个应该是一些非常特别的. 
+- der er så mange steder , jeg gerne vil se . 
+	- 有许多地方, 我想去看看
+- hvad glæder du dig mest til at se ? 
+	- glæder sig 对... 兴奋, 期待
+- vi rejser i næste uge. 
+- husk at købe rejseforsikring . 
+- hvor længe skal i være der ? 
+- i en uges tid . 
+- plejer du at få jetlag  ?
+	- plejer 通常 v.
+- det bliver en lang flyvetur . 
+- jeg er forberedt . 
+- jeg er blevet inviteret til fest . 
+- jeg elsker at møde nye mennesker . 
+- jeg kender ikke nogen her . 
+- hvordan kender du .. ? 
+- vi arbejder sammen . 
+- vi mødtes til en fast . 
+- hvad hedder din kæreste  ?
+- han / hun virker meget .. 
+	- 他/她 看着挺...
+- han er lidt genert , er han ikke  ?
+	- 他有点害羞, 对不? 
+- jeg skal have en øl . 
+- hvad drikker du ? 
+- den har jeg aldrig prøvet før . 
+- skal vi / vil du danse ? 
+- jeg bliver nødt til at gå hjem . 
+- jeg har det ikke så godt . 
+	- 我觉得有点难受. 
+- jeg er for fuld til at køre . 
+	- 我喝太多, 不能开车. 
+- lad os ringe efter en taxa . 
+- jeg er lige kommet hjem . 
+	- 我刚到家
+- det var rigtig hyggeligt . 
+- det må vi gøre igen en anden gang . 
+
+## Danish Phrases about The weather 
+
+- dejligt vejr i dag . 
+- hvor er vejret bare fantastisk .
+- vejret er lige som det skal være . 
+- det er rigtigt varm i dag. 
+- det er lidt for varmt . 
+- jeg sveder . 
+- det er lidt skyet. 
+- det er helt overskyet. 
+- det trækker op til regn 
+- 
