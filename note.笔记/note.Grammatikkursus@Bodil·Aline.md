@@ -76,36 +76,46 @@ Vær her opmærksom på, at U kan springe 2 trin ned i vores udtale (som det ene
 
 U-O-Å udtales med bagtungen, vores læbestilling er rundet og mundens åbningsgrad går fra lav via mellem til høj.
 
-## Tre ekstra lyde
+## Tre ekstra lyde 三个其他发音
 
 Du er allerede blevet bekendt med, at A kan have to forskellige lyde. Nu vil jeg gøre dig opmærksom på, at vi har to ekstra lyde, som vi bruger hele tiden: Øh-lyd og Åh-lyd.
 
 Øh-lyden bruger vi, når vi udtale ord, der slutter på -e. Prøv at udtale ordet: *komme*, *svømme*. 
 
+	以 e 结尾的单词, e 发 Øh 音
+
 E'et er tryksvagt og udtales derfor "øh". Det er ikke, fordi vi ikke kan udtale *e* med tryk op, prøv f.eks. at udtales ordet *idé*. Her udtaler vi e'et trykstærkt. Men som oftest udtaler vi helst e'et tryksvagt, hvorfor øh-lyden oftebliver sagt. 
 
+	e 是不重读的音, 所以发音偏 øh
+
 Åh-lyden bruger vi, når vi udtaler ord, der slutter på -er. Prøv at udtale ordet: *kommer*, *svømmer*. Her har vi også en tryksvag endelse, desværre er det lige meget om der står *-er* eller *-re*, lyden bliver den samme. Prøv at udtale: *mere* eller *tømrere*, hvor du kun kan køre endelsen som åh-lyden. 
+
+	er 发 åh 的音, 而且 -er 和 -re 发音一样
 
 ## Sprog fif !
 
 Har du dansk som andetsprog, skal du være meget opmærksom på at lære udtalen på de danske vokaler. Når først du mestrer dem og kan skille dem fra hinanden, vil arbejdet med lydrette ord blive ganske nemt. Husk endvidere: i lydrette ord er der ingen dobbeltkonsonanter eller stumme bogstaver. Du skal skrive alle de bogstaver, du hører, hverken mere eller mindre. 
+
+	注意的是, 在听写一致的单词中, 没有双写辅音字母或不发音字母, 所以听写要一致. 
 
 
 # Lange og Korte vokaler
 
 Som du lige har lært, sker der tit forvekslinger mellem de forskellige vokaler, dog altid kun inden for samme "familie". Når der sker en forveksling, arbejder vi med en kort vokal. 
 
+	同一个家族的元音经常发生混淆, 一旦混淆了, 我们可以通过发音长短来进行区分. 
+
 Vi kan opdele vokalerne i to grupper: 
 
-|               **Lange vokaler**               |               **Korte vokaler**               |
-|:---------------------------------------------:|:---------------------------------------------:|
-|                 ==lydrette==                  |               ==Ikke lydrette==               |
-|   Ordet skrives med den vokal, du kan høre    | Ordet skrives ikke med den vokal, du kan høre |
-| Vokalen efterfølges altid kun af en konsonant | Vokalen efter følges af mindst 2 konsonanter  |
-|        **konsonant-vokal- konsonant**         |    **konsonant-vokal-konsonant-konsonant**    |
-|                     *is*                      |                     *ind*                     |
-|                     *bil*                     |                    *bedre*                    |
-|                   *vitamin*                   |                    *vidst*                    |
+|                      **Lange vokaler 长元音**                      |                     **Korte vokaler 短元音**                      |
+|:------------------------------------------------------------------:|:-----------------------------------------------------------------:|
+|                       ==lydrette 听写一致==                        |                   ==Ikke lydrette 听写不一致==                    |
+|             Ordet skrives med den vokal, du kan høre.              |           Ordet skrives ikke med den vokal, du kan høre           |
+| Vokalen efterfølges altid kun af en konsonant 元音后跟一个辅音字母 | Vokalen efter følges af mindst 2 konsonanter 元音后跟两个辅音字母 |
+|                   **konsonant-vokal-konsonant**                   |              **konsonant-vokal-konsonant-konsonant**              |
+|                                *is*                                |                               *ind*                               |
+|                               *bil*                                |                              *bedre*                              |
+|                             *vitamin*                              |                              *vidst*                              |
 
 > Vi kan altså samle sammen og konkludere følgende: 
 > Indeholder et ord to konsonanter efter hinanden, skal du være på vagt over for vokalen foran.
