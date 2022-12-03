@@ -5,7 +5,7 @@ tags: bookNote, dansk, grammatik, udtale, publisher/FVU
 aliaese: Bliv en sikker staver
 ---
 
-## Det fonematiske og morfematiske princip
+## Det fonematiske og morfematiske princip 音素原理和语素原理
 
 [[Det skrevne danske]] sprog [[består af]] 2 [[princip|principper]]: det [[fonematisk|fonematiske]] princip (lydprincippet) og det [[morfematisk|morfematiske]] princip (betydningsprincippet).
 
@@ -23,7 +23,7 @@ I det morfematiske princip finder vi ord, som ikke er lydrette. Dette princip [[
 
 	在语素原理中我们发现单词并不听写一致. 这个原理建立在, 个别的音素保持了自己的拼写模式, 尽管它在一个新的字母组合里发音并不一致. 原理确保像这样一个在单词拼写模式上的某种一致性. 这组单词是我们找到的听写不一致的单词, 例如: 说过, 有过,
 
-## Vokaltrappen
+## Vokaltrappen 元音音阶
 
 Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som [[tidlig|tidligere]] [[nævnt]] [[opdeler]] vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose, ål.
 
@@ -99,7 +99,7 @@ Har du dansk som andetsprog, skal du være meget opmærksom på at lære udtalen
 	注意的是, 在听写一致的单词中, 没有双写辅音字母或不发音字母, 所以听写要一致. 
 
 
-## Lange og Korte vokaler
+## Lange og Korte vokaler 长短元音
 
 Som du lige har lært, sker der tit forvekslinger mellem de forskellige vokaler, dog altid kun inden for samme "familie". Når der sker en forveksling, arbejder vi med en kort vokal. 
 
@@ -261,5 +261,34 @@ Vi kan opdele vokalerne i to grupper:
 ###### Hvad skal du gøre, hvis du hører en kort vokallyd ? 
 	当你听到短元音的时候, 应该怎么办? 
 - Jeg skal gå et trin op ad trappen, nå jeg skriver diktat. 
-	`我应该
+	`我应该写听到的元音的上一个音阶 `
 
+###### Hvad skal du gøre, hvis du hører en lang vokallyd ? 
+	当你听到长元音的时候, 应该怎么办?
+- Jeg skal skrive den vokal, som jeg kan høre
+	`我应该写我听到的元音`
+
+###### Hvor mange konsonanater må der være efter en lang vokal ?
+	长元音后面应该跟几个辅音?
+- et eller nul konsonant .
+	`一个或者不跟辅音.`
+
+###### Hvor mange konsonanter er der som minimum efter en kort vokal ? 
+	一个短元音后面应该最少跟几个辅音
+- to konsonanter
+	`两个辅音` 
+
+###### Hvornår kalder vi et ord for lydret ? 
+	什么叫听写一致的单词?
+- Når ordet lyder og skrives med den vokal som du kan høre og læse . 
+	`当听和写的元音都一样的时候, 叫听写一致的单词`
+
+###### Hvornår kalder vi et ord for ikke-lydret ? 
+	什么叫听写不一致的单词?
+- Når ordet ikke skrives med den vokal , du kan høre . 
+	`当听和写不一致的时候,叫听写不一致的单词. `
+
+## Stavelsesdeling 单词拆分
+
+  Stavelsesdeling er en teknik , du kan benytte dig af ,  både når du læser og staver . 
+ I stavelsesdeling opdeler vi ordenen i mindre lydbidder , så vil lange ord blive nemmere at
