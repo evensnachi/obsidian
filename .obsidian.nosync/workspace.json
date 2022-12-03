@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -142,14 +142,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
-  "active": "df253378ef73a467",
+  "active": "c9f64bdfaea22d8a",
   "lastOpenFiles": [
     "日记/2022-12-03.md",
     "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",

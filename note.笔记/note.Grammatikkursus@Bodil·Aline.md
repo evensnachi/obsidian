@@ -5,25 +5,25 @@ tags: bookNote, dansk, grammatik, udtale, publisher/FVU
 aliaese: Bliv en sikker staver
 ---
 
-# Det fonematiske og morfematiske princip
+## Det fonematiske og morfematiske princip
 
 [[Det skrevne danske]] sprog [[består af]] 2 [[princip|principper]]: det [[fonematisk|fonematiske]] princip (lydprincippet) og det [[morfematisk|morfematiske]] princip (betydningsprincippet).
 
 	书面丹麦语由2 个原理组成: 音素原理(lydprincippet) 和语素原理(betydningsprincippet)
 
-## Det fonematiske
+### Det fonematiske
 
 Det fonematiske princip [[bygger på]] , [[at]] der til hver [[betydningsadskillende]] lyd [[knytter]] sig ét bestemt bogstav. Dette skulle [[sikre]], at et bestemt bogstav udtales [[ens]]. Her finder vi de [[lydrette]] ord som f.eks. *lys*, *vitamin*, *kapital* og *mikrobiologi*, vi bliver ikke [[overraskede]] når vi læser (eller staver) ordene, fordi hvert bogstavs lyd udtales.
 
 	音素原理建立在每个具有独立含义的音素都有一个确定的字母相关联. 这就保证了, 每个确定字母的发音都一样. 这里是我们找到的听写一致的单词, 例如: 听, 维他命, 首都和微生物学, 当我们阅读(或者拼写)单词时, 我们不会惊慌, 因为每个字母都听发音.
 
-## Det morfematiske
+### Det morfematiske
 
 I det morfematiske princip finder vi ord, som ikke er lydrette. Dette princip [[bygger på]], at det [[enkelte]] morfem [[bevarer]] sin [[stavemåde]] , [[selvom]] det i en ny [[sammenhæng]] udtales [[anderledes]] . Princippet sikrer [[dermed]] en vis [[enshed]] i ordenes stavemåde. i denne gruppe finder vi alle ikke-lydrette ord, som f.eks. sagde, havde, slot og temmelig, her bliver vi ofte overraskede, når vi læser (eller staver) ordene, fordi hvert bogstavs lyd ikke udtales. Land: her er d’et [[stumt]] og udtalen lyder som “lan”. Havde; her er v’et stumt udtalen lyder som “hade”. Slot: vokalen skifter karakter og udtales som å “slåt”. Temmelig: igen vokalskifte, det er [[endvidere]] svært at høre de to m’er (dobbel-konsonanterne) “tæmelig”. For de fleste voksne danskere [[volder]] det fonematiske princip ikke de store problemer, [[hvorimod]] vi ofte [[falder]] i det morfematiske princips mange [[fælder]] .
 
 	在语素原理中我们发现单词并不听写一致. 这个原理建立在, 个别的音素保持了自己的拼写模式, 尽管它在一个新的字母组合里发音并不一致. 原理确保像这样一个在单词拼写模式上的某种一致性. 这组单词是我们找到的听写不一致的单词, 例如: 说过, 有过,
 
-# Vokaltrappen
+## Vokaltrappen
 
 Vokaltrappen er et [[virkelig]] godt [[redskab]] til at holde [[styr]] på alle vokalerne. som [[tidlig|tidligere]] [[nævnt]] [[opdeler]] vi vores ord i lydrette og ikke-lydrette ord. De lydrette volder os ikke de store problemer, her skriver vi vokalen, som vi hører den: have, is, evig, gæs, lys, øl, hus, ose, ål.
 
@@ -48,7 +48,7 @@ Bemærk! R udtaler vi i halsen, hvilket gør, at vi har tendens til at trække v
 
 	注意 : R 我们发喉间音, 这意味着, 我们发的元音会向后缩紧. 所以我们可以说 R 让所有的音向后, 这就是元音下降两阶的原因. 
 
-## familie: A
+### familie: A
 
 Umiddelbart ser det ud til, at A kun er i familie med sig selv. Men vi har faktisk to a-lyde, som du skal være opmærksom på. Den ene a-lyd finder du f.eks. i *have*, den anden a-lyd, som er påvirket af bogstavet R, finder du f.eks. i *har*.
 
@@ -56,19 +56,19 @@ Umiddelbart ser det ud til, at A kun er i familie med sig selv. Men vi har fakti
 
 A udtales med fortungen, vores læbestilling er rundet og mundens åbningsgraden er lav.
 
-## familie: I - E - Æ
+### familie: I - E - Æ
 
 Reglen i vokaltrappen er, at når vi læser et ord, går vi et trin ned ad trappen, når vi staver, går vi et trin op. Tag f.eks. ordet: *ind*. Når vi udtaler det, lyder *i* et som et *e*, vi er altså gået et trin ned til *e* for at udtale ordet, når vi skal stave det, skal vi gå tilbage til vores udgangspunkt. På samme måde gør vi med f.eks. ordet: *hest*. Vi udtaler det med et *æ*, menstaver det med et *e*. 
 
 I-E-Æ udtales med fortungen, vores læbestilling er urundet og mundens åbningsgrad går fra lav via mellem til høj. 
 
-## familie: Y-Ø
+### familie: Y-Ø
 
 Tag f.eks. ordet: *smykke*. når vi udtaler det, går vi et trin ned af trappen til ø, når vi staver det, skal vi gå tilbage til vores udgangspunkt. 
 
 Y og Ø udtales også med fortungen, vores læbestilling er rundet og mundens åbningsgrad går fra mellem til høj.
 
-## familie U-O-Å
+### familie U-O-Å
 
 Vær her opmærksom på, at U kan springe 2 trin ned i vores udtale (som det eneste). Hvis vi skal udtale ordet: smukke springer vi helt ned til å, og husk selvfølgelig i stavning at gå 2 trin tilbage til vores udgangspunkt. 
 
@@ -76,7 +76,7 @@ Vær her opmærksom på, at U kan springe 2 trin ned i vores udtale (som det ene
 
 U-O-Å udtales med bagtungen, vores læbestilling er rundet og mundens åbningsgrad går fra lav via mellem til høj.
 
-## Tre ekstra lyde 三个其他发音
+### Tre ekstra lyde 三个其他发音
 
 Du er allerede blevet bekendt med, at A kan have to forskellige lyde. Nu vil jeg gøre dig opmærksom på, at vi har to ekstra lyde, som vi bruger hele tiden: Øh-lyd og Åh-lyd.
 
@@ -92,14 +92,14 @@ E'et er tryksvagt og udtales derfor "øh". Det er ikke, fordi vi ikke kan udtale
 
 	er 发 åh 的音, 而且 -er 和 -re 发音一样
 
-## Sprog fif !
+### Sprog fif !
 
 Har du dansk som andetsprog, skal du være meget opmærksom på at lære udtalen på de danske vokaler. Når først du mestrer dem og kan skille dem fra hinanden, vil arbejdet med lydrette ord blive ganske nemt. Husk endvidere: i lydrette ord er der ingen dobbeltkonsonanter eller stumme bogstaver. Du skal skrive alle de bogstaver, du hører, hverken mere eller mindre. 
 
 	注意的是, 在听写一致的单词中, 没有双写辅音字母或不发音字母, 所以听写要一致. 
 
 
-# Lange og Korte vokaler
+## Lange og Korte vokaler
 
 Som du lige har lært, sker der tit forvekslinger mellem de forskellige vokaler, dog altid kun inden for samme "familie". Når der sker en forveksling, arbejder vi med en kort vokal. 
 
@@ -137,9 +137,9 @@ Vi kan opdele vokalerne i to grupper:
 	注意: 有的单词像 bussen 不变. 属于特殊单词. 
 	注意: 有的单词像 bøtte 不变, 是因为ø下面没有变化的余地了. 
 
-## Opgave 1 
+##### Opgave 1 
 
-Fordel disse ord i lydrette og ikke- lydrette 
+###### Fordel disse ord i lydrette og ikke- lydrette 
 
 | lydrette | ikke-lydrette |
 | -------- | ------------- |
@@ -149,9 +149,9 @@ Fordel disse ord i lydrette og ikke- lydrette
 | globus   | bukser        |
 | uge      | golf          |
 
-## Opgave 2
+##### Opgave 2
 
-Fordel disse ord i lydrette og ikke- lydrette
+###### Fordel disse ord i lydrette og ikke- lydrette
 
 | Lydrette | ikke-lydrette |
 | -------- | ------------- |
@@ -161,9 +161,9 @@ Fordel disse ord i lydrette og ikke- lydrette
 | damen    | dammen        |
 | tiger    | tigger        |
 
-## Opgave 3 
+##### Opgave 3 
 
-Fordel disse ord i lydrette og ikke-lydrette
+###### Fordel disse ord i lydrette og ikke-lydrette
 
 | Lydrette | ikke-lydrette |
 | -------- | ------------- |
@@ -174,9 +174,9 @@ Fordel disse ord i lydrette og ikke-lydrette
 | stol     |               |
 | slibe    | slippe              |
 
-## Opgave 4
+##### Opgave 4
 
-Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.   
+###### Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.   
 
 | Sæt kryds: | Lydret | Ikke-lydret |
 | ---------- | ------ | ----------- |
@@ -199,9 +199,9 @@ Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.
 | høne       | høne   |             |
 | bøtte      |        | bøtte       |
 
-## Opgave 5
+##### Opgave 5
 
-Afgør hvilken vokal, du hører, når du udtaler ordet . 
+###### Afgør hvilken vokal, du hører, når du udtaler ordet . 
 
 | Ordet    | Vokalen lyder som |
 | -------- | ----------------- |
@@ -226,6 +226,40 @@ Afgør hvilken vokal, du hører, når du udtaler ordet .
 | Loppe    |                   |
 | Post     |                   |
 
-## Opgave 6
+##### Opgave 6
 
+###### Diktat med lydrette ord. Husk, du skal skrive vokalen, som du hører den. 
+
+- Jeg bor i et rødt *hus* . 
+- Min *kone* er ældre end mig .
+- Om vinteren er det godt at spise ekstra *vitamin* . 
+- Det kan *ose* fra skorstenen . 
+- Jeg elsker de *lune* sommeraftener . 
+- Du må ikke *lyve* .
+- Du skal ikke *tro*, du skal  vide.
+- Hun satte to *lys* på bordet . 
+- Det kan du ikke *mene* . 
+- Han købte en *blå* cykel . 
+- Vores *bil* har fået en skade.
+- Det var et godt *initiativ* . 
+- Han er kaptajn på et stort *skib*.
+- Skriv på det her *papir* . 
+- De er forældre til en yndig *pige* . 
+- Min yndlingsblomst er en *viole* . 
+- Jeg holder nu mest af en *tulipan* . 
+- Husk dit *pas* , når du skal rejse . 
+- Glem heller ikke din *pyjamas* .
+- I aften skal vi i *tivoli* . 
+
+### Opsamling på lange og kort vokaler
+
+###### Hvornår skal ud være på vagt over for vokalen ? 
+	什么时候需要注意元音? 
+- Når vokalen står foran to konsonanter . 
+	`当元音在两个连续辅音之前的时候.` 
+
+###### Hvad skal du gøre, hvis du hører en kort vokallyd ? 
+	当你听到短元音的时候, 应该怎么办? 
+- Jeg skal gå et trin op ad trappen, nå jeg skriver diktat. 
+	`我应该
 
