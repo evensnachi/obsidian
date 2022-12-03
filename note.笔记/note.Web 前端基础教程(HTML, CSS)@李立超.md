@@ -72,7 +72,52 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 问题: 
 	- 我们的内部样式表只能对一个网页起作用, 里面的样式不能跨页面使用. 
 
-##### 第三种方式: 外部样式表
+##### 第三种方式: 外部样式表 ( 最佳实践)
 
 - 可以将 css 样式编写到外部 css 样式文件里
-	- 然后通过另一个标签引入外部 css 文件
+	- 然后通过 <link> 标签引入外部 css 文件
+- 外部样式表需要通过 link 标签 进行引入, 意味着只要想使用这些样式的网页中都可以对其进行引用, 使样式可以在不同页面之间复用. 
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+
+<link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+
+<p>
+
+少小离家老大回,
+
+乡音无改鬓毛衰,
+
+</p>
+
+</body>
+
+</html>
+```
+
+```css
+p{
+
+color: tomato;
+
+font-size: 100px;
+
+}
+```
+
