@@ -333,4 +333,19 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 | læreren       |         |
 | pibe          |         |
 | hundehvalp    |         |
-|               |         |
+| skulderklap   |         |
+| klubben       |         |
+| sjippe        |         |
+| vandkanten    |         |
+
+##### Opgave 8 
+
+###### Del følgende ord i stavelser
+
+|               |     |
+| ------------- | --- |
+| sønderjylland |     |
+| dommeren      |     |
+| videobåndet   |     |
+| stile         |     |
+|               |     |
