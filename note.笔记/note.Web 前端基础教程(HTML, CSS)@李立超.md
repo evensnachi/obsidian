@@ -36,6 +36,9 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 在开发中不推荐使用
 	- 内联样式只能对一个标签生效. 
 	- 因为每个元素都需要单独设置, 非常麻烦, 并且如果元素太多, 基本无法手动完成. 
+	- 而且迭代非常麻烦, 当样式发生变化时, 非常不方便. 
+	- 最好是 HTML 和 CSS 越远越好
+
 
 ```html
 <!DOCTYPE html>
@@ -58,3 +61,10 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 </html>
 ```
+
+#####  第二种方式: 内部样式
+
+- 将样式编写到 head 中的 style 标签里
+- 在 head 中 写 css 样式, 要使用 css 选择器来选择元素, 并为其设置样式
+	- 可以为多个标签设置样式
+	- 并且修改时只修改一次, 即可全部应用
