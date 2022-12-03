@@ -3,7 +3,7 @@
   "debug": false,
   "stickCursor": true,
   "betterEnter": true,
-  "betterTab": true,
+  "betterTab": false,
   "selectAll": true,
   "listLines": true,
   "listLineAction": "toggle-folding"

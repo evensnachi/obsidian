@@ -92,7 +92,7 @@ E'et er tryksvagt og udtales derfor "øh". Det er ikke, fordi vi ikke kan udtale
 
 	er 发 åh 的音, 而且 -er 和 -re 发音一样
 
-### Sprog fif !
+### Sprog fif ! 语言能力
 
 Har du dansk som andetsprog, skal du være meget opmærksom på at lære udtalen på de danske vokaler. Når først du mestrer dem og kan skille dem fra hinanden, vil arbejdet med lydrette ord blive ganske nemt. Husk endvidere: i lydrette ord er der ingen dobbeltkonsonanter eller stumme bogstaver. Du skal skrive alle de bogstaver, du hører, hverken mere eller mindre. 
 
@@ -290,5 +290,44 @@ Vi kan opdele vokalerne i to grupper:
 
 ## Stavelsesdeling 单词拆分
 
-  Stavelsesdeling er en teknik , du kan benytte dig af ,  både når du læser og staver . 
- I stavelsesdeling opdeler vi ordenen i mindre lydbidder , så vil lange ord blive nemmere at
+Stavelsesdeling er en teknik , du kan benytte dig af ,  både når du læser og staver . 
+
+I stavelsesdeling opdeler vi ordene i mindre lydbidder , så vil lange ord blive nemmere at læse og stave . Tag f.eks. det lydrette ord : *mikrobiologi* . En masse bogstaver og for nogle kan det være svært at læse / overskue sådan et langt ord . Men lad os nu stavelsedele det : *mi-kro-bi-o-lo-gi* . Nu får vi stille og roligt små lydbidder , som vi kan læse i vores eget tempo , eller stave i vores eget tempo - og vupti , så går det nemt . 
+
+Et andet eksempel kunne være *initiativ* , som rigtig mange ikke har lyst til at kaste sig ud i at stave , men igen lad os tage det i små bidder : *i-ni-ti-a-tiv* , så bliver det nemmere at udtale og stave . 
+
+> Ved stavelsesdeling gælder følgende regel : 
+> - en vokal = en stavelse 
+> - to vokaler = to stavelser 
+> - tre vokaler = tre stavelser 
+> - osv.
+
+	I ordet *mikrobiolog* er der seks vokaler = seks stavelser .
+	I ordet *initiativ* er der fem vokaler = fem stavelser . 
+
+### Sprogfif! 
+
+Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter : 
+- bussen deles bus-sen
+- slippe deles slip-pe
+
+##### Opgave 7 
+
+###### Del følgende ord i stavelser 
+
+|               |         |
+| ------------- | ------- |
+| jorden        | jor-den |
+| fugtig        | fug-tig |
+| undertrykt    |         |
+| transporterer |         |
+| produktion    |         |
+| lejlighed     |         |
+| vejene        |         |
+| foreslår      |         |
+| gardiner      |         |
+| kartofler     |         |
+| klipfisk      |         |
+| slæbebåd      |         |
+| slipseknude   |         |
+|               |         |
