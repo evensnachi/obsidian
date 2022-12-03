@@ -68,3 +68,7 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 在 head 中 写 css 样式, 要使用 css 选择器来选择元素, 并为其设置样式
 	- 可以为多个标签设置样式
 	- 并且修改时只修改一次, 即可全部应用
+- 内部样式表更方便为样式重复使用
+- 问题: 
+	- 我们的内部样式表只能对一个网页起作用, 里面的样式不能跨页面使用. 
+	- 
