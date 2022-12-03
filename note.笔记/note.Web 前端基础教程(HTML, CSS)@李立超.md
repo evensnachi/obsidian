@@ -71,4 +71,8 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 内部样式表更方便为样式重复使用
 - 问题: 
 	- 我们的内部样式表只能对一个网页起作用, 里面的样式不能跨页面使用. 
-	- 
+
+##### 第三种方式: 外部样式表
+
+- 可以将 css 样式编写到外部 css 样式文件里
+	- 然后通过另一个标签引入外部 css 文件
