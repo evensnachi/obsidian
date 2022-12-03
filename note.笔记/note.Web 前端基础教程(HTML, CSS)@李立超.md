@@ -33,6 +33,9 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 在标签内部使用 style 属性来设置元素样式
 	- 使用名值对, 名值之间用冒号连接
 	- 每个样式都以分号结尾. 
+- 在开发中不推荐使用
+	- 内联样式只能对一个标签生效. 
+	- 因为每个元素都需要单独设置, 非常麻烦, 并且如果元素太多, 基本无法手动完成. 
 
 ```html
 <!DOCTYPE html>
