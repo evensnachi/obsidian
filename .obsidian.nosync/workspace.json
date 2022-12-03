@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-                "mode": "source",
+                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md"
+                "file": "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
-    "日记/2022-12-02.md",
+    "日记/2022-12-03.md",
     "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-12-02.md",
     "Inbox/note.Basic and Intermediate Danish Phrases@DanishMastery.md",
     "Inbox/note.150BasicDanishPhrases@Danishmastery.md",
     "Inbox/det.md",
     "Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
     "Inbox/Book.DanskMatematik.md",
     "Inbox/at.md",
-    "01.topic.主题/topic.Dansk@FVU.md",
-    "01.topic.主题/topic.计算机科学.md"
+    "01.topic.主题/topic.Dansk@FVU.md"
   ]
 }
