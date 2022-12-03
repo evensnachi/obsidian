@@ -64,7 +64,7 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 #####  第二种方式: 内部样式
 
-- 将样式编写到 head 中的 style 标签里
+- 将样式编写到 `<head>` 中的 `<style>` 标签里
 - 在 head 中 写 css 样式, 要使用 css 选择器来选择元素, 并为其设置样式
 	- 可以为多个标签设置样式
 	- 并且修改时只修改一次, 即可全部应用
@@ -72,11 +72,59 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 - 问题: 
 	- 我们的内部样式表只能对一个网页起作用, 里面的样式不能跨页面使用. 
 
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Document</title>
+
+<style>
+
+p {
+
+color :green;
+
+font-size: 30px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<p>
+
+少小离家老大回, <br/>
+
+乡音无改鬓毛衰,
+
+</p>
+
+  
+
+</body>
+
+</html>
+```
+
 ##### 第三种方式: 外部样式表 ( 最佳实践)
 
 - 可以将 css 样式编写到外部 css 样式文件里
-	- 然后通过 <link> 标签引入外部 css 文件
+	- 然后通过 `<link rel="stylesheet" href="./style.css">` 标签引入外部 css 文件
 - 外部样式表需要通过 link 标签 进行引入, 意味着只要想使用这些样式的网页中都可以对其进行引用, 使样式可以在不同页面之间复用. 
+- 将样式编写到外部的 CSS 文件中, 可以使用浏览器的缓存机制. 
+	- 从而加快网页的加载速度, 提高用户体验. 
+	- 
+
+
+
 ```html
 <!DOCTYPE html>
 
