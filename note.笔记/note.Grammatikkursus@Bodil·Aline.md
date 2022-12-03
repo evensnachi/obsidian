@@ -330,4 +330,7 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 | klipfisk      |         |
 | slæbebåd      |         |
 | slipseknude   |         |
+| læreren       |         |
+| pibe          |         |
+| hundehvalp    |         |
 |               |         |
