@@ -11,12 +11,12 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 
 
-## HTML 
+## 1. HTML 
 
 
-## CSS
+## 2. CSS
 
-### 01 css 简介
+### 2.1. css 简介
 
 - 网页的三个部分
 	- 结构 HTML
@@ -28,8 +28,9 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 	- 网页时分层的, 因为我们看起来的网页是从上面向下看的. 
 	- 通过 CSS 可以为网页的每一层分别设置样式.
 
-#### 使用 CSS 修改元素的样式
-##### 第一种方式 : 内联样式, 行内样式
+#### 2.1.1. 使用 CSS 修改元素的样式
+
+##### 2.1.1.1. 第一种方式 : 内联样式, 行内样式
 - 在标签内部使用 style 属性来设置元素样式
 	- 使用名值对, 名值之间用冒号连接
 	- 每个样式都以分号结尾. 
@@ -62,7 +63,7 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 </html>
 ```
 
-#####  第二种方式: 内部样式
+#####  2.1.1.2第二种方式: 内部样式
 
 - 将样式编写到 `<head>` 中的 `<style>` 标签里
 - 在 head 中 写 css 样式, 要使用 css 选择器来选择元素, 并为其设置样式
@@ -114,7 +115,7 @@ font-size: 30px;
 </html>
 ```
 
-##### 第三种方式: 外部样式表 ( 最佳实践)
+##### 2.1.1.3 第三种方式: 外部样式表 ( 最佳实践)
 
 - 可以将 css 样式编写到外部 css 样式文件里
 	- 然后通过 `<link rel="stylesheet" href="./style.css">` 标签引入外部 css 文件
@@ -167,3 +168,45 @@ font-size: 100px;
 }
 ```
 
+
+### 2.2. CSS 语法
+
+#### 2.2.1. css 注释
+
+- 在`<head>` 里的`<style>` 标签内部, 属于 CSS 的语法部分. 
+	- 所以 HTML 就不能用了. 
+	- CSS 的注释, 应当为 `/* */`
+	- 会自动被浏览器忽略. 
+
+#### 2.2.2. css 基本语法
+
+##### 2.2.2.1 css 选择器
+
+###### 什么是 CSS 选择器
+
+通过选择器, 可以选中页面中的指定元素. 
+- `p` 就是选中页面中的 p 元素
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		p{
+		
+		}
+	</style>
+</head>
+
+<body>
+	<p>少小离家老大回,乡音无改鬓毛衰, </p>
+</body>
+
+</html>
+```
+
+##### 2.2.2.2 css 声明框
