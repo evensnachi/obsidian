@@ -74,7 +74,7 @@ tags: affair, 永居
 
 > - Are self-employed and your company is in the process of liquidation, compulsory dissolution, announced suspension of payments or has been declared bankrupt
 
-- [ ] #task 这里有个问题, 上面这段话是说在有工作的同时不能具有这些身份, 还是这些身份不能算是工作?
+- [x] #task 这里有个问题, 上面这段话是说在有工作的同时不能具有这些身份, 还是这些身份不能算是工作?
 
 ![[Pasted image 20221117113329.png]]
 
