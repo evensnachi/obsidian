@@ -46,4 +46,4 @@ publisher: 奇乐编程学院
 
 - [[User Datagram Protocol]]
 	- 以[[Datagram|报文]]为单位来收发数据
-	- 
+- UDP 不会自动回传丢失的数据包 . 
