@@ -19,5 +19,6 @@
   "note-refactor-obsidian",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-outliner",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-codemirror-options"
 ]

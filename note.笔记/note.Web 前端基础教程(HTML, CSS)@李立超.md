@@ -46,21 +46,21 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 <html lang="en">
 
-<head>
+	<head>
+	
+		<meta charset="UTF-8">
+		
+		<title>Document</title>
+	
+	</head>
 
-<meta charset="UTF-8">
+	<body>
 
-<title>Document</title>
+		<p style="color :red; font-size: 30px;">少小离家老大回,乡音无改鬓毛衰,</p>
 
-</head>
+		</body>
 
-<body>
-
-<p style="color :red; font-size: 30px;">少小离家老大回,乡音无改鬓毛衰,</p>
-
-</body>
-
-</html>
+	</html>
 ```
 
 #####  2.1.1.2第二种方式: 内部样式
