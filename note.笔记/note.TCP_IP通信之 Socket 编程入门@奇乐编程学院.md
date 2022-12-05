@@ -47,3 +47,42 @@ publisher: 奇乐编程学院
 - [[User Datagram Protocol]]
 	- 以[[Datagram|报文]]为单位来收发数据
 - UDP 不会自动回传丢失的数据包 . 
+	- 所以不保证数据的完整传输 . 
+	- 也因此具有更低的延迟并占用更少的系统资源 . 
+	- 更适合像视频或语音的这种实时性要求较高的应用. 
+
+## 以 Python 为例来讲解 Socket 编程的部分 
+
+### 创建服务器
+
+```python
+import socket 
+```
+- 导入 `socket` 包
+
+```Python
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+```
+- `with` 表示当代码离开`with`块的时候, 自动调用 `s.close()` 销毁这个 socket . 
+- 两个参数
+	- `socket.AF_INET` 代表使用的是 [[IPV4]] 的[[Address family|地址家族]] . 
+	- `socket.SOCK_STREAM` 代表我们使用的是[[Transmission Control Protocol|TCP]]协议 . `STREAM` 也说明了TCP协议是个流式协议 . 
+
+```python
+s.bind("0.0.0.0", 1234)
+```
+- `s.bind`把这个 socket 连接到了我们某一个网卡的端口上 . 
+
+
+
+### 让数据原封不动的发送回去
+
+
+```python
+import socket 
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+
+s.bind("0.0.0.0", 1234)
+
+```
