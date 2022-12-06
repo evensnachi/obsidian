@@ -322,28 +322,28 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 
 ###### Del følgende ord i stavelser 
 
-| Ord           | stavelsesdeling  | ikke-lydret or lydret |
-| ------------- | ---------------- | --------------------- |
-| jorden        | jor-den          | jår-den               |
-| fugtig        | fug-tig          | fåg-tig               |
-| undertrykt    | un-der-trykt     | ån-der-trøkt          |
-| transporterer | tran-spor-ter-er | tra:n-spår-ter-er     |
-| produktion    | pro-duk-ti-on    | pro-dok-ti-on         |
-| lejlighed     | lej-lig-hed      | læj-leg-hed           |
-| vejene        | vej-e-ne         | vej-e-ne              |
-| foreslår      | for-e-slår       | for-e-slår            |
-| gardiner      | gar-din-er       | går-din-er            |
-| kartofler     | kar-tof-ler      | ka:r-tåf-ler          |
-| klipfisk      | klip-fisk        | klep-fesk             |
-| slæbebåd      | slæb-e-båd       | slæb-e-båd            |
-| slipseknude   | slip-sek-nu-de   | slep-sæk-nu-de        |
-| læreren       | lær-e-ren        | lær-e-ren             |
-| pibe          | pi-be            | pi-be                 |
-| hundehvalp    | hun-de-hvalp     | hon-de-hva:lp         |
-| skulderklap   | skul-der-klap    | skol-der-klap         |
-| klubben       | klub-ben         | klob-ben              |
-| sjippe        | sj-ip-pe         | sj-ep-pe              |
-| vandkanten    | vand-kan-ten     | va:nd-ka:n-ten        | 
+| Ord           | stavelsesdeling                  | ikke-lydret or lydret |
+| ------------- | -------------------------------- | --------------------- |
+| jorden        | j**o**r-d**e**n                  | jår-den               |
+| fugtig        | f**u**g-t**i**g                  | fåg-tig               |
+| undertrykt    | **u**n-d**e**r-tr**y**kt         | ån-der-trøkt          |
+| transporterer | tr**a**n-sp**o**r-t**e**r-**e**r | tra:n-spår-ter-er     |
+| produktion    | pr**o**-d**u**k-t**i**-**o**n    | pro-dok-ti-on         |
+| lejlighed     | l**e**j-l**i**g-h**e**d          | læj-leg-hed           |
+| vejene        | v**e**j-**e**-n**e**             | vej-e-ne              |
+| foreslår      | f**o**r-**e**-sl**å**r           | for-e-slår            |
+| gardiner      | g**a**r-d**i**n-**e**r           | går-din-er            |
+| kartofler     | k**a**r-t**o**f-l**e**r          | ka:r-tåf-ler          |
+| klipfisk      | kl**i**p-f**i**sk                | klep-fesk             |
+| slæbebåd      | sl**æ**b-**e**-b**å**d           | slæb-e-båd            |
+| slipseknude   | sl**i**p-s**e**k-n**u**-d**e**   | slep-sæk-nu-de        |
+| læreren       | l**æ**r-**e**-r**e**n            | lær-e-ren             |
+| pibe          | p**i**-b**e**                    | pi-be                 |
+| hundehvalp    | h**u**n-d**e**-hv**a**lp         | hon-de-hva:lp         |
+| skulderklap   | sk**u**l-d**e**r-kl**a**p        | skol-der-klap         |
+| klubben       | kl**u**b-b**e**n                 | klob-ben              |
+| sjippe        | sj**i**p-p**e**                  | sj-ep-pe              |
+| vandkanten    | v**a**nd-k**a**n-t**e**n         | va:nd-ka:n-ten        |
 
 ##### Opgave 8 
 
