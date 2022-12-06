@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/第一性原理.md",
+                "file": "日记/2022-12-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/第一性原理.md",
+                "file": "日记/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/第一性原理.md",
+                "file": "日记/2022-12-06.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/第一性原理.md"
+                "file": "日记/2022-12-06.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
-    "日记/2022-12-06.md",
     "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-12-06.md",
+    "Inbox/第一性原理.md",
     "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
     "Inbox/Afgøre.md",
     "Inbox/gøre.md",
     "Inbox/at gøre.md",
     "note.笔记/note.TCP_IP通信之 Socket 编程入门@奇乐编程学院.md",
     "Inbox/Address family.md",
-    "日记/2022-12-05.md",
-    "Inbox/User Datagram Protocol.md"
+    "日记/2022-12-05.md"
   ]
 }
