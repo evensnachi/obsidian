@@ -348,4 +348,49 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 | dommeren      |     |
 | videobåndet   |     |
 | stile         |     |
-|               |     |
+| bogen         |     |
+| tigger        |     |
+| mariehøns     |     |
+| stakkels      |     |
+| kedelig       |     |
+| sidde         |     |
+| siden         |     |
+| hovedpine     |     |
+| danmark       |     |
+| stoffet       |     |
+| biler         |     |
+| gammel        |     |
+| flotte        |     |
+| æble          |     |
+| benene        |     |
+| bussen        |     |
+
+##### Opgave 9
+
+###### Del følgende ord i stavelser
+
+|             |     |
+| ----------- | --- |
+| Indkøbt     |     |
+| flasker     |     |
+| billedet    |     |
+| inkøbsvogn  |     |
+| vellignende |     |
+| hesten      |     |
+| pisken      |     |
+| maleriet    |     |
+| familien    |     |
+| ungdommen   |     |
+| virkede     |     |
+| hjælp       |     |
+| knække      |     |
+| matematik   |     |
+| sandstrand  |     |
+| trekant     |     |
+| læreanstalt |     |
+| kridt       |     |
+| solbrændt   |     |
+| søhelt      |     |
+
+
+
