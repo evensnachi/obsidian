@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#afledteOrd",
+                "query": "tag:#https://youtu.be/0hKQuXv6I2s",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
