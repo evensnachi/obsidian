@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/第一性原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+                "file": "Inbox/第一性原理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md"
+                "file": "Inbox/第一性原理.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   "active": "df253378ef73a467",
   "lastOpenFiles": [
     "日记/2022-12-06.md",
-    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
     "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
     "Inbox/Afgøre.md",
     "Inbox/gøre.md",
     "Inbox/at gøre.md",
