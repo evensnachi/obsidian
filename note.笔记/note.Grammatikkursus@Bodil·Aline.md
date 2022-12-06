@@ -176,7 +176,7 @@ Vi kan opdele vokalerne i to grupper:
 
 ##### Opgave 4
 
-###### Afgør om den første vokal i disse ord udtales lydret eller ikke-lydret.   
+###### [[Afgøre|afgøre]] om den første vokal i disse ord udtales lydret eller ikke-lydret.   
 
 | Sæt kryds: | Lydret | Ikke-lydret |
 | ---------- | ------ | ----------- |
@@ -205,26 +205,26 @@ Vi kan opdele vokalerne i to grupper:
 
 | Ordet    | Vokalen lyder som |
 | -------- | ----------------- |
-| Nemme    |                   |
-| Elske    |                   |
-| Mester   |                   |
-| Begge    |                   |
-| Venner   |                   |
-| Hikke    |                   |
-| Digt     |                   |
-| Sigte    |                   |
-| Fisk     |                   |
-| Miste    |                   |
-| Dygtig   |                   |
-| Yndig    |                   |
-| Yngst    |                   |
-| Lykke    |                   |
-| Munter   |                   |
-| suppe    |                   |
-| Underlig |                   |
-| Kunde    |                   |
-| Loppe    |                   |
-| Post     |                   |
+| Nemme    | næmme             |
+| Elske    | ælske             |
+| Mester   | mæster            |
+| Begge    | bægge             |
+| Venner   | vænner            |
+| Hikke    | hekke             |
+| Digt     | degt              |
+| Sigte    | segte             |
+| Fisk     | fesk              |
+| Miste    | meste             |
+| Dygtig   | døgtig            |
+| Yndig    | øndig             |
+| Yngst    | øngst             |
+| Lykke    | løkke             |
+| Munter   | monter            |
+| suppe    | soppe             |
+| Underlig | onderlig          |
+| Kunde    | konde             |
+| Loppe    | låppe             |
+| Post     | påst                  |
 
 ##### Opgave 6
 
@@ -292,7 +292,11 @@ Vi kan opdele vokalerne i to grupper:
 
 Stavelsesdeling er en teknik , du kan benytte dig af ,  både når du læser og staver . 
 
+	单词拆分是一种当你听或写的时候你可以使用的技术 . 
+
 I stavelsesdeling opdeler vi ordene i mindre lydbidder , så vil lange ord blive nemmere at læse og stave . Tag f.eks. det lydrette ord : *mikrobiologi* . En masse bogstaver og for nogle kan det være svært at læse / overskue sådan et langt ord . Men lad os nu stavelsedele det : *mi-kro-bi-o-lo-gi* . Nu får vi stille og roligt små lydbidder , som vi kan læse i vores eget tempo , eller stave i vores eget tempo - og vupti , så går det nemt . 
+
+	在单词拆分中，我们将单词分成更小的声音块，这样长单词更容易阅读和拼写。 举个例子听写一致的单词：mikrobiologi。 这么多字母对于某些人来说阅读或理解可能很困难。 但是现在让我们做单词拆分：mi-kro-bi-o-lo-gi。 现在我们把单词一点一点拆成音节块，我们可以按照自己的节奏阅读，或者按照自己的节奏拼写 - 瞧，这很容易。
 
 Et andet eksempel kunne være *initiativ* , som rigtig mange ikke har lyst til at kaste sig ud i at stave , men igen lad os tage det i små bidder : *i-ni-ti-a-tiv* , så bliver det nemmere at udtale og stave . 
 
@@ -308,6 +312,9 @@ Et andet eksempel kunne være *initiativ* , som rigtig mange ikke har lyst til a
 ### Sprogfif! 
 
 Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter : 
+
+	当单词有两个连续辅音的时候, 我们一般从辅音中间分隔 . 
+
 - bussen deles bus-sen
 - slippe deles slip-pe
 
@@ -315,28 +322,28 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 
 ###### Del følgende ord i stavelser 
 
-|               |         |
-| ------------- | ------- |
-| jorden        | jor-den |
-| fugtig        | fug-tig |
-| undertrykt    |         |
-| transporterer |         |
-| produktion    |         |
-| lejlighed     |         |
-| vejene        |         |
-| foreslår      |         |
-| gardiner      |         |
-| kartofler     |         |
-| klipfisk      |         |
-| slæbebåd      |         |
-| slipseknude   |         |
-| læreren       |         |
-| pibe          |         |
-| hundehvalp    |         |
-| skulderklap   |         |
-| klubben       |         |
-| sjippe        |         |
-| vandkanten    |         |
+| Ord           | stavelsesdeling  | ikke-lydret or lydret |
+| ------------- | ---------------- | --------------------- |
+| jorden        | jor-den          | jår-den               |
+| fugtig        | fug-tig          | fåg-tig               |
+| undertrykt    | un-der-trykt     | ån-der-trøkt          |
+| transporterer | tran-spor-ter-er | tra:n-spår-ter-er     |
+| produktion    | pro-duk-ti-on    | pro-dok-ti-on         |
+| lejlighed     | lej-lig-hed      | læj-leg-hed           |
+| vejene        | vej-e-ne         | vej-e-ne              |
+| foreslår      | for-e-slår       | for-e-slår            |
+| gardiner      | gar-din-er       | går-din-er            |
+| kartofler     | kar-tof-ler      | ka:r-tåf-ler          |
+| klipfisk      | klip-fisk        | klep-fesk             |
+| slæbebåd      | slæb-e-båd       | slæb-e-båd            |
+| slipseknude   | slip-sek-nu-de   | slep-sæk-nu-de        |
+| læreren       | lær-e-ren        | lær-e-ren             |
+| pibe          | pi-be            | pi-be                 |
+| hundehvalp    | hun-de-hvalp     | hon-de-hva:lp         |
+| skulderklap   | skul-der-klap    | skol-der-klap         |
+| klubben       | klub-ben         | klob-ben              |
+| sjippe        | sj-ip-pe         | sj-ep-pe              |
+| vandkanten    | vand-kan-ten     | va:nd-ka:n-ten        | 
 
 ##### Opgave 8 
 
