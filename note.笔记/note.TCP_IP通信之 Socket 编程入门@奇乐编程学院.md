@@ -113,6 +113,15 @@ import socket
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 s.bind("0.0.0.0", 1234)
+s.listen()
+c,addr = s.accept()
+with c:
+	print(addr, "connected")
+	while Ture:
+		data = c.recv(1024)
+		if not data:
+			break
+		c.sendall(data)
 
 ```
 
@@ -134,4 +143,84 @@ nc  127.0.0.1 1234
 
 - 之后在控制台输入的都会原封不动的发送回来
 
-### 
+### 制作客户端
+
+```python
+import socket 
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+
+s.connect("127.0.0.1", 1234)
+s.sendall(b"Hello World!")
+data = s.recv(1024)
+print("Received: ", repr(data))
+
+```
+
+`s.connect()` 连接服务器
+`s.sendall()` 发送一条消息给服务器, 注意这里的参数是字符序列, 前面要加`b` . 并不是字符串 . 
+`s.recv(1024)` 获取服务器回传的信息
+`print("Received: ", repr(data))` 输出回传数据
+
+## 多线程的 Socket 服务器
+- Multi-threaded Socket Server 
+
+```python
+import socket
+import threading
+
+# 这段线程中的代码代表服务器会不断回传信息
+def handle_client(c, addr):
+	print(addr, "connected")
+
+	While True: 
+		data = c.rev(1024)
+		if not data:
+			break
+		c.sendall(data)
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+	s.bind("0.0.0.0", 1234)
+	s.listen()
+
+	while True: 
+		c, addr = s.accept()
+		# 不断接收客户端数据
+		t.threading.Thread(target = handle_client, args = ( c, addr ))
+		# 创建新线程, 并将 socket 和地址传递给这个线程
+		t.start() 
+		
+```
+
+- python 无法做到真正的多线程, 有不少缺点. 
+
+#### selectors - 高级 I/O 复用库
+
+- 实现多连接并发
+
+####  asyncio - 异步 I/O
+
+- 更高层
+
+## 简易 HTTP 服务器
+- simple HTTP Server
+
+- HTTP 是 TCP 协议的一个典型应用, 浏览器与服务器交互的主要方式.
+- 通常服务器会监听 80 端口, 等待客户端
+- 客户端连接上服务器后
+	- 指定要连接的资源
+	- 提供额外的信息, 每一条都是键值对
+		- 包括浏览器信息等.
+	- 这部分叫做**消息的头部(header)**(HTTP消息头)
+	- 空行
+	- **消息的主体**
+- 服务器在收到消息后, 会以同样的格式响应 .
+	- 第一行是状态行, 包含状态码
+		- 200 : 请求成功
+		- 404 : 请求资源不存在
+	- 接下来是请求的类型, 服务器信息等
+	- 空行
+	- **消息的主体**
+
+#### python 标准库中, 已经实现了一个简易的 HTTP 服务器
+- 只用于测试和开发
