@@ -10,16 +10,14 @@
           {
             "id": "df253378ef73a467",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -74,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -147,19 +146,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
+    "日记/2022-12-06.md",
+    "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
+    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
     "Inbox/Afgøre.md",
     "Inbox/gøre.md",
     "Inbox/at gøre.md",
-    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-    "日记/2022-12-06.md",
     "note.笔记/note.TCP_IP通信之 Socket 编程入门@奇乐编程学院.md",
     "Inbox/Address family.md",
     "日记/2022-12-05.md",
-    "Inbox/User Datagram Protocol.md",
-    "Inbox/Datagram.md"
+    "Inbox/User Datagram Protocol.md"
   ]
 }

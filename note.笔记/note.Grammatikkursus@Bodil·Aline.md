@@ -349,28 +349,27 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 
 ###### Del følgende ord i stavelser
 
-|               |     |
-| ------------- | --- |
-| sønderjylland |     |
-| dommeren      |     |
-| videobåndet   |     |
-| stile         |     |
-| bogen         |     |
-| tigger        |     |
-| mariehøns     |     |
-| stakkels      |     |
-| kedelig       |     |
-| sidde         |     |
-| siden         |     |
-| hovedpine     |     |
-| danmark       |     |
-| stoffet       |     |
-| biler         |     |
-| gammel        |     |
-| flotte        |     |
-| æble          |     |
-| benene        |     |
-| bussen        |     |
+|               |                           |                   |
+| ------------- | ------------------------- | ----------------- |
+| sønderjylland | s*ø*n-d*e*r-j*y*l-l*a*nd  | søn-der-jøl-la:nd |
+| videobåndet   | v*i*-d*e*-*o*-b*å*n-d*e*t | vi-de-o-b-ɔ:n-det                  |
+| stile         |                           |                   |
+| bogen         |                           |                   |
+| tigger        |                           |                   |
+| mariehøns     |                           |                   |
+| stakkels      |                           |                   |
+| kedelig       |                           |                   |
+| sidde         |                           |                   |
+| siden         |                           |                   |
+| hovedpine     |                           |                   |
+| danmark       |                           |                   |
+| stoffet       |                           |                   |
+| biler         |                           |                   |
+| gammel        |                           |                   |
+| flotte        |                           |                   |
+| æble          |                           |                   |
+| benene        |                           |                   |
+| bussen        |                           |                   |
 
 ##### Opgave 9
 
