@@ -71,12 +71,41 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```python
 s.bind("0.0.0.0", 1234)
 ```
-- `s.bind`把这个 socket 连接到了我们某一个网卡的端口上 . 
+- `s.bind`把这个 socket 关联到了我们某一个网卡和端口上 .  
+	- 网卡通过 IP 地址制定
+		- 0.0.0.0 是个特殊的 IP 地址 : 代表主机上的任意网卡都可以使用这个 socket 进行通信 . 
 
+```python
+s.listen()
+```
+- 将 socket 置为监听状态. 等待连接. 
 
+```python
+c, addr = s.accept()
+```
+
+- `accept()` 会接收来自任意客户端的连接
+	- 并返回一个新的 socket `c` 以及客户端的 IP 地址 `addr`
+- 注意 `s` 和 `c` 的不同
+	- `s` 主要用于监听
+	- `c` 则用于与客户端的通信 
 
 ### 让数据原封不动的发送回去
 
+```python
+with c: 
+	print(addr, "connedcted.")
+	while True:
+		data = c.recv(1024)
+		if not data: 
+			break
+		c.sendall(data)
+```
+- 输出客户端 IP 地址
+- 使用循环调用` recv()`接收客户端传来的信息. 
+	- 1024 是一次性收到的数据长度 1024 字节.
+- `if not data: break` 如果没有接收数据, 就 结束
+- `c.sendall(data)` 否则就把数据回传
 
 ```python
 import socket 
@@ -86,3 +115,23 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 s.bind("0.0.0.0", 1234)
 
 ```
+
+### 测试代码
+
+- 首先运行代码
+- 进入 shell
+
+#### Linux 下的网络测试工具 netcat 
+
+- 可以读取 TCP/UDP 数据
+
+```shell
+nc  127.0.0.1 1234
+```
+- `nc` + 服务器的 IP 地址 + 端口号
+- `127.0.0.1` 是一个回送地址, 代表本地计算机 . 
+- `1234` 是端口号
+
+- 之后在控制台输入的都会原封不动的发送回来
+
+### 
