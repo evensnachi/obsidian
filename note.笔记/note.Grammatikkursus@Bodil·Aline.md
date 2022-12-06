@@ -392,5 +392,30 @@ Ved ord med dobbelt konsonant deles ordet altid imellem de to konsonanter :
 | solbrændt   |     |
 | søhelt      |     |
 
+##### Opgave 10 
+
+###### Del fælgende ord i stavelser
+
+|               |     |
+| ------------- | --- |
+| skolebus      |     |
+| mikrobiologi  |     |
+| vitamin       |     |
+| skraldespand  |     |
+| kaffekop      |     |
+| computerspil  |     |
+| initiativ     |     |
+| fotografi     |     |
+| opvaskebørste |     |
+| rulleskøjter  |     |
+| regnvejr      |     |
+
+### Opsamling på stavelsesdeling
+
+###### Hvorfor er det en god ide at bruge stavelsesdeling, når du læser og staver ? 
 
 
+###### Hvis der er en vokal i et ord , hvor mange stavelser er der så ? 
+
+
+###### Hvis der der femvokaler i et ord , hvor mange  stavelser er der så ? 
