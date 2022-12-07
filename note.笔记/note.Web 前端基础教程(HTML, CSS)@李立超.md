@@ -2,17 +2,13 @@
 title: note.Web 前端基础教程(HTML, CSS)@李立超
 date: 28-11-2022
 tags: category/computerScience/HTML, category/computerScience/CSS, category/computerScience/JavaScript
+link: https://youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn
 ---
 
 
 # Web 前端基础教程(HTML, CSS)
 
-[(Link)Web 前端基础教程(HTML, CSS)](https://youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn)
-
-
-
 ## HTML 
-
 
 ## CSS
 
@@ -86,13 +82,13 @@ tags: category/computerScience/HTML, category/computerScience/CSS, category/comp
 
 <style>
 
-p {
-
-color :green;
-
-font-size: 30px;
-
-}
+	p {
+	
+	color :green;
+	
+	font-size: 30px;
+	
+	}
 
 </style>
 
@@ -100,15 +96,13 @@ font-size: 30px;
 
 <body>
 
-<p>
-
-少小离家老大回, <br/>
-
-乡音无改鬓毛衰,
-
-</p>
-
-  
+	<p>
+	
+	少小离家老大回, <br/>
+	
+	乡音无改鬓毛衰,
+	
+	</p>
 
 </body>
 
@@ -129,31 +123,31 @@ font-size: 30px;
 
 <html lang="en">
 
-<head>
+	<head>
+	
+		<meta charset="UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Document</title>
+		
+		<link rel="stylesheet" href="./style.css">
+	
+	</head>
 
-<meta charset="UTF-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Document</title>
-
-<link rel="stylesheet" href="./style.css">
-
-</head>
-
-<body>
-
-<p>
-
-少小离家老大回,
-
-乡音无改鬓毛衰,
-
-</p>
-
-</body>
+	<body>
+	
+		<p>
+		
+		少小离家老大回,
+		
+		乡音无改鬓毛衰,
+		
+		</p>
+	
+	</body>
 
 </html>
 ```
@@ -215,7 +209,9 @@ font-size: 100px;
 		- 名和值之间以*冒号连接*. 
 		- 以*分号结尾* . 
 
-### 3 CSS 选择器
+### 3 CSS 选择器 (Selectors)
 
-#### 3.1 常用选择器
+#### 3.1 常用选择器 ( Simple Selectors)
+
+
 
