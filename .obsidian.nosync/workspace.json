@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2022-12-06.md",
+                "file": "日记/2022-12-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -68,12 +68,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-12-06.md",
+                "file": "日记/2022-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-12-06.md",
+                "file": "日记/2022-12-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-12-06.md"
+                "file": "日记/2022-12-04.md"
               }
             }
           }
@@ -151,15 +150,15 @@
   },
   "active": "df253378ef73a467",
   "lastOpenFiles": [
-    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
+    "日记/2022-12-05.md",
     "日记/2022-12-06.md",
+    "日记/2022-12-07.md",
+    "日记/2022-11-21 2.md",
+    "日记/2022-11-19 2.md",
+    "日记/2022-11-24 2.md",
+    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
     "Inbox/第一性原理.md",
     "note.笔记/note.Web 前端基础教程(HTML, CSS)@李立超.md",
-    "Inbox/Afgøre.md",
-    "Inbox/gøre.md",
-    "Inbox/at gøre.md",
-    "note.笔记/note.TCP_IP通信之 Socket 编程入门@奇乐编程学院.md",
-    "Inbox/Address family.md",
-    "日记/2022-12-05.md"
+    "Inbox/Afgøre.md"
   ]
 }
