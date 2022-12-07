@@ -381,3 +381,77 @@ font-size: 100px;
 
 ###### 语法
 - `选择器 1,选择器 2, 选择器 n{}`
+
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+
+<style>
+
+/* 将 class 为 red 的元素设置为红色(字体) */
+
+.red{
+
+color: red;
+
+}
+
+  
+
+/* 将 class 为 red 的 div 字体大小为 30px */
+
+div.red{
+
+font-size: 30px;
+
+}
+
+  
+
+h1, span{
+
+color: green
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+  
+
+<div class="red">我是div</div>
+
+  
+
+<p class="red">我是 p 元素</p>
+
+  
+
+<div class="red2">我是div2</div>
+
+<h1>标题</h1>
+
+  
+
+<span>哈哈</span>
+
+</body>
+
+</html>
+```
+
