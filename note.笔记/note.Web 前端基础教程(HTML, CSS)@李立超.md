@@ -247,3 +247,127 @@ font-size: 100px;
 
 ###### 语法
 - `*{}`
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+	
+	<meta charset="UTF-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Document</title>
+	
+	<style>
+	
+	/*
+	
+	将所有段落设置为红色.
+	
+	*/
+	
+	p{
+	
+	color: red
+	
+	}
+	
+	  
+	
+	h1{color: green}
+	
+	  
+	
+	/* 将一句话设置为橙色 */
+	
+	  
+	
+	#orange{
+	
+	color: orange
+	
+	}
+	
+	  
+	
+	/* 将第三,第四句话设置为蓝色 */
+	
+	  
+	
+	.blue{
+	
+	color: blue
+	
+	}
+	
+	  
+	
+	.abc{
+	
+	font-size: 29px;
+	
+	}
+	
+	  
+	
+	*{
+	
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	
+	}
+	
+	  
+	
+	</style>
+	
+	</head>
+
+<body>
+
+<h1 class="blue abc">我是标题</h1>
+
+<p>
+
+我是第一句话
+
+</p>
+
+<p id="orange">
+
+我是第二句话
+
+</p>
+
+<p class="blue">
+
+我是第三句话
+
+</p>
+
+<p class="blue">
+
+我是第四句话
+
+</p>
+
+</body>
+
+</html>
+```
+
+
+#### 交集选择器
+
+###### 作用
+- 选中同时复合多个条件的元素
+
+###### 语法
+- `选择器 1 选择器 2 选择器 n{}`
+
+###### 注意
+- 交集选择器中如果有元素选择器, 必须使用元素选择器开头. 
