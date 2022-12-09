@@ -519,5 +519,91 @@ color: green
 - `:not()` 否定伪类
 	- 将符合条件的元素从选择器中去除
 
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+
+<style>
+
+/* 将 ul 里的第一个 li 设置为红色 */
+
+/* ul > li:first-of-type{
+
+color: red
+
+} */
+
+  
+
+ul > li:not(:nth-of-type(3)){
+
+color: yellowgreen
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- ul>li 自动生成父子关系的标签 -->
+
+<ul>
+
+<li></li>
+
+</ul>
+
+  
+
+<!-- ul+ul 自动生成兄弟关系的标签 -->
+
+  
+
+<ul></ul>
+
+<ul></ul>
+
+  
+
+<!-- ul>li*5 自动生成无序列表包含五个元素 -->
+
+  
+
+<ul>
+
+<span>我是一个 span</span>
+
+<li>第零个</li>
+
+<li>第一个</li>
+
+<li>第二个</li>
+
+<li>第三个</li>
+
+<li>第四个</li>
+
+<li>第五个</li>
+
+</ul>
+
+</body>
+
+</html>
+```
+
 ### 3.4 伪元素选择器
 
