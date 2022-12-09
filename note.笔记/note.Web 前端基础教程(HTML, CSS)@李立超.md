@@ -74,37 +74,37 @@ link: https://youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn
 
 <html lang="en">
 
-<head>
+	<head>
 
-<meta charset="UTF-8">
+		<meta charset="UTF-8">
 
-<title>Document</title>
-
-<style>
-
-	p {
+		<title>Document</title>
 	
-	color :green;
+		<style>
 	
-	font-size: 30px;
+			p {
+		
+				color :green;
+		
+				font-size: 30px;
+		
+			}
 	
-	}
+		</style>
 
-</style>
+	</head>
 
-</head>
+	<body>
 
-<body>
+		<p>
+		
+		少小离家老大回, <br/>
+		
+		乡音无改鬓毛衰,
+		
+		</p>
 
-	<p>
-	
-	少小离家老大回, <br/>
-	
-	乡音无改鬓毛衰,
-	
-	</p>
-
-</body>
+	</body>
 
 </html>
 ```
@@ -155,9 +155,9 @@ link: https://youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn
 ```css
 p{
 
-color: tomato;
-
-font-size: 100px;
+	color: tomato;
+	
+	font-size: 100px;
 
 }
 ```
@@ -181,22 +181,31 @@ font-size: 100px;
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
-	<style>
-		p{
-		
-		}
-	</style>
-</head>
 
-<body>
-	<p>少小离家老大回,乡音无改鬓毛衰, </p>
-</body>
+<html lang="en">
+
+	<head>
+	
+		<meta charset="UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Document</title>
+		
+		<style>
+			p{
+			
+			}
+		</style>
+	</head>
+
+	<body>
+	
+		<p>少小离家老大回,乡音无改鬓毛衰, </p>
+		
+	</body>
 
 </html>
 ```
@@ -256,73 +265,40 @@ font-size: 100px;
 
 	<head>
 	
-	<meta charset="UTF-8">
-	
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<title>Document</title>
+		<meta charset="UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Document</title>
 	
 	<style>
 	
-	/*
+		/* 将所有段落设置为红色. */
+		
+		p{ color: red }
+		
+		h1{color: green}
+		  
+		/* 将一句话设置为橙色 */
 	
-	将所有段落设置为红色.
+		#orange{ color: orange }
 	
-	*/
+		/* 将第三,第四句话设置为蓝色 */
 	
-	p{
+	.blue{ color: blue }
 	
-	color: red
+	.abc{ font-size: 29px; }
 	
-	}
-	
-	  
-	
-	h1{color: green}
-	
-	  
-	
-	/* 将一句话设置为橙色 */
-	
-	  
-	
-	#orange{
-	
-	color: orange
-	
-	}
-	
-	  
-	
-	/* 将第三,第四句话设置为蓝色 */
-	
-	  
-	
-	.blue{
-	
-	color: blue
-	
-	}
-	
-	  
-	
-	.abc{
-	
-	font-size: 29px;
-	
-	}
-	
-	  
-	
-	*{
-	
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	
-	}
-	
-	  
+	*{ 
+	font-family: 
+		'Gill Sans', 
+		'Gill Sans MT', 
+		Calibri, 
+		'Trebuchet MS', 
+		sans-serif;
+		}
 	
 	</style>
 	
@@ -408,8 +384,6 @@ color: red;
 
 }
 
-  
-
 /* 将 class 为 red 的 div 字体大小为 30px */
 
 div.red{
@@ -417,8 +391,6 @@ div.red{
 font-size: 30px;
 
 }
-
-  
 
 h1, span{
 
@@ -432,21 +404,13 @@ color: green
 
 <body>
 
-  
-
 <div class="red">我是div</div>
 
-  
-
 <p class="red">我是 p 元素</p>
-
-  
 
 <div class="red2">我是div2</div>
 
 <h1>标题</h1>
-
-  
 
 <span>哈哈</span>
 
@@ -455,3 +419,19 @@ color: green
 </html>
 ```
 
+##### 关系选择器
+
+###### 网页之中不同元素之间的关系
+
+- 父元素
+	- 直接包含另一个元素的元素 .  
+- 子元素
+	- 直接被另一个元素包含的元素 . 
+- 祖先元素
+	- 直接或间接包含后代元素的元素 . 
+	- 一个元素的父元素也是它的祖先元素 . 
+- 后代元素
+	- 直接或间接被祖先元素包含的元素叫后代元素 . 
+	- 子元素也是后代元素 . 
+- 兄弟元素
+	- 
