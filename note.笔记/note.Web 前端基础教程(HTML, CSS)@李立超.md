@@ -605,5 +605,115 @@ color: yellowgreen
 </html>
 ```
 
+
+#### 其他伪类
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+
+<style>
+
+/* :link 用来表示没访问过的链接(正常的链接) */
+
+a:link{
+
+color: red;
+
+}
+
+  
+
+/*
+
+:visited 用来表示访问过的链接
+
+由于隐私的原因, :visited 这个伪类只能修改颜色, 除了特殊需要, 不建议更改.
+
+*/
+
+  
+
+a:visited{
+
+color: orange;
+
+/* font-size: 50px; */
+
+}
+
+  
+
+/* :hover 表示鼠标移入的状态. */
+
+  
+
+a:hover{
+
+color: aqua;
+
+font-size: 30px;
+
+}
+
+  
+
+/* :active 表示鼠标点击的状态 */
+
+  
+
+a:active{
+
+color: yellowgreen;
+
+  
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!--
+
+超链接的几种状态
+
+1. 没有访问过的链接
+
+2. 访问过的链接
+
+  
+
+访问过还是没访问过, 由用户的历史记录和 cookie 决定
+
+-->
+
+<a href="https://www.google123.com">访问过的连接</a>
+
+<br><br>
+
+<a href="https://www.google.com">没访问过的连接</a>
+
+  
+
+</body>
+
+</html>
+```
+
+
 ### 3.4 伪元素选择器
 
