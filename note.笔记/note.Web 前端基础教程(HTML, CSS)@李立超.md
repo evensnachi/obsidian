@@ -470,7 +470,9 @@ color: green
 - `前一个 + 后一个`
 - `第一个 ~ 后面所有`
 
-### 3.2 属性选择器
+#### 3.2 属性选择器
+
+#####  语法
 
 - `[属性名]`
 - 选择含有指定属性的元素
@@ -487,9 +489,9 @@ color: green
 - `[属性名*=属性值]`
 - 选择属性值含有指定值的元素
 
-### 3.3 伪类选择器
+#### 3.3 伪类选择器
 
-#### 伪类
+##### 伪类
 
 - 不存在的类, 特殊的类
 - 用来描述一个元素的特殊状态
@@ -606,7 +608,7 @@ color: yellowgreen
 ```
 
 
-#### 其他伪类
+#### 3.4 其他伪类
 
 ```html
 <!DOCTYPE html>
@@ -715,5 +717,129 @@ color: yellowgreen;
 ```
 
 
-### 3.4 伪元素选择器
+#### 3.5 伪元素选择器
 
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+
+<style>
+
+p{
+
+font-size: 20px;
+
+}
+
+  
+
+/*
+
+伪元素表示页面中一些特殊的, 并不真实存在的元素(特殊的位置),
+
+伪元素使用 :: 开头
+
+  
+
+::first-letter 第一个字母
+
+::first-line 第一行
+
+::selection 表示选中的内容
+
+  
+
+- before 和 after 必须结合 content属性使用
+
+::before 表示元素的起始位置
+
+::after 表示元素的结束位置
+
+  
+
+*/
+
+  
+
+p::first-letter{
+
+font-size: 50px;
+
+}
+
+  
+
+p::first-line{
+
+background-color: yellow;
+
+/* 背景颜色 */
+
+}
+
+  
+
+p::selection{
+
+background-color: greenyellow;
+
+}
+
+  
+
+div::before{
+
+/* 这个是关于位置的伪元素选择器 */
+
+content: '☞';
+
+/* 这个 content 是通过 css 架构添加的, 不是在 html 里的, 是无法选中的 */
+
+color: red;
+
+font-size: 25px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<q>hello</q>
+
+<!-- q 标签显示的双引号 和 before after 一样 -->
+
+<p>
+
+伪元素 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam suscipit autem sunt in similique totam aut rem temporibus delectus. Error, autem unde? Beatae rem odio quas illo error rerum tempore.
+
+</p>
+
+  
+
+<div>
+
+hallo hallo how are you ..
+
+</div>
+
+</body>
+
+</html>
+```
+
+
+###  4. 样式的继承
