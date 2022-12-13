@@ -12,3 +12,11 @@ urls: https://youtu.be/lsMQRaeKNDk
 - **RE**pres. 
 - **S**tate
 - **T**rans.
+
+## 特点
+- comm.
+- restful
+
+## 优点
+- simple/standful
+- 
