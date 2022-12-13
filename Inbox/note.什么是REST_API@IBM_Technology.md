@@ -8,3 +8,7 @@ urls: https://youtu.be/lsMQRaeKNDk
 
 # note.什么是REST_API@IBM_Technology
 
+## REST
+- **RE**pres. 
+- **S**tate
+- **T**rans.
