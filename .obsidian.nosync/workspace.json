@@ -8,18 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6fb0d5fdca0da65",
+            "id": "bd2779ec646b4354",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "日记/2022-12-22.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -151,7 +149,7 @@
     "width": 314.5,
     "collapsed": true
   },
-  "active": "e6fb0d5fdca0da65",
+  "active": "bd2779ec646b4354",
   "lastOpenFiles": [
     "日记/2022-11-01.md",
     "日记/2022-12-22.md",
