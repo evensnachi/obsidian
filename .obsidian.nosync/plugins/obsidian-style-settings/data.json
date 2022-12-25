@@ -18,6 +18,5 @@
   "listive-theme-settings@@list-guide-outliner-adj": "2px",
   "title@@custom-page-header": false,
   "title@@advanced-toolbar-mode": false,
-  "minimal-style@@minimal-code-scroll": true,
-  "minimal-style@@code-normal@@light": "#B7BAB9"
+  "minimal-style@@minimal-code-scroll": true
 }
