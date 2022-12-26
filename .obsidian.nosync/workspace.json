@@ -11,8 +11,13 @@
             "id": "93965a3b1c4addb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -67,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "4990d95c200463c3",
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
+              }
             }
           }
         ],
@@ -158,8 +166,8 @@
   },
   "active": "93965a3b1c4addb4",
   "lastOpenFiles": [
-    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "日记/2022-12-25.md",
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "日记/2022-11-03.md",
     "日记/2022-12-22.md",
     "日记/2022-11-01.md",
