@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8f6caf4a06f16e",
+        "id": "bd158dfdc1e249c0",
         "type": "tabs",
         "children": [
           {
-            "id": "93965a3b1c4addb4",
+            "id": "f7dcc24a1d4d9279",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -167,17 +165,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "93965a3b1c4addb4",
+  "active": "f7dcc24a1d4d9279",
   "lastOpenFiles": [
-    "Inbox/String.md",
+    "Inbox/JavaScript 数据类型.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+    "Inbox/JavaScript 标识符.md",
+    "Inbox/Number 数字.md",
+    "Inbox/String 字符串.md",
+    "concept.知识点/数据类型.md",
+    "note.笔记/note.数据结构精讲@研芝士.md",
+    "Inbox/JavaScript 变量.md",
     "Inbox/变量.md",
-    "Inbox/字面量.md",
-    "Inbox/User Datagram Protocol.md",
-    "日记/2022-12-26.md",
-    "日记/2022-12-25.md",
-    "日记/2022-11-03.md",
-    "日记/2022-12-22.md",
-    "日记/2022-11-01.md"
+    "Inbox/JavaScript 字面量.md"
   ]
 }
