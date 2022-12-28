@@ -94,12 +94,12 @@ console.log(a);  // NaN
 a = "123px";  
 a = parseInt(a);  
 console.log(typeof a);  // number
-console.log(a);  
+console.log(a);  // 123
 
 a = "123.456px";  
 a = parseFloat(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  // number
 ```
 
 - 如果对非 `String` 使用 `parseInt()` 或 `parseFloat()`
@@ -108,6 +108,6 @@ console.log(a);
 ```js
 a = true;  
 a = parseInt(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  // NaN
 ```
