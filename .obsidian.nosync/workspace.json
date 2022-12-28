@@ -10,16 +10,14 @@
           {
             "id": "f75b1ebaffd46879",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.研芝士.数据结构精讲@李嘉图.md",
+                "file": "Inbox/JavaScript 强制转换为 Number.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.研芝士.数据结构精讲@李嘉图.md",
+                "file": "Inbox/JavaScript 强制转换为 Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.研芝士.数据结构精讲@李嘉图.md",
+                "file": "Inbox/JavaScript 强制转换为 Number.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.研芝士.数据结构精讲@李嘉图.md"
+                "file": "Inbox/JavaScript 强制转换为 Number.md"
               }
             }
           }
@@ -169,15 +167,15 @@
   },
   "active": "f75b1ebaffd46879",
   "lastOpenFiles": [
-    "note.笔记/note.研芝士.数据结构精讲@李嘉图.md",
-    "Inbox/物理存储结构.md",
-    "concept.知识点/逻辑结构.md",
-    "concept.知识点/数据结构的三要素.md",
-    "concept.知识点/抽象数据类型.md",
-    "concept.知识点/ADT.md",
-    "concept.知识点/Abstract Data Type.md",
-    "Inbox/数据类型.md",
-    "concept.知识点/数据对象.md",
-    "concept.知识点/数据结构.md"
+    "Inbox/JavaScript 数据类型.md",
+    "Inbox/JavaScript 强制转换为 String.md",
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+    "Inbox/Undefined 未定义.md",
+    "Inbox/Null 空值.md",
+    "Inbox/Boolean 布尔值.md",
+    "Inbox/Number 数字.md",
+    "Inbox/String 字符串.md",
+    "日记/2022-12-28.md",
+    "note.笔记/note.研芝士.数据结构精讲@李嘉图.md"
   ]
 }
