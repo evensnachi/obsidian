@@ -7,6 +7,13 @@ aliases:
 
 # JavaScript 强制转换为 Number
 
+```js
+let a;  
+a = "123";  
+console.log(typeof a);  
+console.log(a);
+```
+
 ## 方法一: 
 
 - 使用 Number() 函数
@@ -16,6 +23,28 @@ aliases:
 - 如果是纯数字的字符串, 则将其直接转换为数字.  
 - 如果字符串中有非数字的内容, 则转换为NaN.  
 - 如果字符串是一个空串, 或者全是空格的, 转换为 0.
+
+```js
+a = "123";  
+a = Number(a);  
+console.log(typeof a);  
+console.log(a);
+
+a = "abc";  
+a = Number(a);  
+console.log(typeof a);  
+console.log(a);
+
+a = "";  
+a = Number(a);  
+console.log(typeof a);  
+console.log(a);
+
+a = "   ";  
+a = Number(a);  
+console.log(typeof a);  
+console.log(a);
+```
 
 ### 布尔值 --> 数字
 
