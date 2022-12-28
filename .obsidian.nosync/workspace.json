@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd158dfdc1e249c0",
+        "id": "07bb3d53fe3c84ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f7dcc24a1d4d9279",
+            "id": "6a3aef12c934562b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Number 数字.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Number 数字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Number 数字.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/Number 数字.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,13 +156,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f7dcc24a1d4d9279",
+  "active": "6a3aef12c934562b",
   "lastOpenFiles": [
+    "Inbox/Number 数字.md",
     "Inbox/JavaScript 数据类型.md",
     "Inbox/String 字符串.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "Inbox/JavaScript 标识符.md",
-    "Inbox/Number 数字.md",
     "concept.知识点/数据类型.md",
     "note.笔记/note.数据结构精讲@研芝士.md",
     "Inbox/JavaScript 变量.md",
