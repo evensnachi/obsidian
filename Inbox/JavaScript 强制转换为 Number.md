@@ -56,23 +56,23 @@ console.log(a);  // 0
 ```js
 a = true;  
 a = Number(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  // 1
 
 a = false;  
 a = Number(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a); // 0
 
 a = null;  
 a = Number(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  // 0
 
 a = undefined;  
 a = Number(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  // NaN
 ```
 
 ## 方法二:
@@ -93,8 +93,8 @@ console.log(a);
 ```js
 a = "123px";  
 a = parseInt(a);  
-console.log(typeof a);  
-console.log(a);
+console.log(typeof a);  // number
+console.log(a);  
 
 a = "123.456px";  
 a = parseFloat(a);  
