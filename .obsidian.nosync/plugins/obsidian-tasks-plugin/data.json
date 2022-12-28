@@ -1,5 +1,5 @@
 {
-  "globalFilter": "#task",
+  "globalFilter": "",
   "removeGlobalFilter": true,
   "setDoneDate": true,
   "autoSuggestInEditor": false,
