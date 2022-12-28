@@ -3,8 +3,8 @@
   "debug": false,
   "stickCursor": true,
   "betterEnter": true,
-  "betterTab": false,
+  "betterTab": true,
   "selectAll": true,
   "listLines": true,
-  "listLineAction": "toggle-folding"
+  "listLineAction": "zoom-in"
 }

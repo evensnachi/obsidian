@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "07bb3d53fe3c84ab",
+        "id": "ce7aab2499710404",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3aef12c934562b",
+            "id": "f75b1ebaffd46879",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-12-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2022-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2022-12-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2022-12-28.md"
+              }
             }
           }
         ],
@@ -156,17 +165,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6a3aef12c934562b",
+  "active": "f75b1ebaffd46879",
   "lastOpenFiles": [
+    "Inbox/note.freeCodeCamp.Harvard_CS50.md",
+    "日记/2022-12-28.md",
+    "Inbox/note.开发者学堂.设计模式.md",
+    "Inbox/note.尚硅谷.Java入门极速版@尚硅谷.md",
+    "note.笔记/note.尚硅谷.Web 前端基础教程(HTML, CSS)@李立超.md",
+    "模板/Dairy_日记模板.md",
     "Inbox/Number 数字.md",
     "Inbox/JavaScript 数据类型.md",
     "Inbox/String 字符串.md",
-    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
-    "Inbox/JavaScript 标识符.md",
-    "concept.知识点/数据类型.md",
-    "note.笔记/note.数据结构精讲@研芝士.md",
-    "Inbox/JavaScript 变量.md",
-    "Inbox/变量.md",
-    "Inbox/JavaScript 字面量.md"
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
   ]
 }
