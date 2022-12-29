@@ -27,3 +27,7 @@ This is a study note for JavaScript
 
 ## JavaScript 流程控制
 - [[JavaScript 流程控制]]
+
+## javascript 面向对象
+- [[JavaScript 对象基础]]
+- 
