@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/JavaScript 强制转换为 Number.md",
-                "mode": "source",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/JavaScript 强制转换为 Number.md",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/JavaScript 强制转换为 Number.md",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/JavaScript 强制转换为 Number.md"
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
               }
             }
           }

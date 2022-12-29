@@ -30,6 +30,7 @@ aliases: JavaScript DataType, JS DataType, JS 数据类型,
 
 - [[JavaScript 强制转换为 String]]
 - [[JavaScript 强制转换为 Number]]
+- [[]]
 
 
 

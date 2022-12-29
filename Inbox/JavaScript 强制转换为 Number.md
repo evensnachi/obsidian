@@ -111,3 +111,32 @@ a = parseInt(a);
 console.log(typeof a);  // number
 console.log(a);  // NaN
 ```
+
+## 进制之间的转换
+
+- 如果需要表示 16 进制的数字, 需要 `0x` 开头  
+- 如果需要表示 8 进制的数字, 需要以 `0` 或 `0o `开头  
+- 如果需要表示 2 进制的数字, 需要以 `0b` 开头
+
+```js
+var a;  
+
+/* 16进制 */
+a = 0x16;  
+console.log(a);  
+  
+/* 8 进制 */
+a = 0o70;  
+console.log(a);  
+  
+/* 2 进制 */
+a = 0b10;  
+console.log(a);
+
+/*像"070"这种字符串, 有些浏览器会当成 8 进制解析, 有的会 10 进制*/  
+a = "070";  
+/*可以在 parseInt() 中, 传递第二个参数, 来指定数字的进制*/  
+a = parseInt(a, 10);  
+console.log(typeof a);
+```
+
