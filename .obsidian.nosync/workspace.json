@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "日记/2022-12-29.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -167,6 +167,8 @@
   },
   "active": "f75b1ebaffd46879",
   "lastOpenFiles": [
+    "日记/2022-12-02.md",
+    "日记/2022-12-29.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "Inbox/JavaScript 数据类型.md",
     "Inbox/JavaScript 强制转换为 Number.md",
@@ -174,8 +176,6 @@
     "Inbox/Undefined 未定义.md",
     "Inbox/Null 空值.md",
     "Inbox/Boolean 布尔值.md",
-    "Inbox/Number 数字.md",
-    "Inbox/String 字符串.md",
-    "日记/2022-12-28.md"
+    "Inbox/Number 数字.md"
   ]
 }
