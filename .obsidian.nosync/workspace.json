@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
-                "mode": "preview",
+                "file": "日记/2022-12-29.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "file": "日记/2022-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "file": "日记/2022-12-29.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
+                "file": "日记/2022-12-29.md"
               }
             }
           }
@@ -167,10 +167,10 @@
   },
   "active": "f75b1ebaffd46879",
   "lastOpenFiles": [
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "Inbox/JavaScript 数据类型.md",
     "Inbox/JavaScript 强制转换为 Number.md",
     "Inbox/JavaScript 强制转换为 String.md",
-    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "Inbox/Undefined 未定义.md",
     "Inbox/Null 空值.md",
     "Inbox/Boolean 布尔值.md",
