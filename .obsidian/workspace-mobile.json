@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.work.工作/日式卤蛋汁.md",
+                "file": "09.work.工作/咖喱酱.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "09.work.工作/日式卤蛋汁.md",
+            "file": "09.work.工作/咖喱酱.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "09.work.工作/日式卤蛋汁.md",
+            "file": "09.work.工作/咖喱酱.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "09.work.工作/日式卤蛋汁.md"
+            "file": "09.work.工作/咖喱酱.md"
           }
         }
       }
@@ -124,6 +124,8 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "日记/2022-12-29.md",
+    "09.work.工作/日式卤蛋汁.md",
     "日记/2022-12-20.md",
     "09.work.工作/work.heat.备酱列表.md",
     "09.work.工作/甜酸酱.md",
@@ -131,8 +133,6 @@
     "09.work.工作/蒜蓉酱.md",
     "09.work.工作/照烧酱.md",
     "09.work.工作/咖喱酱.md",
-    "09.work.工作/辣照烧酱.md",
-    "日记/2022-12-07.md",
-    "Inbox/Book.DanskMatematik.md"
+    "09.work.工作/辣照烧酱.md"
   ]
 }
