@@ -14,7 +14,7 @@ aliases: JavaScript DataType, JS DataType, JS 数据类型,
 - [[Number 数字 ]] 
 - [[Boolean 布尔值]]  
 - [[Null 空值]]  
-- [[Undefined 未定义]]  
+- [[JavaScript Undefined 未定义]]  
   
 ### 第六种是引用数据类型  
 - [[Object]] 对象

@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Attachment",
   "showLineNumber": true,
   "trashOption": "system",
-  "newFileFolderPath": "Inbox",
+  "newFileFolderPath": "00.Inbox",
   "strictLineBreaks": false,
   "mobileToolbarCommands": [
     "editor:cycle-list-checklist",
