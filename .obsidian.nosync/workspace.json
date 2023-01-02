@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-01-01.md",
+                "file": "日记/2023-01-02.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-01-01.md",
+                "file": "日记/2023-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-01-01.md",
+                "file": "日记/2023-01-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-01-01.md"
+                "file": "日记/2023-01-02.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "cf8bdf01fa386b83",
   "lastOpenFiles": [
+    "日记/2023-01-01.md",
+    "日记/2023-01-02.md",
     "日记/2022-12-29.md",
     "日记/2022-12-30.md",
     "日记/2022-12-31.md",
-    "日记/2023-01-01.md",
     "00.Inbox/JavaScript Undefined 未定义.md",
     "00.Inbox/String 字符串.md",
     "00.Inbox/Untitled.md",
     "00.Inbox/Untitled 1.md",
-    "日记/2022-12-27.md",
-    "日记/2022-11-26.md"
+    "日记/2022-12-27.md"
   ]
 }
