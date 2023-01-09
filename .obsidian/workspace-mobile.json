@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-01-01 2.md",
-                "mode": "source",
+                "file": "00.Inbox/JavaScript 的三种输出方式.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2023-01-01 2.md",
+            "file": "00.Inbox/JavaScript 的三种输出方式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2023-01-01 2.md",
+            "file": "00.Inbox/JavaScript 的三种输出方式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2023-01-01 2.md"
+            "file": "00.Inbox/JavaScript 的三种输出方式.md"
           }
         }
       }
@@ -124,15 +124,15 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+    "日记/2023-01-08.md",
+    "09.work.工作/柚子汤底.md",
+    "09.work.工作/豚骨汁.md",
+    "00.Inbox/JavaScript 的三种输出方式.md",
+    "日记/2023-01-07.md",
+    "日记/2023-01-05.md",
     "日记/2023-01-04.md",
-    "日记/2023-01-03.md",
-    "09.work.工作/糖醋汁.md",
-    "日记/2023-01-01.md",
-    "09.work.工作/咖喱酱.md",
-    "日记/2022-12-29.md",
-    "09.work.工作/日式卤蛋汁.md",
-    "日记/2022-12-20.md",
-    "09.work.工作/work.heat.备酱列表.md",
-    "09.work.工作/甜酸酱.md"
+    "日记/2023-01-06.md",
+    "日记/2023-01-03.md"
   ]
 }
