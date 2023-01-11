@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
-                "mode": "source",
+                "file": "00.Inbox/JavaScript 数据类型.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "file": "00.Inbox/JavaScript 数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "file": "00.Inbox/JavaScript 数据类型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
+                "file": "00.Inbox/JavaScript 数据类型.md"
               }
             }
           }
@@ -167,15 +167,15 @@
   },
   "active": "d1157e8dfdfc75fc",
   "lastOpenFiles": [
+    "00.Inbox/Number 数字.md",
+    "00.Inbox/JavaScript 数据类型.md",
+    "00.Inbox/String 字符串.md",
+    "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+    "00.Inbox/JavaScript 标识符.md",
     "00.Inbox/JavaScript 变量.md",
-    "日记/2023-01-09.md",
-    "日记/2023-01-05.md",
-    "日记/2022-12-06.md",
-    "00.Inbox/booklet.FVU-matematik_Trin_2_1.April.2021-30.September.2021.md",
-    "日记/2023-01-01 2.md",
-    "日记/2023-01-01.md",
-    "日记/2023-01-02.md",
-    "日记/2022-12-29.md",
-    "日记/2022-12-30.md"
+    "00.Inbox/JavaScript 字面量.md",
+    "00.Inbox/JavaScript 基本语法.md",
+    "00.Inbox/JavaScript 编写位置.md",
+    "00.Inbox/JavaScript 的三种输出方式.md"
   ]
 }
