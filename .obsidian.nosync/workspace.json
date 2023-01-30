@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1157e8dfdfc75fc",
+            "id": "b5eeb82b0b574ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/JavaScript 数据类型.md",
-                "mode": "preview",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Inbox/JavaScript 数据类型.md",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Inbox/JavaScript 数据类型.md",
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Inbox/JavaScript 数据类型.md"
+                "file": "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md"
               }
             }
           }
@@ -165,17 +165,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d1157e8dfdfc75fc",
+  "active": "b5eeb82b0b574ebb",
   "lastOpenFiles": [
-    "00.Inbox/Number 数字.md",
     "00.Inbox/JavaScript 数据类型.md",
-    "00.Inbox/String 字符串.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
-    "00.Inbox/JavaScript 标识符.md",
-    "00.Inbox/JavaScript 变量.md",
-    "00.Inbox/JavaScript 字面量.md",
-    "00.Inbox/JavaScript 基本语法.md",
-    "00.Inbox/JavaScript 编写位置.md",
-    "00.Inbox/JavaScript 的三种输出方式.md"
+    "00.Inbox/JavaScript 强制转换为 Number.md",
+    "00.Inbox/JavaScript 强制转换为 String.md",
+    "concept.知识点/Object.md",
+    "00.Inbox/JavaScript Undefined 未定义.md",
+    "00.Inbox/Null 空值.md",
+    "00.Inbox/Boolean 布尔值.md",
+    "日记/2023-01-11.md",
+    "00.Inbox/Number 数字.md"
   ]
 }

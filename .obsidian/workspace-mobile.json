@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Inbox/JavaScript 基本语法.md",
+                "file": "日记/2023-01-17.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00.Inbox/JavaScript 基本语法.md",
+            "file": "日记/2023-01-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00.Inbox/JavaScript 基本语法.md",
+            "file": "日记/2023-01-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "00.Inbox/JavaScript 基本语法.md"
+            "file": "日记/2023-01-17.md"
           }
         }
       }
@@ -124,6 +124,7 @@
   },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "00.Inbox/JavaScript 基本语法.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "00.Inbox/JavaScript 编写位置.md",
     "00.Inbox/JavaScript 的三种输出方式.md",
@@ -132,7 +133,6 @@
     "09.work.工作/柚子汤底.md",
     "09.work.工作/豚骨汁.md",
     "日记/2023-01-07.md",
-    "日记/2023-01-05.md",
-    "日记/2023-01-04.md"
+    "日记/2023-01-05.md"
   ]
 }

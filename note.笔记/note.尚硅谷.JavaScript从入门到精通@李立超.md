@@ -23,11 +23,3 @@ This is a study note for JavaScript
 ## JavaScript 数据类型
 
 - [[JavaScript 数据类型]]
-- [[JavaScript 运算符]]
-
-## JavaScript 流程控制
-- [[JavaScript 流程控制]]
-
-## javascript 面向对象
-- [[JavaScript 对象基础]]
-- 
