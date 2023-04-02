@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -167,6 +167,7 @@
   "active": "d2de3fa74a238294",
   "lastOpenFiles": [
     "01.topic.主题/topic.Dansk@FVU.md",
+    "note.笔记/note.Grammatikkursus@Bodil·Aline.md",
     "日记/2023-01-30.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "00.Inbox/JavaScript 数据类型.md",
@@ -174,7 +175,6 @@
     "00.Inbox/JavaScript 强制转换为 String.md",
     "concept.知识点/Object.md",
     "00.Inbox/JavaScript Undefined 未定义.md",
-    "00.Inbox/Null 空值.md",
-    "00.Inbox/Boolean 布尔值.md"
+    "00.Inbox/Null 空值.md"
   ]
 }

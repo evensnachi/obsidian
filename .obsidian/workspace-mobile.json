@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-01-17.md",
-                "mode": "preview",
+                "file": "日记/2023-02-25.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2023-01-17.md",
+            "file": "日记/2023-02-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2023-01-17.md",
+            "file": "日记/2023-02-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,24 +115,39 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2023-01-17.md"
+            "file": "日记/2023-02-25.md"
           }
         }
       }
     ],
     "currentTab": 1
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
   "active": "e13d4fca48464f6e",
   "lastOpenFiles": [
+    "09.work.工作/糖醋汁.md",
+    "日记/2023-02-25.md",
+    "09.work.工作/甜酸酱.md",
+    "09.work.工作/日式卤蛋汁.md",
+    "日记/2023-02-04.md",
+    "日记/2023-01-17.md",
     "00.Inbox/JavaScript 基本语法.md",
     "note.笔记/note.尚硅谷.JavaScript从入门到精通@李立超.md",
     "00.Inbox/JavaScript 编写位置.md",
     "00.Inbox/JavaScript 的三种输出方式.md",
     "日记/2023-01-09.md",
-    "日记/2023-01-08.md",
-    "09.work.工作/柚子汤底.md",
-    "09.work.工作/豚骨汁.md",
-    "日记/2023-01-07.md",
-    "日记/2023-01-05.md"
+    "日记/2023-01-08.md"
   ]
 }
